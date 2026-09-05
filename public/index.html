@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Abrechnungspilot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1><img src="logo.png" alt="Abrechnungspilot" class="logo" /></h1>
+    <p class="subtitle">Beschreibe eine Behandlung – die App schlägt passende GOZ-/BEMA-Ziffern vor und erklärt, warum.</p>
+  </header>
+
+  <main>
+    <fieldset class="modus-auswahl">
+      <legend>Abrechnungsmodus</legend>
+      <label><input type="radio" name="modus" value="goz" /> Nur GOZ (Privatpatient)</label>
+      <label><input type="radio" name="modus" value="bema" /> Nur BEMA (Kassenpatient)</label>
+      <label><input type="radio" name="modus" value="beide" checked /> Beides</label>
+    </fieldset>
+
+    <div class="eingabe-tabs" role="tablist">
+      <button type="button" class="eingabe-tab-btn active" data-mode="freitext">Freitext</button>
+      <button type="button" class="eingabe-tab-btn" data-mode="gefuehrt">Geführt</button>
+      <button type="button" class="eingabe-tab-btn" data-mode="suche">Nachschlagen</button>
+      <button type="button" class="eingabe-tab-btn" data-mode="fragen">Fragen</button>
+    </div>
+
+    <section id="panel-freitext" class="eingabe-panel">
+      <form id="eingabe-form">
+        <label for="beschreibung">Behandlungsbeschreibung</label>
+        <textarea
+          id="beschreibung"
+          name="beschreibung"
+          rows="4"
+          placeholder="z. B. Extraktion 36, Leitungsanästhesie, Nahtverschluss mit 3 Nähten"
+          required
+        ></textarea>
+
+        <button type="submit" id="submit-btn">Ziffern vorschlagen</button>
+      </form>
+    </section>
+
+    <section id="panel-gefuehrt" class="eingabe-panel" hidden>
+      <div id="wizard"></div>
+    </section>
+
+    <section id="panel-suche" class="eingabe-panel" hidden>
+      <input
+        type="text"
+        id="suche-eingabe"
+        class="suche-feld"
+        placeholder="Ziffer oder Stichwort eingeben, z. B. „3010“ oder „Füllung“"
+      />
+      <p id="suche-status" class="suche-status"></p>
+      <div id="suche-ergebnisse" class="suche-ergebnisse"></div>
+    </section>
+
+    <section id="panel-fragen" class="eingabe-panel" hidden>
+      <div id="chat-verlauf" class="chat-verlauf">
+        <p class="chat-leer-hinweis">Stelle eine Frage zur GOZ-/BEMA-Abrechnung, z.&nbsp;B. „Wie oft kann ich UPT bei Grad B abrechnen?“ oder „Ist GOZ 2030 neben 2040 abrechenbar?“. Die Antworten basieren ausschließlich auf den offiziellen Ziffernkatalogen dieser App.</p>
+      </div>
+      <form id="chat-form" class="chat-form">
+        <textarea
+          id="chat-eingabe"
+          rows="2"
+          placeholder="Deine Abrechnungsfrage … (Enter zum Senden, Shift+Enter für Zeilenumbruch)"
+          required
+        ></textarea>
+        <div class="chat-form-aktionen">
+          <button type="button" id="chat-neu-btn" class="chat-neu-btn">Neuer Chat</button>
+          <button type="submit" id="chat-senden-btn">Senden</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="status" class="status" hidden></section>
+
+    <section id="ergebnis" class="ergebnis" hidden>
+      <h2>Vorschläge</h2>
+      <p id="regelpruef-hinweis" class="regelpruef-hinweis" hidden></p>
+      <div id="vorschlaege-liste"></div>
+
+      <div id="komplementaer-box" class="komplementaer-box" hidden>
+        <h3>Komplementärleistungen</h3>
+        <p class="komplementaer-erklaerung">Diese Schritte gehören bei dieser Behandlungsart in der Praxis fast immer dazu – prüfe, ob sie bei dir auch angefallen sind, und trage sie ggf. in die Akte ein.</p>
+        <div id="komplementaer-liste"></div>
+      </div>
+
+      <div id="hinweise-box" class="hinweise-box" hidden>
+        <h3>Häufig vergessene Zusatzpositionen &amp; Hinweise</h3>
+        <ul id="hinweise-liste"></ul>
+      </div>
+
+      <div id="festzuschuss-box" class="festzuschuss-box" hidden>
+        <h3>Festzuschuss (GKV-Zahnersatz)</h3>
+        <div id="festzuschuss-inhalt"></div>
+      </div>
+
+      <div id="laborkosten-box" class="laborkosten-box" hidden>
+        <h3>Material-/Laborkosten</h3>
+        <div id="laborkosten-inhalt"></div>
+      </div>
+
+      <div class="ergebnis-chat-box">
+        <h3>Rückfragen zu diesem Ergebnis</h3>
+        <div id="ergebnis-chat-verlauf" class="chat-verlauf ergebnis-chat-verlauf"></div>
+        <form id="ergebnis-chat-form" class="chat-form">
+          <textarea
+            id="ergebnis-chat-eingabe"
+            rows="2"
+            placeholder="Frage zu diesem Ergebnis … (Enter zum Senden, Shift+Enter für Zeilenumbruch)"
+            required
+          ></textarea>
+          <div class="chat-form-aktionen">
+            <span></span>
+            <button type="submit" id="ergebnis-chat-senden-btn">Senden</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <p class="disclaimer">
+      Hinweis: Diese Vorschläge sind eine Lern- und Nachschlagehilfe und ersetzen keine verbindliche
+      Abrechnungsprüfung. Bitte immer fachlich gegenprüfen.
+    </p>
+    <p class="datenschutz-hinweis">🔒 Bitte gib keine Patientennamen oder sonstigen personenbezogenen Patientendaten ein – nur rein fachliche Angaben zur Behandlung (z.&nbsp;B. „Füllung Zahn 46, zweiflächig“).</p>
+  </main>
+
+  <footer class="fusszeile">
+    <a href="impressum.html">Impressum</a>
+    <span aria-hidden="true">·</span>
+    <a href="datenschutz.html">Datenschutz</a>
+  </footer>
+
+  <script src="behandlungsbaum.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

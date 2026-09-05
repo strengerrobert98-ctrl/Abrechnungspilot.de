@@ -1,0 +1,19 @@
+{
+  "quelle": "gesetze-im-internet.de – GOZ § 8 (Entschädigungen); BEMA-Bestimmung verweist für Wegegeld/Reiseentschädigung ausdrücklich auf § 8 Abs. 2 und 3 GOZ, gilt also identisch für BEMA- und GOZ-Patienten",
+  "stand_abgerufen": "2026-09-05",
+  "hinweis": "Wegegeld bzw. Reiseentschädigung ist eine Entschädigung für Besuche (Hausbesuche), zusätzlich zur eigentlichen Besuchsgebühr (GOÄ 48/50/51 bzw. BEMA 151-155) abrechenbar. Sie ist unabhängig von der Anzahl gleichzeitig besuchter Patienten in derselben häuslichen Gemeinschaft/demselben Heim nur einmal (anteilig) berechenbar.",
+  "wegegeld_tabelle": [
+    { "entfernung": "bis 2 km", "tag_euro": 4.30, "nacht_euro": 8.60 },
+    { "entfernung": "mehr als 2 bis 5 km", "tag_euro": 8.00, "nacht_euro": 12.30 },
+    { "entfernung": "mehr als 5 bis 10 km", "tag_euro": 12.30, "nacht_euro": 18.40 },
+    { "entfernung": "mehr als 10 bis 25 km", "tag_euro": 18.40, "nacht_euro": 30.70 }
+  ],
+  "wegegeld_erlaeuterung": "Radius um die Praxisstelle des Zahnarztes (oder dessen Wohnung, falls von dort aus besucht wird). 'Nacht' = zwischen 20 und 8 Uhr.",
+  "reiseentschaedigung_ab_25km": {
+    "km_pauschale_euro": 0.42,
+    "km_pauschale_hinweis": "je gefahrenem Kilometer bei Nutzung eines eigenen Kraftwagens; bei anderen Verkehrsmitteln die tatsächlichen Aufwendungen",
+    "tagegeld_bis_8h_euro": 56.00,
+    "tagegeld_ueber_8h_euro": 112.50,
+    "uebernachtung": "Ersatz der tatsächlichen notwendigen Übernachtungskosten"
+  }
+}

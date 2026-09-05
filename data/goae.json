@@ -1,0 +1,401 @@
+{
+  "quelle": "gesetze-im-internet.de – GOÄ (Gebührenordnung für Ärzte), Anlage (Gebührenverzeichnis für ärztliche Leistungen), Abschnitt B.I., sowie GOZ Anlage 1, Allgemeine Bestimmung Nr. 1",
+  "stand_abgerufen": "2026-09-05",
+  "punktwert_cent": 5.82873,
+  "hinweis": "Die GOZ enthält keine eigene Ziffer für eine reine Beratung (die Nummerierung springt von 0010 direkt auf 0030). Stattdessen erlaubt die GOZ in ihrer Allgemeinen Bestimmung Nr. 1 zu Abschnitt A ausdrücklich den Rückgriff auf die Beratungsgebühren Nr. 1 und Nr. 3 des ärztlichen Gebührenverzeichnisses (GOÄ). Diese Ziffern haben einen eigenen, von der GOZ abweichenden Punktwert (5,82873 Cent statt 5,62421 Cent). Ergänzt um die in GOZ § 6 Abs. 2 explizit genannten weiteren GOÄ-Abschnitte, soweit für die zahnärztliche Praxis relevant: allgemeine Leistungen (Besuch/Hausbesuch, Berichte, Erörterung einer schwerwiegenden Diagnose), die im Rahmen von Kieferbrüchen anwendbaren Knochenchirurgie-Ziffern aus GOÄ L V/L VI, sowie der komplette (uneingeschränkt anwendbare) Abschnitt L IX 'Mund-, Kiefer- und Gesichtschirurgie'. Außerdem GOÄ 5000/5002/5004 (Röntgendiagnostik Zähne/Kiefer, Abschnitt O.I, uneingeschränkt anwendbar) als Pendant zu den BEMA-Röntgenziffern (Ä925 ff.), da die GOZ selbst keine eigene Röntgen-Ziffer enthält.",
+  "ziffern": [
+    {
+      "ziffer": "1",
+      "leistungstext": "Beratung – auch mittels Fernsprecher –",
+      "punktzahl": 80,
+      "anmerkungen": [
+        "Eine Beratungsgebühr nach Nummer 1 darf im Behandlungsfall nur einmal zusammen mit einer Gebühr für eine Leistung nach dem GOZ-Gebührenverzeichnis und für eine Leistung aus den Abschnitten C bis O des Gebührenverzeichnisses für ärztliche Leistungen berechnet werden. Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des Zahnarztes."
+      ]
+    },
+    {
+      "ziffer": "3",
+      "leistungstext": "Eingehende, das gewöhnliche Maß übersteigende Beratung – auch mittels Fernsprecher –",
+      "punktzahl": 150,
+      "anmerkungen": [
+        "Mindestdauer 10 Minuten. Nur berechnungsfähig als einzige Leistung oder im Zusammenhang mit einer Untersuchung nach GOZ-Nummer 0010 oder einer Untersuchung nach den Nummern 5 oder 6 des Gebührenverzeichnisses für ärztliche Leistungen. Andere weitere Leistungen dürfen neben der Leistung nach Nummer 3 nicht berechnet werden. Eine mehr als einmalige Berechnung im Behandlungsfall bedarf einer besonderen Begründung. Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des Zahnarztes."
+      ]
+    },
+    {
+      "ziffer": "34",
+      "leistungstext": "Erörterung (Dauer mindestens 20 Minuten) der Auswirkungen einer Krankheit auf die Lebensgestaltung in unmittelbarem Zusammenhang mit der Feststellung oder erheblichen Verschlimmerung einer nachhaltig lebensverändernden oder lebensbedrohenden Erkrankung – gegebenenfalls einschließlich Planung eines operativen Eingriffs und Abwägung seiner Konsequenzen und Risiken –, einschließlich Beratung – gegebenenfalls unter Einbeziehung von Bezugspersonen –",
+      "punktzahl": 300
+    },
+    {
+      "ziffer": "48",
+      "leistungstext": "Besuch eines Patienten auf einer Pflegestation (z. B. in Alten- oder Pflegeheimen) – bei regelmäßiger Tätigkeit des Arztes auf der Pflegestation zu vorher vereinbarten Zeiten –",
+      "punktzahl": 120,
+      "anmerkungen": [
+        "Die Leistung nach Nummer 48 ist neben den Leistungen nach den Nummern 1, 50, 51 und/oder 52 nicht berechnungsfähig."
+      ]
+    },
+    {
+      "ziffer": "50",
+      "leistungstext": "Besuch, einschließlich Beratung und symptombezogene Untersuchung",
+      "punktzahl": 320,
+      "anmerkungen": [
+        "Die Leistung nach Nummer 50 darf anstelle oder neben einer Leistung nach Nummer 45 oder 46 nicht berechnet werden. Neben der Leistung nach Nummer 50 sind die Leistungen nach den Nummern 1, 5, 48 und/oder 52 nicht berechnungsfähig."
+      ]
+    },
+    {
+      "ziffer": "51",
+      "leistungstext": "Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbarem zeitlichen Zusammenhang mit der Leistung nach Nummer 50 – einschließlich Beratung und symptombezogener Untersuchung –",
+      "punktzahl": 250,
+      "anmerkungen": [
+        "Die Leistung nach Nummer 51 darf anstelle oder neben einer Leistung nach Nummer 45 oder 46 nicht berechnet werden. Neben der Leistung nach Nummer 51 sind die Leistungen nach den Nummern 1, 5, 48 und/oder 52 nicht berechnungsfähig."
+      ]
+    },
+    {
+      "ziffer": "70",
+      "leistungstext": "Kurze Bescheinigung oder kurzes Zeugnis, Arbeitsunfähigkeitsbescheinigung",
+      "punktzahl": 40
+    },
+    {
+      "ziffer": "75",
+      "leistungstext": "Ausführlicher schriftlicher Krankheits- und Befundbericht (einschließlich Angaben zur Anamnese, zu dem(n) Befund(en), zur epikritischen Bewertung und gegebenenfalls zur Therapie)",
+      "punktzahl": 130,
+      "anmerkungen": [
+        "Die Befundmitteilung oder der einfache Befundbericht ist mit der Gebühr für die zugrundeliegende Leistung abgegolten."
+      ]
+    },
+    {
+      "ziffer": "2253",
+      "leistungstext": "Knochenspanentnahme",
+      "punktzahl": 647,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2254",
+      "leistungstext": "Implantation von Knochen",
+      "punktzahl": 739,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2255",
+      "leistungstext": "Freie Verpflanzung eines Knochens oder von Knochenteilen (Knochenspäne)",
+      "punktzahl": 1480,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2256",
+      "leistungstext": "Knochenaufmeißelung oder Nekrotomie bei kleinen Knochen",
+      "punktzahl": 463,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2321",
+      "leistungstext": "Einrichtung eines gebrochenen Gesichtsknochens – gegebenenfalls einschließlich Wundverband –",
+      "punktzahl": 227,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2355",
+      "leistungstext": "Operative Stabilisierung einer Pseudarthrose oder operative Korrektur eines in Fehlstellung verheilten Knochenbruchs",
+      "punktzahl": 1110,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2356",
+      "leistungstext": "Operative Stabilisierung einer Pseudarthrose oder operative Korrektur eines in Fehlstellung verheilten Knochenbruchs nach Osteotomie mittels Nagelung, Verschraubung und/oder Metallplatten und/oder äußerem Spanner – auch zusätzliches Einpflanzen von Knochenspan –",
+      "punktzahl": 1480,
+      "anmerkungen": [
+        "Nach GOZ § 6 Abs. 2 Nr. 5 darf der Zahnarzt diese GOÄ-Ziffer NUR im Rahmen der Behandlung von Kieferbrüchen abrechnen (nicht für sonstige Knochenchirurgie außerhalb dieses Kontexts)."
+      ]
+    },
+    {
+      "ziffer": "2620",
+      "punktzahl": 750,
+      "leistungstext": "Operation der isolierten Lippenspalte"
+    },
+    {
+      "ziffer": "2621",
+      "punktzahl": 1500,
+      "leistungstext": "Operation der breiten Lippen-Kieferspalte mit Naseneingangsplastik"
+    },
+    {
+      "ziffer": "2622",
+      "punktzahl": 9000,
+      "leistungstext": "Plastisch-chirurgische Behandlung einer kompletten Gesichtsspalte – einschließlich Osteotomien und Osteoplastiken –"
+    },
+    {
+      "ziffer": "2625",
+      "punktzahl": 1250,
+      "leistungstext": "Verschluß des weichen oder harten Gaumens oder Verschluß von perforierenden Defekten im Bereich von Gaumen oder Vestibulum"
+    },
+    {
+      "ziffer": "2626",
+      "punktzahl": 2500,
+      "leistungstext": "Velopharyngoplastik"
+    },
+    {
+      "ziffer": "2627",
+      "punktzahl": 2000,
+      "leistungstext": "Verschluß des harten und weichen Gaumens"
+    },
+    {
+      "ziffer": "2630",
+      "punktzahl": 6000,
+      "leistungstext": "Operative Rekonstruktion eines Mittelgesichts – einschließlich Osteotomie und/oder Osteoplastik –"
+    },
+    {
+      "ziffer": "2640",
+      "punktzahl": 1200,
+      "leistungstext": "Operative Verlagerung des Oberkiefers bei Dysgnathie, je Kieferhälfte"
+    },
+    {
+      "ziffer": "2642",
+      "punktzahl": 1850,
+      "leistungstext": "Operative Verlagerung des Unterkiefers bei Dysgnathie, je Kieferhälfte"
+    },
+    {
+      "ziffer": "2650",
+      "punktzahl": 740,
+      "leistungstext": "Entfernung eines extrem verlagerten oder retinierten Zahnes durch umfangreiche Osteotomie bei gefährdeten anatomischen Nachbarstrukturen"
+    },
+    {
+      "ziffer": "2651",
+      "punktzahl": 550,
+      "leistungstext": "Entfernung tiefliegender Fremdkörper oder Sequestrotomie durch Osteotomie aus dem Kiefer"
+    },
+    {
+      "ziffer": "2655",
+      "punktzahl": 950,
+      "leistungstext": "Operation einer ausgedehnten Kieferzyste – über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich – durch Zystektomie"
+    },
+    {
+      "ziffer": "2656",
+      "punktzahl": 620,
+      "leistungstext": "Operation einer ausgedehnten Kieferzyste – über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich – durch Zystektomie in Verbindung mit der Entfernung retinierter oder verlagerter Zähne und/oder Wurzelspitzenresektion"
+    },
+    {
+      "ziffer": "2657",
+      "punktzahl": 760,
+      "leistungstext": "Operation einer ausgedehnten Kieferzyste – über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich – durch Zystostomie"
+    },
+    {
+      "ziffer": "2658",
+      "punktzahl": 500,
+      "leistungstext": "Operation einer ausgedehnten Kieferzyste – über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich – durch Zystostomie in Verbindung mit der Entfernung retinierter oder verlagerter Zähne und/oder Wurzelspitzenresektion"
+    },
+    {
+      "ziffer": "2660",
+      "punktzahl": 400,
+      "leistungstext": "Operative Behandlung einer konservativ unstillbaren Blutung im Mund-Kieferbereich durch Freilegung und Abbinden oder Umstechung des Gefäßes oder durch Knochenbolzung, als selbständige Leistung"
+    },
+    {
+      "ziffer": "2670",
+      "punktzahl": 500,
+      "leistungstext": "Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung"
+    },
+    {
+      "ziffer": "2671",
+      "punktzahl": 300,
+      "leistungstext": "Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je Kieferhälfte oder Frontzahnbereich, in Verbindung mit den Leistungen nach Nummer 2675 oder 2676"
+    },
+    {
+      "ziffer": "2675",
+      "punktzahl": 850,
+      "leistungstext": "Partielle Vestibulum- oder Mundbodenplastik oder große Tuberplastik, je Kieferhälfte oder Frontzahnbereich"
+    },
+    {
+      "ziffer": "2676",
+      "punktzahl": 2200,
+      "leistungstext": "Totale Mundboden- oder Vestibulumplastik zur Formung des Prothesenlagers mit partieller Ablösung der Mundbodenmuskulatur, je Kiefer"
+    },
+    {
+      "ziffer": "2677",
+      "punktzahl": 700,
+      "leistungstext": "Submuköse Vestibulumplastik, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung"
+    },
+    {
+      "ziffer": "2680",
+      "punktzahl": 100,
+      "leistungstext": "Einrenkung der Luxation des Unterkiefers"
+    },
+    {
+      "ziffer": "2681",
+      "punktzahl": 400,
+      "leistungstext": "Einrenkung der alten Luxation des Unterkiefers"
+    },
+    {
+      "ziffer": "2682",
+      "punktzahl": 1400,
+      "leistungstext": "Operative Einrenkung der Luxation eines Kiefergelenks"
+    },
+    {
+      "ziffer": "2685",
+      "punktzahl": 200,
+      "leistungstext": "Reposition eines Zahnes"
+    },
+    {
+      "ziffer": "2686",
+      "punktzahl": 300,
+      "leistungstext": "Reposition eines zahntragenden Bruchstücks des Alveolarfortsatzes"
+    },
+    {
+      "ziffer": "2687",
+      "punktzahl": 1300,
+      "leistungstext": "Allmähliche Reposition des gebrochenen Ober- oder Unterkiefers oder eines schwer einstellbaren oder verkeilten Bruchstücks des Alveolarfortsatzes"
+    },
+    {
+      "ziffer": "2688",
+      "punktzahl": 750,
+      "leistungstext": "Fixation bei nicht dislozierter Kieferfraktur durch Osteosynthese oder Aufhängung"
+    },
+    {
+      "ziffer": "2690",
+      "punktzahl": 1000,
+      "leistungstext": "Operative Reposition und Fixation durch Osteosynthese bei Unterkieferbruch, je Kieferhälfte"
+    },
+    {
+      "ziffer": "2691",
+      "punktzahl": 3600,
+      "leistungstext": "Operative Reposition und Fixation durch Osteosynthese bei Aussprengung des Oberkiefers an der Schädelbasis"
+    },
+    {
+      "ziffer": "2692",
+      "punktzahl": 1500,
+      "leistungstext": "Operative Reposition und Fixation durch Osteosynthese bei Kieferbruch im Mittelgesichtsbereich – gegebenenfalls einschließlich Jochbeinbruch und/oder Nasenbeinbruch –, je Kieferhälfte"
+    },
+    {
+      "ziffer": "2693",
+      "punktzahl": 1200,
+      "leistungstext": "Operative Reposition und Fixation einer isolierten Orbitaboden-, Jochbein- oder Jochbogenfraktur"
+    },
+    {
+      "ziffer": "2694",
+      "punktzahl": 450,
+      "leistungstext": "Operative Entfernung von Osteosynthesematerial aus einem Kiefer- oder Gesichtsknochen, je Fraktur"
+    },
+    {
+      "ziffer": "2695",
+      "punktzahl": 2700,
+      "leistungstext": "Einrichtung und Fixation eines gebrochenen Kiefers außerhalb der Zahnreihen durch intra- und extraorale Schienenverbände und Stützapparate"
+    },
+    {
+      "ziffer": "2696",
+      "punktzahl": 500,
+      "leistungstext": "Drahtumschlingung des Unterkiefers oder oro-faziale Drahtaufhängung, auch beidseitig"
+    },
+    {
+      "ziffer": "2697",
+      "punktzahl": 350,
+      "leistungstext": "Anlegen von Drahtligaturen, Drahthäkchen oder dergleichen, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung"
+    },
+    {
+      "ziffer": "2698",
+      "punktzahl": 1500,
+      "leistungstext": "Anlegen und Fixation einer Schiene am unverletzten Ober- oder Unterkiefer"
+    },
+    {
+      "ziffer": "2699",
+      "punktzahl": 2200,
+      "leistungstext": "Anlegen und Fixation einer Schiene am gebrochenen Ober- oder Unterkiefer"
+    },
+    {
+      "ziffer": "2700",
+      "punktzahl": 350,
+      "leistungstext": "Anlegen von Stütz-, Halte- oder Hilfsvorrichtungen (z.B. Verbandsplatte, Pelotte) am Ober- oder Unterkiefer oder bei Kieferklemme"
+    },
+    {
+      "ziffer": "2701",
+      "punktzahl": 1800,
+      "leistungstext": "Anlegen von extraoralen Stütz-, Halte- oder Hilfsvorrichtungen, einer Verbands- oder Verschlußplatte, Pelotte oder dergleichen – im Zusammenhang mit plastischen Operationen oder zur Verhütung oder Behandlung von Narbenkontrakturen –"
+    },
+    {
+      "ziffer": "2702",
+      "punktzahl": 300,
+      "leistungstext": "Wiederanbringung einer gelösten Apparatur oder kleine Änderungen, teilweise Erneuerung von Schienen oder Stützapparaten – auch Entfernung von Schienen oder Stützapparaten –, je Kiefer"
+    },
+    {
+      "ziffer": "2705",
+      "punktzahl": 1700,
+      "leistungstext": "Osteotomie nach disloziert verheilter Fraktur im Mittelgesicht – einschließlich Osteosynthese –"
+    },
+    {
+      "ziffer": "2706",
+      "punktzahl": 1300,
+      "leistungstext": "Osteotomie nach disloziert verheilter Fraktur im Unterkiefer – einschließlich Osteosynthese"
+    },
+    {
+      "ziffer": "2710",
+      "punktzahl": 1100,
+      "leistungstext": "Partielle Resektion des Ober- oder Unterkiefers – auch Segmentosteotomie –, als selbständige Leistung"
+    },
+    {
+      "ziffer": "2711",
+      "punktzahl": 750,
+      "leistungstext": "Partielle Resektion des Ober- oder Unterkiefers – auch Segmentosteotomie –, in Verbindung mit den Leistungen nach Nummer 2640 oder 2642"
+    },
+    {
+      "ziffer": "2712",
+      "punktzahl": 3000,
+      "leistungstext": "Halbseitenresektion des Ober- oder Unterkiefers"
+    },
+    {
+      "ziffer": "2715",
+      "punktzahl": 2000,
+      "leistungstext": "Suprahyoidale Lymphknotenausräumung einer Seite – einschließlich Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und Gefäßen –"
+    },
+    {
+      "ziffer": "2716",
+      "punktzahl": 5000,
+      "leistungstext": "Radikale Halslymphknotenausräumung einer Seite – einschließlich Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und Gefäßen –"
+    },
+    {
+      "ziffer": "2720",
+      "punktzahl": 800,
+      "leistungstext": "Osteotomie im Zusammenhang mit operativen Eingriffen am Mundboden – einschließlich Osteosynthese –"
+    },
+    {
+      "ziffer": "2730",
+      "punktzahl": 500,
+      "leistungstext": "Operative Maßnahmen zur Lagerbildung beim Aufbau des Alveolarfortsatzes, je Kieferhälfte oder Frontzahnbereich"
+    },
+    {
+      "ziffer": "2732",
+      "punktzahl": 2000,
+      "leistungstext": "Operation zur Lagerbildung für Knochen oder Knorpel bei ausgedehnten Kieferdefekten"
+    },
+    {
+      "ziffer": "5000",
+      "leistungstext": "Zähne, je Projektion",
+      "punktzahl": 50,
+      "anmerkungen": [
+        "Werden mehrere Zähne mittels einer Röntgenaufnahme erfasst, darf die Leistung nach Nummer 5000 nur einmal und nicht je aufgenommenem Zahn berechnet werden. Allgemeine Bestimmungen des GOÄ-Abschnitts O: Die Befundmitteilung/der einfache Befundbericht ist mit der Gebühr abgegolten (nicht gesondert berechnungsfähig). Die bloße Beurteilung einer bereits vorhandenen Röntgenaufnahme (auch Fremdaufnahme) als eigenständige Leistung ist nicht berechnungsfähig."
+      ]
+    },
+    {
+      "ziffer": "5002",
+      "leistungstext": "Panoramaaufnahme(n) eines Kiefers",
+      "punktzahl": 250,
+      "anmerkungen": [
+        "Allgemeine Bestimmungen des GOÄ-Abschnitts O: Die Befundmitteilung/der einfache Befundbericht ist mit der Gebühr abgegolten (nicht gesondert berechnungsfähig). Die bloße Beurteilung einer bereits vorhandenen Röntgenaufnahme (auch Fremdaufnahme) als eigenständige Leistung ist nicht berechnungsfähig."
+      ]
+    },
+    {
+      "ziffer": "5004",
+      "leistungstext": "Panoramaschichtaufnahme der Kiefer",
+      "punktzahl": 400,
+      "anmerkungen": [
+        "Allgemeine Bestimmungen des GOÄ-Abschnitts O: Die Befundmitteilung/der einfache Befundbericht ist mit der Gebühr abgegolten (nicht gesondert berechnungsfähig). Die bloße Beurteilung einer bereits vorhandenen Röntgenaufnahme (auch Fremdaufnahme) als eigenständige Leistung ist nicht berechnungsfähig."
+      ]
+    }
+  ]
+}

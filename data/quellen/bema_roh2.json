@@ -1,0 +1,3791 @@
+[
+  {
+    "ziffer": "Ä 1",
+    "body_lines": [
+      "Beratung eines Kranken, auch fernmündlich",
+      "1. Eine Leistung nach Nr. Ä 1 kann als alleinige Leistung oder",
+      "der ersten zahnärztlichen Leistung abgerechnet werden. Sie",
+      "doch neben Nr. 01 nicht abgerechnet werden, wenn beide Leistungen",
+      "in derselben Sitzung erbracht werden. Ferner kann eine Beratungs-",
+      "gebühr nicht neben einer Gebühr für einen Besuch abgerechnet",
+      "den.",
+      "2. Wenn in dem Behandlungsfall bereits eine Beratungs- oder Besuchs-",
+      "gebühr abgerechnet worden ist, kann auch neben der ersten",
+      "ärztlichen Leistung eine Beratungsgebühr nicht abgerechnet",
+      "3. Eine Leistung nach Nr. Ä 1 kann nicht anstelle einer Gebühr",
+      "andere zahnärztliche Leistung abgerechnet werden.",
+      "4. Über die Nrn. Ä 1, 01k und 01 hinausgehende Möglichkeiten",
+      "rechnung einer Untersuchung und/oder Beratung bestehen",
+      "5. Eine Leistung nach Nr. Ä 1 zum Zwecke des Abschlusses einer",
+      "ärztlichen Behandlung ist keine abrechnungsfähige Leistung.",
+      "6. Die Tatsache, dass sich ein Krankheitsfall über mehrere",
+      "nungszeiträume erstreckt (z. B. Wurzelbehandlung, Maßnahmen",
+      "nach chirurgischen Eingriffen), berechtigt für sich allein den",
+      "nicht, in jedem neuen Abrechnungszeitraum die Nr. Ä 1 abzurechnen.",
+      "7. Erstreckt sich ein Krankheitsfall über mehrere Abrechnungszeit-",
+      "räume (Quartale), so ist nach vorausgegangener Leistung",
+      "Nr. 01 oder Ä 1 die Nr. Ä 1 im Folgequartal nur abrechnungsfähig,",
+      "wenn zwischen der Leistung nach Nr. 01 oder Ä 1 im Vorquartal",
+      "der Leistung nach Nr. Ä 1 im Folgequartal ein Zeitraum von",
+      "lendertagen überschritten ist, es sei denn, die Behandlung in",
+      "Folgequartal geht über den nach Nr. 01 oder Ä 1 erhobenen",
+      "hinaus. Als alleinige Leistung ist die Nr. Ä 1 immer abrechnungsfähig.",
+      "8. Eine Leistung nach Nr. Ä 1 kann nicht im Zusammenhang mit",
+      "kieferorthopädischen Behandlung abgerechnet werden. Sie",
+      "doch dann während einer kieferorthopädischen Behandlung",
+      "nungsfähig, wenn sie anderen als kieferorthopädischen Zwecken",
+      "dient."
+    ],
+    "wert_kandidaten": [
+      "9"
+    ],
+    "seite": 7
+  },
+  {
+    "ziffer": "01",
+    "body_lines": [
+      "Eingehende Untersuchung zur Feststellung von Zahn-, Mund- und",
+      "ferkrankheiten einschließlich Beratung",
+      "1. Neben einer Leistung nach Nr. 01 kann für dieselbe Sitzung",
+      "Beratungsgebühr nicht abgerechnet werden. Für eine der nachfol-",
+      "genden Sitzungen kann eine Leistung nach Nr. Ä 1 nur dann",
+      "rechnet werden, wenn sie als alleinige Leistung erbracht wird",
+      "rechnungsbestimmung Nr. 1 Satz 1 zu Nr. Ä 1).",
+      "2. Eine Leistung nach Nr. 01 kann je Kalenderhalbjahr einmal",
+      "rechnet werden, frühestens nach Ablauf von vier Monaten.",
+      "Eine Leistung nach Nr. 01 kann neben einer Leistung nach Nr.",
+      "oder Nr. FU 2 in demselben Kalenderhalbjahr nicht abgerechnet",
+      "den. Im folgenden Kalenderhalbjahr kann eine Leistung nach",
+      "frühestens vier Monate nach Erbringung der Nr. FU 1 oder",
+      "Nr. FU 2 abgerechnet werden.",
+      "3. Die festgestellten Befunde sind fortlaufend mit folgenden Mindestan-",
+      "gaben in der Karteikarte aufzuzeichnen:",
+      "kariöse Defekte = c;",
+      "fehlende Zähne = f;",
+      "zerstörte Zähne = z;",
+      "Zahnstein, Mundkrankheit, sonstiger Befund (z. B. Fistel)",
+      "4. Über die Nrn. Ä 1, 01k und 01 hinausgehende Möglichkeiten",
+      "rechnung einer Untersuchung bestehen nicht.",
+      "5. Eine eingehende Untersuchung zur Feststellung von Zahn-,",
+      "und Kieferkrankheiten stellt in einem Behandlungsfall in der",
+      "die erste Maßnahme dar (Ausnahmen z. B. Schmerzfall).",
+      "6. Eine Leistung nach Nr. 01 kann nicht im Zusammenhang mit",
+      "kieferorthopädischen Behandlung abgerechnet werden. Sie",
+      "doch dann während einer kieferorthopädischen Behandlung",
+      "nungsfähig, wenn sie anderen als kieferorthopädischen",
+      "dient."
+    ],
+    "wert_kandidaten": [
+      "18"
+    ],
+    "seite": 8
+  },
+  {
+    "ziffer": "01k",
+    "body_lines": [
+      "Kieferorthopädische Untersuchung zur Klärung von Indikation",
+      "punkt kieferorthopädisch-therapeutischer Maßnahmen",
+      "Die Leistung beinhaltet folgende Bestandteile:",
+      "1. Ärztliches Gespräch",
+      "2. Spezielle kieferorthopädische Anamnese",
+      "3. Spezielle kieferorthopädische Untersuchung",
+      "3.1 Extraorale Untersuchung",
+      "3.2 Intraorale Untersuchung von Weichteilen und Knochen",
+      "3.3 Feststellung der Kieferrelation",
+      "3.4 Feststellung von dento-alveolären Anomalien",
+      "3.5 Feststellung des Dentitionsstadiums",
+      "4. Aufklärung und Beratung",
+      "5. Kieferorthopädischer Befund, Dokumentation",
+      "6. Ggf. Feststellung des kieferorthopädischen Indikationsgrades",
+      "Eine Leistung nach Nr. 01k ist frühestens nach 6 Monaten erneut",
+      "nungsfähig.",
+      "Eine Leistung nach Nr. 01k kann nur von dem Zahnarzt erbracht",
+      "abgerechnet werden, der ggf. die kieferorthopädische Behandlungspla-",
+      "nung nach der Nr. 5 durchführt.",
+      "Neben einer Leistung der Nr. 01k kann eine Leistung der Nr.",
+      "abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "28"
+    ],
+    "seite": 9
+  },
+  {
+    "ziffer": "02",
+    "body_lines": [
+      "Hilfeleistung bei Ohnmacht oder Kollaps",
+      "Neben einer Leistung nach der Nr. 02 ist für dieselbe Sitzung eine",
+      "tung nach der Nr. Ä 1 nicht abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 10
+  },
+  {
+    "ziffer": "03",
+    "body_lines": [
+      "Zuschlag für Leistungen außerhalb der Sprechstunde, bei Nacht",
+      "bis 8 Uhr) oder an Sonn- und Feiertagen",
+      "1. Wird eine dringend notwendige zahnärztliche Leistung ausgeführt,",
+      "so erhält der Zahnarzt den einmaligen Zuschlag nur, sofern",
+      "während dieser Zeit üblicherweise seine Sprechstunde abhält",
+      "seine Bestellpraxis ausübt oder wenn der Kranke nicht bereits",
+      "Ablauf der Sprechstunde in den Praxisräumen des Zahnarztes",
+      "wesend war.",
+      "2. Bei Leistungen außerhalb der Sprechstunde (nicht an Sonn-",
+      "Feiertagen und bei Nacht) ist die Uhrzeit anzugeben.",
+      "3. Eine Leistung nach Nr. 03 kann nicht neben Leistungen nach",
+      "151 bis 173 und nicht neben Leistungen nach Nrn. 55, 56,",
+      "aus Abschnitt B IV der GOÄ abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 10
+  },
+  {
+    "ziffer": "04",
+    "body_lines": [
+      "Erhebung Parodontaler Screening-Index",
+      "1. Die Messung des Parodontalen Screening-Index (PSI) bei",
+      "cherten bis zur Vollendung des 18. Lebensjahres erfolgt an",
+      "dexzähnen 11, 16, 26, 31, 36, 46 bzw. bei deren Fehlen an",
+      "nachbarten bleibenden Zähnen. Der Durchbruch dieser Zähne",
+      "abgeschlossen sein. Die Messung des PSI bei Versicherten",
+      "endung des 18. Lebensjahres erfolgt an allen vorhandenen",
+      "mit Ausnahme der Weisheitszähne.",
+      "2. Die Befunderhebung wird mittels einer Messsonde (WHO-Sonde)",
+      "mit halbkugelförmiger Spitze und Markierung (schwarzes Band",
+      "schen 3,5 und 5,5 mm) durchgeführt. Zur Erhebung ist das",
+      "in Sextanten eingeteilt. Aufgezeichnet wird der höchste Wert",
+      "tant:",
+      "Code 0 = schwarzes Band bleibt vollständig sichtbar",
+      "dierungstiefe < 3,5 mm), keine Blutung, kein",
+      "stein und keine defekten Restaurationsränder,",
+      "Code 1 = schwarzes Band bleibt vollständig sichtbar",
+      "dierungstiefe < 3,5 mm), Blutung auf Sondieren,",
+      "kein Zahnstein und keine defekten Restaurations-",
+      "ränder,",
+      "Code 2 = schwarzes Band bleibt vollständig sichtbar",
+      "dierungstiefe < 3,5 mm), Zahnstein und/oder",
+      "fekte Restaurationsränder,",
+      "Code 3 = schwarzes Band bleibt teilweise sichtbar",
+      "rungstiefe 3,5 mm - 5,5 mm),",
+      "Code 4 = schwarzes Band verschwindet ganz",
+      "rungstiefe > 5,5 mm).",
+      "Wird an einem Parodontium ein Wert von Code 4 gemessen,",
+      "für den Sextanten die Messung beendet und für den Sextanten",
+      "Wert von Code 4 eingetragen. Sextanten ohne oder mit nur",
+      "Zahn werden durch ein „X“ kenntlich gemacht. Klinische Abnormitä-",
+      "ten (z. B. Furkationsbeteiligungen, mukogingivale Probleme,",
+      "sionen von 3,5 mm und mehr, Zahnbeweglichkeit) werden",
+      "nen Stern „*“ gekennzeichnet.",
+      "3. Der Versicherte erhält eine Information über das Untersuchungser-",
+      "gebnis, den möglichen Behandlungsbedarf, die Notwendigkeit",
+      "Erstellung eines klinischen und eines röntgenologischen",
+      "sowie zur Stellung der Diagnose. Diese Informationen erfolgen",
+      "ner für den Versicherten verständlichen Art und Weise auf dem",
+      "druck 11 der Anlage 14a zum BMV-Z.",
+      "4. Die Leistung nach Nr. 04 kann in einem Zeitraum von zwei",
+      "einmal abgerechnet werden. Sie kann nicht während einer",
+      "tischen Behandlung von Parodontitis und anderer Parodontalerkran-",
+      "kungen abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "12"
+    ],
+    "seite": 10
+  },
+  {
+    "ziffer": "05",
+    "body_lines": [
+      "Gewinnung von Zellmaterial aus der Mundhöhle und Aufbereitung",
+      "tologischen Untersuchung, einschließlich Materialkosten",
+      "1. Eine Leistung nach Nr. 05 kann nur zur Gewinnung von Zellmaterial",
+      "von der Mundschleimhaut mittels Bürstenabstrich für die Exfoliativ-",
+      "zytologie zum Zweck der Frühdiagnostik von Karzinomen abgerech-",
+      "net werden.",
+      "2. Eine Leistung nach Nr. 05 kann nur bei Vorliegen einer Leukoplakie,",
+      "Erythroplakie oder Lichen planus einmal innerhalb von zwölf",
+      "ten abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Ä 161",
+    "body_lines": [
+      "Eröffnung eines oberflächlichen, unmittelbar unter der Haut",
+      "Schleimhaut gelegenen Abszesses",
+      "Abrechnung der Nrn. Ä 925 bis Ä 935 sind auch die Beurteilung und die",
+      "schriftliche Befunddokumentation abgegolten."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Ä 925",
+    "body_lines": [
+      "Röntgendiagnostik der Zähne",
+      "a) bis zwei Aufnahmen",
+      "b) bis fünf Aufnahmen",
+      "c) bis acht Aufnahmen"
+    ],
+    "wert_kandidaten": [
+      "12",
+      "19",
+      "27"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Stat",
+    "body_lines": [
+      "d) Status bei mehr als acht Aufnahmen"
+    ],
+    "wert_kandidaten": [
+      "34"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Ä 928",
+    "body_lines": [
+      "Röntgenaufnahme der Hand"
+    ],
+    "wert_kandidaten": [
+      "30"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Ä 934",
+    "body_lines": [
+      "Aufnahme des Schädels",
+      "a) eine Aufnahme (auch Fernröntgenaufnahme)",
+      "b) zwei Aufnahmen",
+      "c) mehr als zwei Aufnahmen",
+      "1. Eine Leistung nach Nr. Ä 934 a kann im Verlauf einer kieferorthopä-",
+      "dischen Behandlung höchstens zweimal, in begründeten Ausnah-",
+      "mefällen dreimal abgerechnet werden.",
+      "2. Eine Leistung nach Nr. Ä 934 a ist bei Frühbehandlung mit verkürzter",
+      "Behandlungsdauer nur bei skelettalen Dysgnathien im Verlauf",
+      "kieferorthopädischen Behandlung einmal abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "19",
+      "30",
+      "36"
+    ],
+    "seite": 12
+  },
+  {
+    "ziffer": "Ä 935",
+    "body_lines": [
+      "Teilaufnahme des Schädels (auch in Spezialprojektion), auch Nebenhöh-",
+      "len, Unterkiefer, Panoramaaufnahme der Zähne eines Kiefers",
+      "Zähne des Ober- und Unterkiefers derselben Seite",
+      "a) eine Aufnahme",
+      "b) zwei Aufnahmen",
+      "c) mehr als zwei Aufnahmen",
+      "d) Orthopantomogramm sowie Panoramaaufnahmen oder Halbseiten-",
+      "aufnahmen aller Zähne des Ober- und Unterkiefers",
+      "Ä 925, 934, 935:",
+      "1. Bis zu drei nebeneinanderstehende Zähne oder das Gebiet",
+      "Wurzelspitzen sind – soweit dies nach den individuellen",
+      "schen Verhältnissen möglich ist – mit einer Aufnahme zu erfassen.",
+      "2. Bei unterschiedlicher klinischer Situation im Rahmen endodonti-",
+      "scher oder chirurgischer Behandlung sind in derselben Sitzung",
+      "brachte Röntgenaufnahmen je Aufnahme nach Nr. Ä 925",
+      "chenbar.",
+      "3. Die Darstellung beider Kiefer durch ein Orthopantomogramm",
+      "schließt die gleichzeitige Anfertigung eines Rö-Status",
+      "Nr. Ä 925 d aus. Eine zusätzliche Gelenkaufnahme ist bei",
+      "rechnung zu kennzeichnen.",
+      "4. Bissflügelaufnahmen zur Kariesfrüherkennung werden nach",
+      "Nr. Ä 925 a oder b abgerechnet und sind bei der Abrechnung",
+      "kennzeichnen.",
+      "5. Röntgenaufnahmen sind auch bei der Versorgung mit Zahnersatz",
+      "und Zahnkronen auf dem Erfassungsschein abzurechnen.",
+      "bei der Abrechnung zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "21",
+      "25",
+      "31",
+      "36"
+    ],
+    "seite": 13
+  },
+  {
+    "ziffer": "8",
+    "body_lines": [
+      "Sensibilitätsprüfung der Zähne",
+      "Leistungen nach Nr. 8 sind auch bei der Versorgung mit Zahnersatz",
+      "Zahnkronen auf dem Erfassungsschein abzurechnen."
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 13
+  },
+  {
+    "ziffer": "10",
+    "body_lines": [
+      "Behandlung überempfindlicher Zähne, für jede Sitzung",
+      "Prophylaktische Maßnahmen können nicht nach Nr. 10 abgerechnet",
+      "den."
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 14
+  },
+  {
+    "ziffer": "11",
+    "body_lines": [
+      "Exkavieren und provisorischer Verschluss einer Kavität als alleinige",
+      "Leistung, auch unvollendete Füllung",
+      "1. Unvollendete Füllungen sind nach Nr. 11 im folgenden Quartal",
+      "Verwendung des Erfassungsscheines abzurechnen.",
+      "2. Im laufenden Quartal können unvollendete Füllungen nur dann",
+      "gerechnet werden, wenn eindeutig feststeht, dass sie nicht",
+      "vollendet werden."
+    ],
+    "wert_kandidaten": [
+      "19"
+    ],
+    "seite": 14
+  },
+  {
+    "ziffer": "12",
+    "body_lines": [
+      "Besondere Maßnahmen beim Präparieren oder Füllen (Separieren,",
+      "Beseitigen störenden Zahnfleisches, Anlegen von Spanngummi,",
+      "einer übermäßigen Papillenblutung), je Sitzung, je Kieferhälfte",
+      "Frontzahnbereich",
+      "1. Das Separieren von Zähnen bei kieferorthopädischer Behandlung",
+      "und das Anlegen von Spanngummi bei Fissurenversiegelung",
+      "nen nach Nr. 12 abgerechnet werden.",
+      "2. Die Abrechnung der Nr. 12 im Zusammenhang mit den Nrn.",
+      "und 91 für das Verdrängen des Zahnfleisches zum Zwecke",
+      "formung, z. B. mittels Retraktionsringen oder -fäden, ist nicht",
+      "lich.",
+      "Muss jedoch störendes Zahnfleisch, z. B. zum Zwecke des",
+      "nens von unter sich gehenden Stellen, zur Darstellung der Präpara-",
+      "tionsgrenze oder zur subgingivalen Stufenpräparation, z. B.",
+      "Retraktionsringe verdrängt werden, ist die Nr. 12 abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 14
+  },
+  {
+    "ziffer": "13",
+    "body_lines": [
+      "Präparieren einer Kavität, Füllen mit plastischem Füllungsmaterial,",
+      "schließlich einer erforderlichen Unterfüllung, dem Anlegen einer",
+      "oder der Benutzung anderer Hilfsmittel zur Formung der Füllung",
+      "dem Polieren",
+      "a) einflächig",
+      "b) zweiflächig",
+      "c) dreiflächig",
+      "d) mehr als dreiflächig oder Eckenaufbau im Frontzahnbereich",
+      "Einbeziehung der Schneidekante",
+      "1. Mit der Abrechnung der Nr. 13 ist die Verwendung jedes ausreichen-",
+      "den, zweckmäßigen, erprobten und praxisüblichen plastischen",
+      "lungsmaterials abgegolten. Im Frontzahnbereich sind adhäsiv",
+      "tigte Füllungen Gegenstand der vertragszahnärztlichen Versorgung.",
+      "Im Seitenzahnbereich sind selbstadhäsive Materialien, im",
+      "mefall Bulkfill-Komposite Gegenstand der vertragszahnärztlichen",
+      "Versorgung. Versicherte, die im Sinne von § 28 Abs. 2 SGB",
+      "darüber hinausgehende Versorgung wählen, haben die Mehrkosten",
+      "selbst zu tragen; hierüber ist vor Beginn der Behandlung eine",
+      "liche Vereinbarung zwischen dem Zahnarzt und dem Versicherten",
+      "zu treffen. Die bundesmantelvertraglichen Regelungen sind",
+      "achten. Folgende Restaurationen gehen über die vertragszahnärzt-",
+      "liche Versorgung hinaus: Füllungen in Mehrfarbentechnik zur",
+      "tischen Optimierung, von Satz 3 nicht erfasste adhäsiv befestigte",
+      "Füllungen im Seitenzahnbereich, Einlagefüllungen, Goldhämmerfül-",
+      "lungen.",
+      "2. Das Legen einer Einlagefüllung sowie die gegebenenfalls im",
+      "menhang mit der Herstellung und Eingliederung erbrachte",
+      "sie oder durchgeführten besonderen Maßnahmen sind nicht",
+      "standteil der vertragszahnärztlichen Versorgung; eine der",
+      "füllung vorausgegangene Behandlung des Zahnes ist nach",
+      "weiligen BEMA-Nummer abrechenbar.",
+      "3. Das Vorbereiten eines zerstörten Zahnes zur Aufnahme einer",
+      "ist nach Nr. 13 a oder b abzurechnen.",
+      "4. Neben den Leistungen nach Nrn. 13 a und b kann die Leistung",
+      "Nr. 16 nicht abgerechnet werden.",
+      "5. Bei Füllungen nach Nr. 13 ist die Lage der Füllung in der",
+      "kungsspalte anzugeben. Für die Bezeichnung der Füllungslage",
+      "folgende Abkürzungen bzw. Ziffern zu verwenden:",
+      "m = 1 = mesial",
+      "o = 2 = okklusal/inzisal",
+      "d = 3 = distal",
+      "v = 4 = vestibulär (bukkal/zervikal bzw. labial)",
+      "l = 5 = lingual bzw. palatinal"
+    ],
+    "wert_kandidaten": [
+      "33",
+      "41",
+      "53",
+      "63"
+    ],
+    "seite": 14
+  },
+  {
+    "ziffer": "14",
+    "body_lines": [
+      "Konfektionierte Krone (im Seitenzahnbereich in der Regel aus Metall)",
+      "schließlich Material- und Laboratoriumskosten in der pädiatrischen",
+      "heilkunde"
+    ],
+    "wert_kandidaten": [
+      "50"
+    ],
+    "seite": 16
+  },
+  {
+    "ziffer": "16",
+    "body_lines": [
+      "Stiftverankerung einer Füllung (zusätzlich zu den Nrn. 13 c, d), je",
+      "einschließlich Materialkosten"
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 16
+  },
+  {
+    "ziffer": "23",
+    "body_lines": [
+      "Entfernen einer Krone bzw. eines Brückenankers oder eines abgebro-",
+      "chenen Wurzelstiftes bzw. das Abtrennen eines Brückengliedes oder",
+      "ges, je Trennstelle"
+    ],
+    "wert_kandidaten": [
+      "17"
+    ],
+    "seite": 16
+  },
+  {
+    "ziffer": "25",
+    "body_lines": [
+      "Indirekte Überkappung zur Erhaltung der gefährdeten Pulpa, ggf.",
+      "schließlich des provisorischen oder temporären Verschlusses der",
+      "1. Die Anwendung der Leistungen nach Nrn. 25 und 26 ist nur dann",
+      "gebracht, wenn es durch sie allein möglich ist, die Devitalisierung",
+      "Pulpa eines Zahnes zu vermeiden, der erhaltungswürdig und",
+      "tungsfähig ist.",
+      "2. Eine Leistung nach Nr. 25 kann nicht angewendet werden, wenn",
+      "sich darum handelt, aus Zeitgründen eine Kavitätenpräparation",
+      "und -füllung vorzeitig abzubrechen. Desgleichen kann sie dann",
+      "zur Anwendung kommen, wenn es sich darum handelt, die",
+      "Kranken mit Schmerzen verbundene Kavitätenpräparation abzubre-",
+      "chen und durch Teilung in zwei oder mehrere Sitzungen erträglicher",
+      "zu gestalten."
+    ],
+    "wert_kandidaten": [],
+    "seite": 16
+  },
+  {
+    "ziffer": "26",
+    "body_lines": [
+      "Direkte Überkappung, je Zahn",
+      "Direkte Überkappung im bleibenden Zahn bei artifizieller oder traumati-",
+      "scher punktförmiger Eröffnung der Pulpa, je Zahn"
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 16
+  },
+  {
+    "ziffer": "27",
+    "body_lines": [
+      "Pulpotomie",
+      "Amputation und Versorgung der vitalen Pulpa am Milchzahn und",
+      "symptomlosen bleibenden Zahn mit nicht abgeschlossenem Wurzel-",
+      "wachstum einschließlich Abtragen des Pulpendaches, Amputation",
+      "koronalen Pulpa, Spülung und Blutstillung, Aufbringen eines Überkap-",
+      "pungspräparates, je Zahn",
+      "Eine Leistung nach Nr. 27 ist bei Milchzähnen nur abrechnungsfähig,",
+      "wenn in derselben Sitzung eine Leistung nach Nrn. 13 a bis d",
+      "erbracht wird."
+    ],
+    "wert_kandidaten": [
+      "29"
+    ],
+    "seite": 16
+  },
+  {
+    "ziffer": "28",
+    "body_lines": [
+      "Exstirpation der vitalen Pulpa, je Kanal",
+      "Eine Leistung nach Nr. 28 ist für denselben Zahn nur in Ausnahmefällen",
+      "neben der Leistung nach Nr. 27 abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "18"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "29",
+    "body_lines": [
+      "Devitalisieren einer Pulpa einschließlich des Verschlusses der Kavität,",
+      "Zahn"
+    ],
+    "wert_kandidaten": [
+      "11"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "31",
+    "body_lines": [
+      "Trepanation eines pulpatoten Zahnes",
+      "Die im Zusammenhang mit einer Devitalisierung vorgenommene",
+      "nung eines Zahnes kann nicht als Trepanation nach Nr. 31 abgerechnet",
+      "werden."
+    ],
+    "wert_kandidaten": [
+      "11"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "32",
+    "body_lines": [
+      "Aufbereiten des Wurzelkanalsystems, je Kanal"
+    ],
+    "wert_kandidaten": [
+      "29"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "34",
+    "body_lines": [
+      "Medikamentöse Einlage in Verbindung mit Maßnahmen nach",
+      "28, 29 und 32, ggf. einschließlich eines provisorischen Verschlusses,",
+      "Zahn und Sitzung",
+      "Medikamentöse Einlagen sind grundsätzlich auf drei Sitzungen",
+      "schränkt."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "35",
+    "body_lines": [
+      "Wurzelkanalfüllung einschließlich eines evtl. provisorischen Verschlus-",
+      "ses, je Kanal"
+    ],
+    "wert_kandidaten": [
+      "17"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "36",
+    "body_lines": [
+      "Stillung einer übermäßigen Blutung",
+      "Die Leistung kann nicht abgerechnet werden, wenn die Stillung",
+      "übermäßigen Blutung im zeitlichen Zusammenhang mit einem",
+      "schen Eingriff erfolgt, es sei denn, dass hierfür ein erheblicher",
+      "cher Zeitaufwand erforderlich war."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 17
+  },
+  {
+    "ziffer": "37",
+    "body_lines": [
+      "Stillung einer übermäßigen Blutung durch Abbinden oder Umstechen",
+      "nes Gefäßes oder durch Knochenbolzung"
+    ],
+    "wert_kandidaten": [
+      "29"
+    ],
+    "seite": 18
+  },
+  {
+    "ziffer": "38",
+    "body_lines": [
+      "Nachbehandlung nach chirurgischem Eingriff oder Tamponieren",
+      "dergleichen, je Kieferhälfte oder Frontzahnbereich, als selbständige",
+      "tung, je Sitzung",
+      "1. Nachbehandlungen sind abrechnungsfähig, wenn sie in besonderen",
+      "Sitzungen, nicht jedoch in unmittelbarem zeitlichen Zusammenhang",
+      "mit einer Extraktion oder Operation erforderlich sind.",
+      "2. Eine Leistung nach Nr. 38 kann nicht neben Leistungen nach",
+      "Nrn. 36, 37 oder 46 abgerechnet werden, soweit Maßnahmen",
+      "selben Sitzung an derselben Stelle erfolgen."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 18
+  },
+  {
+    "ziffer": "40",
+    "body_lines": [
+      "Infiltrationsanästhesie",
+      "1. Leistungen nach den Nrn. 40 und 41 sind auch bei der Versorgung",
+      "mit Zahnersatz und Zahnkronen auf dem Erfassungsschein",
+      "rechnen. Dies ist bei der Abrechnung zu kennzeichnen.",
+      "2. Die Abrechnung einer Leistung nach der Nr. 40 kann im Bereich",
+      "zwei nebeneinanderstehenden Zähnen nur einmal je Sitzung",
+      "gen. Die beiden mittleren Schneidezähne gelten im Falle der",
+      "tionsanästhesie nicht als ein Bereich von zwei nebeneinanderste-",
+      "henden Zähnen.",
+      "3. Bei lang dauernden Eingriffen ist die Nr. 40 ein zweites Mal",
+      "nungsfähig.",
+      "4. Die intraligamentäre Anästhesie ist nach Nr. 40 abrechnungsfähig.",
+      "Werden im Ausnahmefall zwei nebeneinanderstehende Zähne",
+      "ligamentär anästhesiert, so kann die Nr. 40 je Zahn einmal",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "8"
+    ],
+    "seite": 18
+  },
+  {
+    "ziffer": "41",
+    "body_lines": [
+      "Leitungsanästhesie",
+      "a) intraoral",
+      "b) extraoral",
+      "1. Leistungen nach den Nrn. 40 und 41 sind auch bei der Versorgung",
+      "mit Zahnersatz und Zahnkronen auf dem Erfassungsschein",
+      "rechnen. Dies ist bei der Abrechnung zu kennzeichnen.",
+      "2. Die Abrechnung einer Leistung nach der Nr. 41 kann nur",
+      "wenn die Infiltrationsanästhesie (Nr. 40) nicht ausreicht. Dies",
+      "geben:",
+      "- im Unterkiefer in der Regel,",
+      "- im Oberkiefer bei entzündlichen Prozessen, die die Anwendung",
+      "der Infiltrationsanästhesie nicht gestatten, oder bei größeren",
+      "chirurgischen Eingriffen, nicht bei Nrn. 43 bis 46, 49 und",
+      "3. Bei chirurgischen und parodontal-chirurgischen Leistungen",
+      "in begründeten Ausnahmefällen die Nr. 41 und die Nr. 40 abgerech-",
+      "net werden, wenn nur so eine ausreichende Anästhesietiefe",
+      "Ausschaltung von Anastomosen erreicht werden kann.",
+      "4. Bei lang dauernden Eingriffen ist die Nr. 41 ein zweites Mal",
+      "nungsfähig."
+    ],
+    "wert_kandidaten": [
+      "12",
+      "16"
+    ],
+    "seite": 19
+  },
+  {
+    "ziffer": "43",
+    "body_lines": [
+      "Entfernen eines einwurzeligen Zahnes einschließlich Wundversorgung",
+      "Als einwurzelige Zähne gelten bei den bleibenden Zähnen:",
+      "alle Frontzähne",
+      "im Oberkiefer Zahn 5",
+      "im Unterkiefer Zahn 4 und Zahn 5",
+      "bei den Milchzähnen:",
+      "alle Frontzähne",
+      "Das Entfernen eines Wurzelrestes kann nach der Nummer abgerechnet",
+      "werden, unter der das Entfernen des betreffenden Zahnes abgerechnet",
+      "werden müsste."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 19
+  },
+  {
+    "ziffer": "44",
+    "body_lines": [
+      "Entfernen eines mehrwurzeligen Zahnes einschließlich Wundversorgung",
+      "Als mehrwurzelige Zähne gelten bei den bleibenden Zähnen:",
+      "alle Molaren",
+      "im Oberkiefer Zahn 4",
+      "bei den Milchzähnen:",
+      "alle Milchmolaren",
+      "Das Entfernen eines Wurzelrestes kann nach der Nummer abgerechnet",
+      "werden, unter der das Entfernen des betreffenden Zahnes abgerechnet",
+      "werden müsste."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 19
+  },
+  {
+    "ziffer": "45",
+    "body_lines": [
+      "Entfernen eines tieffrakturierten Zahnes einschließlich Wundversorgung"
+    ],
+    "wert_kandidaten": [
+      "40"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "46",
+    "body_lines": [
+      "Chirurgische Wundrevision (Glätten des Knochens, Auskratzen, Naht)",
+      "selbständige Leistung in einer besonderen Sitzung, je Kieferhälfte",
+      "Frontzahnbereich"
+    ],
+    "wert_kandidaten": [
+      "21"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "47a",
+    "body_lines": [
+      "Entfernen eines Zahnes durch Osteotomie einschließlich Wundversor-",
+      "gung",
+      "Die Abrechnung einer Leistung nach der Nr. 47a setzt die Aufklappung",
+      "des Zahnfleisches voraus."
+    ],
+    "wert_kandidaten": [
+      "58"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "47b",
+    "body_lines": [
+      "Hemisektion und Teilextraktion eines mehrwurzeligen Zahnes",
+      "Eine Leistung nach Nr. 47b ist nur in begründeten Ausnahmefällen",
+      "Erhalt einer geschlossenen Zahnreihe und/oder zum Erhalt einer",
+      "henden prothetischen Versorgung abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "72"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "48",
+    "body_lines": [
+      "Entfernen eines verlagerten und/oder retinierten Zahnes, Zahnkeimes",
+      "oder impaktierten Wurzelrestes durch Osteotomie einschließlich",
+      "versorgung"
+    ],
+    "wert_kandidaten": [
+      "78"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "49",
+    "body_lines": [
+      "Exzision von Mundschleimhaut oder Granulationsgewebe für das",
+      "eines Zahnes",
+      "1. Eine Leistung nach Nr. 49 ist in derselben Sitzung nicht für dasselbe",
+      "Gebiet neben einer anderen chirurgischen Leistung abrechnungsfä-",
+      "hig.",
+      "2. Wird in der Präparationssitzung eine Exzision von Mundschleimhaut",
+      "oder Granulationsgewebe, wie z. B. Papillektomie, durchgeführt,",
+      "eine Leistung nach Nr. 49 abrechnungsfähig.",
+      "3. Für das Durchtrennen von Zahnfleischfasern (auch mittels",
+      "chirurgischer Maßnahmen) ist eine Leistung nach Nr. 49",
+      "nungsfähig."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 20
+  },
+  {
+    "ziffer": "50",
+    "body_lines": [
+      "Exzision einer Schleimhautwucherung (z. B. lappiges Fibrom, Epulis)",
+      "1. Eine Leistung nach Nr. 50 ist in derselben Sitzung nicht für",
+      "Operationsgebiet neben einer anderen chirurgischen Leistung",
+      "rechnungsfähig.",
+      "2. Eine Leistung nach Nr. 50 ist auch mehrmals je Kiefer abrechnungs-",
+      "fähig, wenn es sich um getrennte Operationsgebiete handelt."
+    ],
+    "wert_kandidaten": [
+      "37"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "51a",
+    "body_lines": [
+      "Plastischer Verschluss einer eröffneten Kieferhöhle durch Zahnfleisch-",
+      "plastik als selbständige Leistung oder in Verbindung mit einer Extraktion"
+    ],
+    "wert_kandidaten": [
+      "80"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "51b",
+    "body_lines": [
+      "Plastischer Verschluss einer eröffneten Kieferhöhle in Verbindung",
+      "Osteotomie"
+    ],
+    "wert_kandidaten": [
+      "40"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "52",
+    "body_lines": [
+      "Trepanation des Kieferknochens"
+    ],
+    "wert_kandidaten": [
+      "24"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "53",
+    "body_lines": [
+      "Sequestrotomie bei Osteomyelitis der Kiefer"
+    ],
+    "wert_kandidaten": [
+      "72"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "54",
+    "body_lines": [
+      "Wurzelspitzenresektion",
+      "a) an einem Frontzahn",
+      "b) an einem Seitenzahn, einschließlich der ersten resezierten",
+      "spitze",
+      "c) am selben Seitenzahn, sofern durch denselben Zugang erreichbar,",
+      "je weitere Wurzelspitze",
+      "1. Eine Wurzelspitzenresektion an einer Wurzelspitze in derselben",
+      "zung an demselben Seitenzahn, die über einen anderen operativen",
+      "Zugang erfolgt, wird nach Nr. 54 b abgerechnet.",
+      "2. Eine retrograde Füllung an einer Wurzel nach Wurzelspitzenresek-",
+      "tion wird nach den Nrn. 32 und 35 gesondert abgerechnet."
+    ],
+    "wert_kandidaten": [
+      "72",
+      "48"
+    ],
+    "seite": 21
+  },
+  {
+    "ziffer": "55",
+    "body_lines": [
+      "Reimplantation eines Zahnes, ggf. einschließlich einfacher Fixation",
+      "den benachbarten Zähnen"
+    ],
+    "wert_kandidaten": [
+      "72"
+    ],
+    "seite": 22
+  },
+  {
+    "ziffer": "56",
+    "body_lines": [
+      "Operation einer Zyste",
+      "a) durch Zystektomie",
+      "b) durch orale Zystostomie",
+      "c) durch Zystektomie in Verbindung mit einer Osteotomie oder Wurzel-",
+      "spitzenresektion",
+      "d) durch orale Zystostomie in Verbindung mit einer Osteotomie",
+      "Wurzelspitzenresektion",
+      "Das Entfernen von Granulationsgewebe und kleinen Zysten ist nicht",
+      "Nr. 56 abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "120",
+      "72",
+      "48",
+      "48"
+    ],
+    "seite": 22
+  },
+  {
+    "ziffer": "57",
+    "body_lines": [
+      "Beseitigen störender Schleimhautbänder, Muskelansätze oder",
+      "Schlotterkammes im Frontzahnbereich oder in einer Kieferhälfte,",
+      "zung",
+      "(Siehe auch Feststellung Nr. 99 der Arbeitsgemeinschaft gemäß",
+      "EKVZ vom 25.11.1982 - gilt nur für Ersatzkassen)",
+      "Protokollnotiz:",
+      "Leistungen nach Nr. 57 sind im Rahmen einer systematischen Behand-",
+      "lung von Parodontitis und anderen Parodontalerkrankungen neben",
+      "tungen nach den Nrn. AIT, CPT abrechenbar, wenn sie als zusätzliche",
+      "ortsgetrennte präprothetisch-chirurgische Eingriffe erforderlich sind."
+    ],
+    "wert_kandidaten": [
+      "48"
+    ],
+    "seite": 22
+  },
+  {
+    "ziffer": "58",
+    "body_lines": [
+      "Knochenresektion am Alveolarfortsatz zur Formung des Prothesenlagers",
+      "im Frontzahnbereich oder in einer Kieferhälfte als selbständige Leistung,",
+      "je Sitzung",
+      "1. Eine Leistung nach Nr. 58 kann nur abgerechnet werden, wenn",
+      "nicht im zeitlichen Zusammenhang mit dem Entfernen von",
+      "oder einer Osteotomie erbracht wird.",
+      "2. Eine Leistung nach Nr. 58 kann nicht abgerechnet werden,",
+      "eine Osteotomie in derselben Sitzung in derselben Kieferhälfte",
+      "dem Frontzahnbereich erbracht wird."
+    ],
+    "wert_kandidaten": [
+      "48"
+    ],
+    "seite": 22
+  },
+  {
+    "ziffer": "59",
+    "body_lines": [
+      "Mundboden- oder Vestibulumplastik im Frontzahnbereich oder",
+      "Kieferhälfte",
+      "(Siehe auch Feststellung Nr. 99 der Arbeitsgemeinschaft gemäß",
+      "EKVZ vom 25.11.1982 - gilt nur für Ersatzkassen)",
+      "Protokollnotiz:",
+      "Leistungen nach Nr. 59 sind im Rahmen einer systematischen",
+      "lung von Parodontitis und anderen Parodontalerkrankungen neben",
+      "tungen nach den Nrn. AIT, CPT abrechenbar, wenn sie als zusätzliche",
+      "ortsgetrennte präprothetisch-chirurgische Eingriffe erforderlich sind."
+    ],
+    "wert_kandidaten": [
+      "120"
+    ],
+    "seite": 23
+  },
+  {
+    "ziffer": "60",
+    "body_lines": [
+      "Tuberplastik, einseitig"
+    ],
+    "wert_kandidaten": [
+      "80"
+    ],
+    "seite": 23
+  },
+  {
+    "ziffer": "61",
+    "body_lines": [
+      "Korrektur des Lippenbändchens bei echtem Diastema mediale",
+      "Eine Leistung nach Nr. 61 kann nur abgerechnet werden, wenn",
+      "tum durchtrennt wird."
+    ],
+    "wert_kandidaten": [
+      "72"
+    ],
+    "seite": 23
+  },
+  {
+    "ziffer": "62",
+    "body_lines": [
+      "Alveolotomie",
+      "1. Die Resektion der Alveolarfortsätze in einem Gebiet von",
+      "mehr Zähnen in einem Kiefer ist nach dieser Nummer abrechnungs-",
+      "fähig.",
+      "2. Die Resektion der Alveolarfortsätze über das Gebiet von",
+      "acht Zähnen in einem Kiefer ist zweimal nach Nr. 62 abrechnungs-",
+      "fähig.",
+      "3. Die Resektion der Alveolarfortsätze in einem Gebiet bis zu",
+      "nen in einem Kiefer ist nur dann abrechnungsfähig, wenn sie",
+      "sonderer Sitzung erbracht wurde.",
+      "4. Das Gebiet muss nicht zusammenhängend sein."
+    ],
+    "wert_kandidaten": [
+      "36"
+    ],
+    "seite": 23
+  },
+  {
+    "ziffer": "63",
+    "body_lines": [
+      "Freilegung eines retinierten und/oder verlagerten Zahnes zur kieferortho-",
+      "pädischen Einstellung"
+    ],
+    "wert_kandidaten": [
+      "80"
+    ],
+    "seite": 24
+  },
+  {
+    "ziffer": "105",
+    "body_lines": [
+      "Lokale medikamentöse Behandlung von Schleimhauterkrankungen,",
+      "bringung von auf der Mundschleimhaut haftenden Medikamenten",
+      "Behandlung von Prothesendruckstellen, je Sitzung",
+      "Die Behandlung von Prothesendruckstellen kann nur dann auf dem",
+      "fassungsschein abgerechnet werden, wenn die Prothese länger",
+      "Monate eingegliedert ist. Das gleiche gilt sinngemäß für Druckstellen",
+      "Wiederherstellung der Funktionstüchtigkeit einer Prothese."
+    ],
+    "wert_kandidaten": [
+      "8"
+    ],
+    "seite": 24
+  },
+  {
+    "ziffer": "106",
+    "body_lines": [
+      "Beseitigen scharfer Zahnkanten oder störender Prothesenränder",
+      "Ähnliches, je Sitzung",
+      "1. Zum Artikulationsausgleich ist auch für das Beschleifen von",
+      "senzähnen im Gegenkiefer die Nr. 106 einmal je Kiefer ansatzfähig.",
+      "Neben einer Leistung nach der Nr. 106 kann eine Leistung nach",
+      "Nr. 89 für denselben Kiefer nicht abgerechnet werden.",
+      "2. Das Beseitigen störender Prothesenränder kann nur dann auf",
+      "Erfassungsschein abgerechnet werden, wenn die Prothese",
+      "als drei Monate eingegliedert ist. Das gleiche gilt sinngemäß",
+      "Druckstellen bei Wiederherstellung der Funktionstüchtigkeit",
+      "Prothese."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 24
+  },
+  {
+    "ziffer": "107",
+    "body_lines": [
+      "Entfernen harter Zahnbeläge, je Sitzung",
+      "Das Entfernen harter Zahnbeläge ist einmal pro Kalenderjahr",
+      "nungsfähig. Die Leistung nach Nr. 107 kann nicht abgerechnet werden,",
+      "wenn in demselben Kalenderjahr bereits eine Leistung nach Nr. 107a",
+      "gerechnet worden ist."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 24
+  },
+  {
+    "ziffer": "107a",
+    "body_lines": [
+      "Entfernen harter Zahnbeläge bei Versicherten, die einem Pflegegrad",
+      "nach § 15 SGB XI zugeordnet sind oder Eingliederungshilfe nach",
+      "SGB IX erhalten, je Sitzung",
+      "Die Leistung nach Nr. 107a ist einmal pro Kalenderhalbjahr abrechnungs-",
+      "fähig. Sie kann nicht abgerechnet werden, wenn in demselben Kalender-",
+      "halbjahr bereits eine Leistung nach Nr. 107 abgerechnet worden"
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 24
+  },
+  {
+    "ziffer": "151",
+    "body_lines": [
+      "Besuch eines Versicherten, einschließlich Beratung und eingehende",
+      "tersuchung",
+      "Neben der Leistung nach Nr. 151 sind die Leistungen nach Nrn.",
+      "153 b, 154 und 155 nicht abrechnungsfähig. Die Nummer 151",
+      "sätzlich zum Wegegeld und zur Reiseentschädigung abgerechnet",
+      "den."
+    ],
+    "wert_kandidaten": [
+      "38"
+    ],
+    "seite": 25
+  },
+  {
+    "ziffer": "152",
+    "body_lines": [
+      "a) Besuch je weiteren Versicherten in derselben häuslichen",
+      "schaft in unmittelbarem zeitlichen Zusammenhang mit einer",
+      "tung nach Nummer 151 – einschließlich Beratung und eingehende",
+      "Untersuchung",
+      "b) Besuch je weiteren Versicherten in derselben Einrichtung",
+      "telbarem zeitlichen Zusammenhang mit einer Leistung nach",
+      "mer 151 – einschließlich Beratung und eingehende Untersuchung",
+      "1. Die Leistung nach Nr. 152 a ist nur abrechnungsfähig für",
+      "cherte, die in derselben Privatwohnung des nach Nr. 151 aufgesuch-",
+      "ten Versicherten leben.",
+      "2. Die Leistung nach Nr. 152 b ist abrechnungsfähig für Versicherte",
+      "derselben Einrichtung (z. B. betreute Wohngemeinschaft, stationäre",
+      "Pflegeeinrichtung).",
+      "3. Neben den Leistungen nach Nrn. 152 a und 152 b sind die",
+      "gen nach Nrn. 153 a, 153 b, 154 und 155 nicht abrechnungsfähig.",
+      "Die Nrn. 152 a und 152 b können zusätzlich zum Wegegeld",
+      "Reiseentschädigung abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "34",
+      "26"
+    ],
+    "seite": 25
+  },
+  {
+    "ziffer": "153",
+    "body_lines": [
+      "a) Besuch eines Versicherten in einer Einrichtung zu vorher vereinbar-",
+      "ten Zeiten und bei regelmäßiger Tätigkeit in der Einrichtung",
+      "schließlich Beratung und eingehende Untersuchung, ohne Vorliegen",
+      "eines Kooperationsvertrags nach § 119b Abs. 1 SGB V, welcher",
+      "verbindlichen Anforderungen der Vereinbarung nach § 119b",
+      "SGB V entspricht",
+      "b) Besuch je weiteren Versicherten in derselben Einrichtung",
+      "telbarem zeitlichen Zusammenhang mit einer Leistung nach",
+      "mer 153 a zu vorher vereinbarten Zeiten und bei regelmäßiger",
+      "tigkeit in der Einrichtung einschließlich Beratung und eingehende",
+      "Untersuchung, ohne Vorliegen eines Kooperationsvertrags",
+      "§ 119b Abs. 1 SGB V, welcher den verbindlichen Anforderungen",
+      "Vereinbarung nach § 119b Abs. 2 SGB V entspricht",
+      "1. Zu den Einrichtungen zählen stationäre Pflegeeinrichtungen",
+      "Einrichtungen, in denen Leistungen zur Teilhabe am Arbeitsleben",
+      "oder am Leben in der Gemeinschaft, die schulische Ausbildung",
+      "die Erziehung von Menschen mit Behinderungen im Vordergrund",
+      "des Zwecks der Einrichtung stehen.",
+      "2. Die Leistungen nach Nrn. 153 a und 153 b sind neben den Leistun-",
+      "gen nach Nrn. 151, 152 a, 152 b, 154 und 155 nicht abrechnungsfä-",
+      "hig. Die Nrn. 153 a und 153 b können zusätzlich zum Wegegeld",
+      "zur Reiseentschädigung abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "30",
+      "26"
+    ],
+    "seite": 25
+  },
+  {
+    "ziffer": "154",
+    "body_lines": [
+      "Besuch eines pflegebedürftigen Versicherten in einer stationären",
+      "einrichtung (§ 71 Abs. 2 SGB XI) im Rahmen eines Kooperationsvertrags",
+      "nach § 119b Abs. 1 SGB V, einschließlich Beratung und eingehende",
+      "tersuchung",
+      "1. Die Leistung nach Nr. 154 ist nur abrechnungsfähig für pflegebedürf-",
+      "tige Versicherte, die in einer stationären Pflegeeinrichtung",
+      "werden, wenn der Vertragszahnarzt mit der stationären Pflegeein-",
+      "richtung einen Kooperationsvertrag gemäß § 119b Abs. 1",
+      "geschlossen hat, welcher den verbindlichen Anforderungen der",
+      "einbarung nach § 119b Abs. 2 SGB V entspricht und wenn die",
+      "zuständige Kassenzahnärztliche Vereinigung die Berechtigung",
+      "Abrechnung festgestellt hat.",
+      "2. Neben der Leistung nach Nr. 154 sind die Leistungen nach Nrn.",
+      "152 a, 152 b, 153 a und 153 b nicht abrechnungsfähig. Die",
+      "kann zusätzlich zum Wegegeld und zur Reiseentschädigung",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "30"
+    ],
+    "seite": 26
+  },
+  {
+    "ziffer": "155",
+    "body_lines": [
+      "Besuch je weiteren pflegebedürftigen Versicherten in derselben stationä-",
+      "ren Pflegeeinrichtung (§ 71 Abs. 2 SGB XI) im Rahmen eines Kooperati-",
+      "onsvertrags nach § 119b Abs. 1 SGB V, in unmittelbarem zeitlichen",
+      "sammenhang mit einer Leistung nach Nr. 154 – einschließlich Beratung",
+      "und eingehende Untersuchung",
+      "1. Die Leistung nach Nr. 155 ist nur abrechnungsfähig für pflegebedürf-",
+      "tige Versicherte, die in einer stationären Pflegeeinrichtung",
+      "werden, wenn der Vertragszahnarzt mit der stationären Pflegeein-",
+      "richtung einen Kooperationsvertrag gemäß § 119b Abs. 1",
+      "geschlossen hat, welcher den verbindlichen Anforderungen",
+      "einbarung nach § 119b Abs. 2 SGB V entspricht und wenn die",
+      "zuständige Kassenzahnärztliche Vereinigung die Berechtigung",
+      "Abrechnung festgestellt hat.",
+      "2. Neben der Leistung nach Nr. 155 sind die Leistungen nach",
+      "152 a, 152 b, 153 a und 153 b nicht abrechnungsfähig. Die",
+      "kann zusätzlich zum Wegegeld und zur Reiseentschädigung",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "26"
+    ],
+    "seite": 26
+  },
+  {
+    "ziffer": "161",
+    "body_lines": [
+      "Zuschläge für Besuche nach den Nrn. 151 und 154",
+      "a) Zuschlag für dringend angeforderte und unverzüglich durchgeführte",
+      "Besuche",
+      "b) Zuschlag für Montag bis Freitag in der Zeit von 20 bis 22 Uhr",
+      "bis 8 Uhr durchgeführte Besuche",
+      "c) Zuschlag für Montag bis Freitag in der Zeit zwischen 22 und",
+      "durchgeführte Besuche",
+      "d) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der",
+      "schen 8 und 20 Uhr durchgeführte Besuche",
+      "e) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der",
+      "20 bis 22 Uhr oder 6 bis 8 Uhr durchgeführte Besuche",
+      "f) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der",
+      "schen 22 und 6 Uhr durchgeführte Besuche",
+      "Die Zuschläge nach den Nrn. 161 a bis 161 f sind nicht nebeneinander",
+      "abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "18",
+      "29",
+      "50",
+      "38",
+      "67",
+      "88"
+    ],
+    "seite": 27
+  },
+  {
+    "ziffer": "162",
+    "body_lines": [
+      "Zuschläge für Besuche nach den Nrn. 152 a, 152 b und 155",
+      "a) Zuschlag für dringend angeforderte und unverzüglich durchgeführte",
+      "Besuche",
+      "b) Zuschlag für Montag bis Freitag in der Zeit von 20 bis 22 Uhr",
+      "bis 8 Uhr durchgeführte Besuche",
+      "c) Zuschlag für Montag bis Freitag in der Zeit zwischen 22 und",
+      "durchgeführte Besuche",
+      "d) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der Zeit",
+      "schen 8 und 20 Uhr durchgeführte Besuche",
+      "e) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der Zeit",
+      "20 bis 22 Uhr oder 6 bis 8 Uhr durchgeführte Besuche",
+      "f) Zuschlag für an Samstagen, Sonn- oder Feiertagen in der Zeit",
+      "schen 22 und 6 Uhr durchgeführte Besuche",
+      "Die Zuschläge nach den Nrn. 162 a bis 162 f sind nicht nebeneinander",
+      "abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "9",
+      "15",
+      "25",
+      "19",
+      "34",
+      "44"
+    ],
+    "seite": 27
+  },
+  {
+    "ziffer": "165",
+    "body_lines": [
+      "Zuschlag zu den Leistungen nach den Nrn. 151, 152 a, 152 b,",
+      "153 b, 154 und 155 bei Kindern bis zum vollendeten vierten Lebensjahr"
+    ],
+    "wert_kandidaten": [
+      "14"
+    ],
+    "seite": 28
+  },
+  {
+    "ziffer": "171",
+    "body_lines": [
+      "Zuschlag für Besuche nach Nrn. 151, 152",
+      "a) Zuschlag für das Aufsuchen von Versicherten, die einem Pflegegrad",
+      "nach § 15 SGB XI zugeordnet sind oder Eingliederungshilfe",
+      "§ 99 SGB IX erhalten",
+      "b) Zuschlag für das Aufsuchen je weiteren Versicherten, der",
+      "Pflegegrad nach § 15 SGB XI zugeordnet ist oder Eingliederungs-",
+      "hilfe nach § 99 SGB IX erhält, in derselben häuslichen Gemeinschaft",
+      "oder Einrichtung in unmittelbarem zeitlichen Zusammenhang",
+      "ner Leistung nach Nummer 171 a",
+      "1. Die Zuschläge nach Nrn. 171 a und 171 b sind abrechnungsfähig",
+      "Versicherte, die einem Pflegegrad nach § 15 SGB XI zugeordnet",
+      "sind oder Eingliederungshilfe nach § 99 SGB IX erhalten",
+      "Zahnarztpraxis aufgrund ihrer Pflegebedürftigkeit, Behinderung",
+      "Einschränkung nicht oder nur mit hohem Aufwand aufsuchen",
+      "nen.",
+      "2. Der Zuschlag nach Nr. 171 a ist nur in Verbindung mit einem",
+      "nach Nr. 151, der Zuschlag nach Nr. 171 b ist nur in Verbindung",
+      "einem Besuch nach Nr. 152 a oder Nr. 152 b abrechnungsfähig.",
+      "Zuschlag nach Nr. 171 a ist neben den Zuschlägen nach Nrn.",
+      "und 165, der Zuschlag nach Nr. 171 b ist neben den Zuschlägen",
+      "nach Nrn. 162 und 165 abrechnungsfähig. Die Zuschläge",
+      "Nrn. 171 a und 171 b sind neben dem Wegegeld und der Reiseent-",
+      "schädigung abrechnungsfähig.",
+      "3. Die Anspruchsberechtigung auf einen Zuschlag nach Nr. 171",
+      "Nr. 171 b ist vom Zahnarzt in der Patientenakte zu dokumentieren",
+      "(ggf. anhand des Bescheids der Pflegekasse oder des Bescheids",
+      "über die Eingliederungshilfe nach § 99 SGB IX, sofern ein",
+      "dem Zahnarzt vorgelegt wird). Bei unbefristeten Bescheiden",
+      "einmalig zu erfolgen. Bei befristeten Bescheiden ist der Fristablauf",
+      "zu dokumentieren.",
+      "4. Die Notwendigkeit des Aufsuchens, beispielsweise bei fehlender",
+      "Unterstützung durch das Lebensumfeld, bei Desorientierung",
+      "bei Bettlägerigkeit, ist zu dokumentieren."
+    ],
+    "wert_kandidaten": [
+      "37",
+      "30",
+      "161"
+    ],
+    "seite": 28
+  },
+  {
+    "ziffer": "172",
+    "body_lines": [
+      "Zuschlag nach § 87 Abs. 2j SGB V für die kooperative und koordinierte",
+      "zahnärztliche und pflegerische Versorgung von pflegebedürftigen",
+      "cherten in stationären Pflegeeinrichtungen im Rahmen eines Kooperati-",
+      "onsvertrags nach § 119b Abs. 1 SGB V",
+      "a) Zuschlag für das Aufsuchen eines pflegebedürftigen Versicherten",
+      "einer stationären Pflegeeinrichtung",
+      "b) Zuschlag für das Aufsuchen je weiteren pflegebedürftigen Versicher-",
+      "ten in derselben stationären Pflegeeinrichtung in unmittelbarem",
+      "lichen Zusammenhang mit einer Leistung nach Nr. 172 a",
+      "1. Die Zuschläge nach Nrn. 172 a und 172 b sind nur abrechnungsfähig",
+      "für pflegebedürftige Versicherte, die in einer stationären Pflegeein-",
+      "richtung (§ 71 Abs. 2 SGB XI) betreut werden, wenn der Vertrags-",
+      "zahnarzt mit der stationären Pflegeeinrichtung einen Kooperations-",
+      "vertrag gemäß § 119b Abs. 1 SGB V geschlossen hat, welcher",
+      "verbindlichen Anforderungen der Vereinbarung nach § 119b",
+      "SGB V entspricht und wenn die hierfür zuständige Kassenzahnärzt-",
+      "liche Vereinigung die Berechtigung zur Abrechnung festgestellt",
+      "2. Der Zuschlag nach Nr. 172 a ist nur in Verbindung mit einem",
+      "nach Nr. 154, der Zuschlag nach Nr. 172 b ist nur in Verbindung",
+      "einem Besuch nach Nr. 155 abrechnungsfähig. Der Zuschlag",
+      "Nr. 172 a ist neben den Zuschlägen nach Nrn. 161 und",
+      "Zuschlag nach Nr. 172 b ist neben den Zuschlägen nach",
+      "und 165 abrechnungsfähig. Die Zuschläge nach Nrn. 172",
+      "172 b sind neben dem Wegegeld und der Reiseentschädigung",
+      "rechnungsfähig.",
+      "3. Der Vertragszahnarzt kann für pflegebedürftige Versicherte,",
+      "einer stationären Pflegeeinrichtung (§ 71 Abs. 2 SGB XI)",
+      "werden, mit welcher der Vertragszahnarzt einen Kooperationsver-",
+      "trag gemäß § 119b Abs. 1 SGB V abgeschlossen hat, der den",
+      "bindlichen Anforderungen der Vereinbarung nach § 119b",
+      "SGB V entspricht und insoweit den Vertragszahnarzt zur Abrech-",
+      "nung der Zuschläge nach Nrn. 172 a und 172 b berechtigt,",
+      "Leistungen nach Nrn. 171 a und 171 b abrechnen."
+    ],
+    "wert_kandidaten": [
+      "40",
+      "32"
+    ],
+    "seite": 29
+  },
+  {
+    "ziffer": "173",
+    "body_lines": [
+      "Zuschlag für Besuche nach Nr. 153",
+      "a) Zuschlag für das Aufsuchen nach Nr. 153 a von Versicherten,",
+      "einem Pflegegrad nach § 15 SGB XI zugeordnet sind oder",
+      "derungshilfe nach § 99 SGB IX erhalten",
+      "b) Zuschlag für das Aufsuchen nach Nr. 153 b je weiteren Versicherten,",
+      "der einem Pflegegrad nach § 15 SGB XI zugeordnet ist oder",
+      "derungshilfe nach § 99 SGB IX erhält, in derselben Einrichtung",
+      "unmittelbarem zeitlichen Zusammenhang mit einer Leistung",
+      "Nummer 173 a",
+      "1. Die Zuschläge nach Nrn. 173 a und 173 b sind abrechnungsfähig",
+      "Versicherte, die einem Pflegegrad nach § 15 SGB XI zugeordnet",
+      "sind oder Eingliederungshilfe nach § 99 SGB IX erhalten",
+      "Zahnarztpraxis aufgrund ihrer Pflegebedürftigkeit, Behinderung",
+      "Einschränkung nicht oder nur mit hohem Aufwand aufsuchen",
+      "nen.",
+      "2. Der Zuschlag nach Nr. 173 a ist nur in Verbindung mit einem",
+      "nach Nr. 153 a, der Zuschlag nach Nr. 173 b ist nur in Verbindung",
+      "mit einem Besuch nach Nr. 153 b abrechnungsfähig. Die Zuschläge",
+      "nach Nrn. 173 a und 173 b sind neben dem Zuschlag nach",
+      "abrechnungsfähig. Die Zuschläge nach Nrn. 173 a und 173",
+      "neben dem Wegegeld und der Reiseentschädigung abrechnungsfä-",
+      "hig.",
+      "3. Die Anspruchsberechtigung auf einen Zuschlag nach Nr. 173",
+      "Nr. 173 b ist vom Zahnarzt in der Patientenakte zu dokumentieren",
+      "(ggf. anhand des Bescheids der Pflegekasse oder des Bescheids",
+      "über die Eingliederungshilfe nach § 99 SGB IX, sofern ein",
+      "dem Zahnarzt vorgelegt wird). Bei unbefristeten Bescheiden",
+      "einmalig zu erfolgen. Bei befristeten Bescheiden ist der Fristablauf",
+      "zu dokumentieren."
+    ],
+    "wert_kandidaten": [
+      "32",
+      "24"
+    ],
+    "seite": 30
+  },
+  {
+    "ziffer": "174",
+    "body_lines": [
+      "Präventive zahnärztliche Leistungen nach § 22a SGB V zur Verhütung",
+      "von Zahnerkrankungen bei Versicherten, die einem Pflegegrad nach",
+      "SGB XI zugeordnet sind oder Eingliederungshilfe nach § 99 SGB",
+      "halten"
+    ],
+    "wert_kandidaten": [],
+    "seite": 31
+  },
+  {
+    "ziffer": "PBa",
+    "body_lines": [
+      "a) Mundgesundheitsstatus und individueller Mundgesundheitsplan",
+      "Die Erhebung des Mundgesundheitsstatus umfasst die Beurteilung",
+      "des Pflegezustands der Zähne, des Zahnfleischs, der Mundschleim-",
+      "haut sowie des Zahnersatzes, einschließlich Dokumentation",
+      "des Vordrucks gemäß § 8 der Richtlinie des Gemeinsamen",
+      "ausschusses nach § 22a SGB V.",
+      "Der individuelle Mundgesundheitsplan umfasst insbesondere",
+      "Angabe:",
+      "- der gegenüber dem Versicherten und ggf. der Pflege-",
+      "terstützungspersonen zur Anwendung empfohlenen",
+      "men und Mittel zur Förderung der Mundgesundheit einschließ-",
+      "lich der täglichen Mund- und Prothesenhygiene, der Fluoridan-",
+      "wendung, der zahngesunden Ernährung (insbesondere",
+      "ringerten Konsums zuckerhaltiger Speisen und Getränke)",
+      "der Verhinderung bzw. Linderung von Mundtrockenheit/Xe-",
+      "rostomie;",
+      "- der empfohlenen Durchführungs- bzw. Anwendungsfrequenz",
+      "dieser Maßnahmen und Mittel;",
+      "- ob die Maßnahmen von dem Versicherten selbst, mit Unterstüt-",
+      "zung durch die Pflege- oder Unterstützungsperson oder",
+      "ständig durch diese durchzuführen sind;",
+      "- zur Notwendigkeit von Rücksprachen mit weiteren an",
+      "handlung Beteiligten sowie zum vorgesehenen Ort der",
+      "lung.",
+      "Bei der Erstellung des Plans werden Angaben des Versicherten",
+      "ggf. der Pflege- oder Unterstützungspersonen berücksichtigt.",
+      "Der individuelle Mundgesundheitsplan wird in den Vordruck",
+      "§ 8 der Richtlinie des Gemeinsamen Bundesausschusses",
+      "§ 22a SGB V eingetragen."
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 31
+  },
+  {
+    "ziffer": "PBb",
+    "body_lines": [
+      "b) Mundgesundheitsaufklärung",
+      "Die Mundgesundheitsaufklärung umfasst die folgenden Leistungen:",
+      "- Aufklärung über die Inhalte des Mundgesundheitsplans",
+      "Nr. 174a;",
+      "- Demonstration und ggf. praktische Anleitung zur Reinigung",
+      "Zähne und des festsitzenden Zahnersatzes, des Zahnfleischs",
+      "sowie der Mundschleimhaut;",
+      "- Demonstration und ggf. praktische Unterweisung zur",
+      "senreinigung und zur Handhabung des herausnehmbaren",
+      "Zahnersatzes;",
+      "- Erläuterung des Nutzens der vorstehenden Maßnahmen,",
+      "gen und Ermutigen des Versicherten sowie dessen Pflege-",
+      "Unterstützungspersonen, die jeweils empfohlenen Maßnahmen",
+      "durchzuführen und in den Alltag zu integrieren.",
+      "Bei der Mundgesundheitsaufklärung sind die Lebensumstände",
+      "Versicherten zu erfragen sowie dessen individuelle Fähigkeiten",
+      "Einschränkungen angemessen zu berücksichtigen. Sofern der",
+      "sicherte der Unterstützung durch eine Pflege- oder Unterstützungs-",
+      "person bedarf, ist diese im jeweils erforderlichen Umfang",
+      "Mundgesundheitsaufklärung einzubeziehen.",
+      "Die Mundgesundheitsaufklärung erfolgt in einer für den Versicherten",
+      "sowie ggf. für die Pflege- oder Unterstützungspersonen verständli-",
+      "chen und nachvollziehbaren Art und Weise.",
+      "Soweit dem Versicherten ein Verständnis oder die Umsetzung",
+      "Hinweise aus der Mundgesundheitsaufklärung nur eingeschränkt",
+      "möglich ist, sind diese Maßnahmen im jeweils erforderlichen",
+      "fang auf Pflege- oder Unterstützungspersonen zu konzentrieren",
+      "bzw. ggf. zu beschränken. In diesen Fällen sind den Pflege-",
+      "Unterstützungspersonen konkrete Hinweise zur Mund- und",
+      "senpflege und zur Zusammenarbeit mit dem Versicherten zu",
+      "1. Die Leistungen nach Nrn. 174 a und 174 b sind nur abrechnungsfä-",
+      "hig für Versicherte, die einem Pflegegrad nach § 15 SGB",
+      "ordnet sind oder Eingliederungshilfe nach § 99 SGB IX erhalten.",
+      "Anspruchsberechtigung auf eine Leistung nach Nr. 174",
+      "Nr. 174 b ist vom Zahnarzt in der Patientenakte zu dokumentieren",
+      "(ggf. anhand des Bescheids der Pflegekasse oder des Bescheids",
+      "über die Eingliederungshilfe nach § 99 SGB IX, sofern ein",
+      "dem Zahnarzt vorgelegt wird). Bei unbefristeten Bescheiden",
+      "einmalig zu erfolgen. Bei befristeten Bescheiden ist der Fristablauf",
+      "zu dokumentieren.",
+      "2. Die Leistungen nach Nrn. 174 a und 174 b können je Kalenderhalb-",
+      "jahr einmal abgerechnet werden. Neben den Leistungen",
+      "Nrn. 174 a und 174 b können am selben Tag erbrachte Leistungen",
+      "nach Nrn. IP 1, IP 2, FU 1, FU 2, MHU, UPT a und UPT",
+      "abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "26"
+    ],
+    "seite": 32
+  },
+  {
+    "ziffer": "181",
+    "body_lines": [
+      "Konsiliarische Erörterung mit Ärzten und Zahnärzten",
+      "a) persönlich oder fernmündlich"
+    ],
+    "wert_kandidaten": [
+      "14"
+    ],
+    "seite": 33
+  },
+  {
+    "ziffer": "Kslb",
+    "body_lines": [
+      "b) im Rahmen eines Telekonsils",
+      "1. Die Leistungen nach Nrn. 181a und 181b sind abrechenbar",
+      "konsiliarische Erörterung einer versichertenbezogenen Fragestel-",
+      "lung, wenn sich der Zahnarzt zuvor oder in unmittelbarem zeitlichen",
+      "Zusammenhang mit der konsiliarischen Erörterung persönlich",
+      "dem Versicherten und dessen Erkrankung befasst hat. Unter",
+      "sönlicher Erörterung nach Nr. 181a ist der Austausch in physischer",
+      "Anwesenheit aller am Konsil beteiligten Ärzte/Zahnärzte zu",
+      "hen. Die fernmündliche Erörterung wird mittels Fernsprecher",
+      "geführt. Ein Telekonsil nach Nr. 181b ist die zeitgleiche bzw.",
+      "setzte Kommunikation zwischen Ärzten/Zahnärzten unter",
+      "der in § 2 Abs. 1 der Telekonsilien-Vereinbarung gemäß",
+      "Abs. 6 SGB V genannten elektronischen Dienste und ermöglicht",
+      "elektronischen Austausch von Dokumenten und Bildern. Ein",
+      "ches Telekonsil zwischen Ärzten/Zahnärzten nach Nr. 181b",
+      "eines Videodienstes nach Anlage 16 BMV-Z wird als Videokonsil",
+      "zeichnet.",
+      "2. Die Leistungen nach Nr. 181a und Nr. 181b sind auch dann",
+      "chenbar, wenn die Erörterung zwischen einem Zahnarzt und",
+      "ständigen persönlichen ärztlichen/zahnärztlichen Vertreter eines",
+      "deren Arztes/Zahnarztes erfolgt.",
+      "3. Die Leistungen nach Nr. 181a und Nr. 181b sind nicht abrechenbar,",
+      "wenn die Zahnärzte Mitglieder derselben Berufsausübungsgemein-",
+      "schaft, einer Praxisgemeinschaft von Ärzten/Zahnärzten gleicher",
+      "oder ähnlicher Fachrichtung oder desselben Medizinischen",
+      "gungszentrums sind. Sie sind nicht abrechenbar für routinemäßige",
+      "Besprechungen."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 33
+  },
+  {
+    "ziffer": "182",
+    "body_lines": [
+      "Konsiliarische Erörterung mit Ärzten und Zahnärzten im Rahmen",
+      "Kooperationsvertrags nach § 119b Abs. 1 SGB V"
+    ],
+    "wert_kandidaten": [],
+    "seite": 34
+  },
+  {
+    "ziffer": "KslKa",
+    "body_lines": [
+      "a) persönlich oder fernmündlich",
+      "b) im Rahmen eines Telekonsils",
+      "1. Die Leistungen nach Nr. 182a und Nr. 182b sind nur abrechenbar",
+      "für die konsiliarische Erörterung einer versichertenbezogenen",
+      "gestellung, die pflegebedürftige Versicherte betreffen, welche",
+      "ner stationären Pflegeeinrichtung (§ 71 Abs. 2 SGB XI) betreut",
+      "den, mit der der Vertragszahnarzt einen Kooperationsvertrag",
+      "§ 119b Abs. 1 SGB V geschlossen hat, welcher den verbindlichen",
+      "Anforderungen der Vereinbarung nach § 119b Abs. 2 SGB",
+      "spricht, und wenn die hierfür zuständige Kassenzahnärztliche",
+      "nigung die Berechtigung zur Abrechnung festgestellt hat. Unter",
+      "sönlicher Erörterung nach Nr. 182a ist der Austausch in physischer",
+      "Anwesenheit aller am Konsil beteiligten Ärzte/Zahnärzte zu",
+      "hen, die fernmündliche Erörterung wird mittels Fernsprecher",
+      "geführt. Ein Telekonsil nach Nr. 182b ist die zeitgleiche bzw.",
+      "setzte Kommunikation zwischen Ärzten/Zahnärzten unter Nutzung",
+      "der in § 2 Abs. 1 der Telekonsilien-Vereinbarung gemäß",
+      "Abs. 6 SGB V genannten elektronischen Dienste und ermöglicht",
+      "elektronischen Austausch von Dokumenten und Bildern. Ein zeitglei-",
+      "ches Telekonsil zwischen Ärzten/Zahnärzten nach Nr. 182b",
+      "eines Videodienstes nach Anlage 16 BMV-Z wird als Videokonsil",
+      "zeichnet.",
+      "2. Die Leistungen nach Nr. 182a und Nr. 182b sind auch dann",
+      "chenbar, wenn die Erörterung zwischen einem Kooperationszahn-",
+      "arzt und dem ständigen persönlichen ärztlichen/zahnärztlichen",
+      "treter eines anderen Arztes/Zahnarztes erfolgt.",
+      "3. Die Leistungen nach Nr. 182a und Nr. 182b sind nicht abrechnungs-",
+      "fähig, wenn die Zahnärzte Mitglieder derselben Berufsausübungs-",
+      "gemeinschaft, einer Praxisgemeinschaft von Ärzten/Zahnärzten",
+      "gleicher oder ähnlicher Fachrichtung oder desselben Medizinischen",
+      "Versorgungszentrums sind."
+    ],
+    "wert_kandidaten": [
+      "14",
+      "16"
+    ],
+    "seite": 34
+  },
+  {
+    "ziffer": "VS",
+    "body_lines": [
+      "Videosprechstunde",
+      "1. Die Leistung nach Nr. VS ist abrechenbar bei Versicherten,",
+      "nem Pflegegrad nach § 15 SGB XI zugeordnet sind oder Eingliede-",
+      "rungshilfe erhalten, sowie bei Versicherten, an denen zahnärztliche",
+      "Leistungen im Rahmen eines Kooperationsvertrages nach",
+      "Abs. 1 SGB V erbracht werden. Die Anspruchsberechtigung",
+      "Zahnarzt in der Patientenakte zu dokumentieren.",
+      "2. Die Leistung nach Nr. VS ist nur abrechenbar für Videosprechstun-",
+      "den mittels eines Videodienstes nach Anlage 16 BMV-Z.",
+      "3. Die Leistung nach Nr. VS kann grundsätzlich nur als alleinige",
+      "tung abgerechnet werden. In begründeten Ausnahmefällen,",
+      "sondere, wenn aufgrund einer behördlichen Anordnung oder",
+      "freiwilligen Quarantäne im Zusammenhang mit einer meldepflichti-",
+      "gen Krankheit des Versicherten oder eines meldepflichtigen",
+      "weises von Krankheitserregern ein persönlicher Kontakt des",
+      "arztes mit dem Versicherten nicht möglich ist, kann eine",
+      "nach Nr. 174b in derselben Sitzung neben einer Leistung",
+      "Nr. VS abgerechnet werden.",
+      "4. Soweit dem Versicherten ein Verständnis nur eingeschränkt",
+      "ist, ist die Videosprechstunde bei räumlicher und zeitgleicher",
+      "senheit des Versicherten im jeweils erforderlichen Umfang",
+      "Pflege- oder Unterstützungspersonen zu konzentrieren bzw.",
+      "beschränken.",
+      "5. Die Leistung nach Nr. VS kann in derselben Sitzung nicht",
+      "Leistungen nach Nrn. VFK, 181 oder 182 abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 35
+  },
+  {
+    "ziffer": "VFK",
+    "body_lines": [
+      "Videofallkonferenz mit an der Versorgung des Versicherten beteiligten",
+      "Pflege- und Unterstützungspersonen",
+      "a) bezüglich eines Versicherten",
+      "b) bezüglich jedes weiteren Versicherten in unmittelbarem zeitlichen",
+      "Zusammenhang",
+      "1. Die Leistung nach Nr. VFK ist abrechenbar bei Versicherten,",
+      "nem Pflegegrad nach § 15 SGB XI zugeordnet sind oder Eingliede-",
+      "rungshilfe erhalten, sowie bei Versicherten, an denen zahnärztliche",
+      "Leistungen im Rahmen eines Kooperationsvertrages nach",
+      "Abs. 1 SGB V erbracht werden. Die Anspruchsberechtigung",
+      "Zahnarzt in der Patientenakte zu dokumentieren.",
+      "2. Die Nr. VFK ist nur abrechenbar für Videofallkonferenzen mittels",
+      "nes Videodienstes gemäß Anlage 16 BMV-Z.",
+      "3. Die Leistung nach Nr. VFK kann je Quartal und Versicherten",
+      "abgerechnet werden.",
+      "4. Die Leistung nach Nr. VFK kann nur als alleinige Leistung erbracht",
+      "werden.",
+      "5. Die Leistung nach Nr. VFK ist nur abrechenbar, wenn im Zeitraum",
+      "der letzten drei Quartale unter Einschluss des aktuellen Quartals",
+      "persönlicher Kontakt des Zahnarztes mit dem Versicherten",
+      "funden hat."
+    ],
+    "wert_kandidaten": [
+      "12",
+      "6"
+    ],
+    "seite": 36
+  },
+  {
+    "ziffer": "TZ",
+    "body_lines": [
+      "Technikzuschlag für Videosprechstunde, Videofallkonferenz oder",
+      "konsil",
+      "1. Der Technikzuschlag nach Nr. TZ ist abrechenbar in Verbindung",
+      "einer Videosprechstunde nach Nr. VS, einer Videofallkonferenz",
+      "nach Nr. VFK oder einem Telekonsil nach Nrn. 181b oder 182b,",
+      "als Videokonsil mittels eines Videodienstes nach Anlage 16",
+      "erfolgt.",
+      "2. Der Technikzuschlag nach Nr. TZ kann je Praxis bis zu zehnmal",
+      "Quartal abgerechnet werden. Er ist neben den ersten zehn",
+      "tal erbrachten Leistungen nach den Nrn. VS, VFK, 181b oder",
+      "abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 36
+  },
+  {
+    "ziffer": "eMP",
+    "body_lines": [
+      "Aktualisierung elektronischer Medikationsplan",
+      "1. Die Leistung nach Nr. eMP ist für die Aktualisierung eines elektroni-",
+      "schen Medikationsplans in unmittelbarem zeitlichen Zusammen-",
+      "hang mit einer Verordnung apothekenpflichtiger Arzneimittel",
+      "je Sitzung abrechenbar.",
+      "2. Die Aktualisierung des elektronischen Medikationsplans soll",
+      "elektronischen Notfalldatensatz übertragen werden, soweit",
+      "cher vorhanden und die vorliegende Information zu aktualisieren",
+      "In diesem Fall können die Leistungen nach den Nrn. eMP",
+      "bezogen auf denselben Sachverhalt nicht nebeneinander abgerech-",
+      "net werden.",
+      "3. Vor dem Zugriff auf die Daten des elektronischen Medikationsplans",
+      "ist die Einwilligung des Versicherten einzuholen und in der",
+      "tenakte zu dokumentieren."
+    ],
+    "wert_kandidaten": [
+      "3"
+    ],
+    "seite": 37
+  },
+  {
+    "ziffer": "NFD",
+    "body_lines": [
+      "Aktualisierung Notfalldatensatz",
+      "1. Die Leistung nach Nr. NFD ist für die Aktualisierung eines elektroni-",
+      "schen Notfalldatensatzes einmal je Sitzung abrechenbar.",
+      "2. Die Aktualisierung des elektronischen Notfalldatensatzes",
+      "den elektronischen Medikationsplan übertragen werden, soweit",
+      "solcher vorhanden und die vorliegende Information zu aktualisieren",
+      "ist. In diesem Fall können die Leistungen nach den Nrn. eMP",
+      "NFD bezogen auf denselben Sachverhalt nicht nebeneinander",
+      "gerechnet werden.",
+      "3. Vor dem Zugriff auf den Notfalldatensatz ist die Einwilligung",
+      "sicherten einzuholen und in der Patientenakte zu dokumentieren."
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 37
+  },
+  {
+    "ziffer": "ePA1",
+    "body_lines": [
+      "Erstbefüllung einer elektronischen Patientenakte",
+      "1. Die Leistung nach Nr. ePA1 umfasst",
+      "- die Verarbeitung von versorgungsrelevanten zahnmedizinischen",
+      "Informationen oder Angaben zum Bonusheft aus der aktuellen",
+      "Behandlung des Versicherten für eine erstmalige einrichtungs-,",
+      "fach- und sektorenübergreifende Dokumentation in der elektroni-",
+      "schen Patientenakte nach Maßgabe des § 346 Abs. 3 SGB",
+      "- die Prüfung, ob erhebliche therapeutische Gründe oder",
+      "che Rechte Dritter einer Übermittlung in die elektronische",
+      "tenakte entgegenstehen,",
+      "- die Prüfung und ggf. Ergänzung der zu den Dokumenten",
+      "renden Metadaten,",
+      "- erforderlichenfalls die Einholung der Einwilligung des Versicher-",
+      "ten in den Zugriff auf Daten in dessen elektronischer Patienten-",
+      "akte.",
+      "2. Die Leistung nach Nr. ePA1 ist einrichtungs-, fach- und sektoren-",
+      "übergreifend nur einmal je Versicherten und elektronischer",
+      "tenakte abrechenbar.",
+      "3. Die Leistung nach Nr. ePA1 ist nicht neben der Leistung",
+      "Nr. ePA2 abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "4"
+    ],
+    "seite": 38
+  },
+  {
+    "ziffer": "ePA2",
+    "body_lines": [
+      "Aktualisierung einer elektronischen Patientenakte",
+      "1. Die Leistung nach Nr. ePA2 umfasst",
+      "- die Verarbeitung von versorgungsrelevanten zahnmedizinischen",
+      "Informationen oder Angaben zum Bonusheft aus der aktuellen",
+      "Behandlung des Versicherten für eine einrichtungs-, fach-",
+      "sektorenübergreifende Dokumentation in der elektronischen",
+      "tientenakte nach Maßgabe des § 346 Abs. 1 SGB V,",
+      "- die Prüfung, ob erhebliche therapeutische Gründe oder",
+      "che Rechte Dritter einer Übermittlung in die elektronische",
+      "tenakte entgegenstehen,",
+      "- die Prüfung und ggf. Ergänzung der zu den Dokumenten",
+      "renden Metadaten,",
+      "- erforderlichenfalls die Einholung der Einwilligung des Versicher-",
+      "ten in den Zugriff auf Daten in dessen elektronischer Patienten-",
+      "akte.",
+      "2. Die Leistung nach Nr. ePA2 ist höchstens einmal je Sitzung",
+      "chenbar.",
+      "3. Die Leistung nach Nr. ePA2 ist nicht neben der erstmaligen",
+      "lung der elektronischen Patientenakte nach Nr. ePA1 abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "2"
+    ],
+    "seite": 38
+  },
+  {
+    "ziffer": "IP 1",
+    "body_lines": [
+      "Mundhygienestatus",
+      "Die Erhebung des Mundhygienestatus umfasst die Beurteilung der",
+      "hygiene und des Gingivazustands anhand eines geeigneten",
+      "(z. B. Approximalraum-Plaqueindex, Quigley-Hein-Index, Papillenblu-",
+      "tungsindex; der einmal gewählte Index ist beizubehalten), die",
+      "lung und Beurteilung von Plaque-Retentionsstellen und ggf. das",
+      "der Zähne.",
+      "1. Eine Leistung nach Nr. IP 1 kann je Kalenderhalbjahr einmal",
+      "rechnet werden.",
+      "2. Leistungen nach den Nrn. IP 1 bis IP 5 können nur für Versicherte",
+      "abgerechnet werden, die das sechste, aber noch nicht das",
+      "bensjahr vollendet haben. Für andere Versicherte können",
+      "gen nach den Nrn. IP 4 bis IP 5 nur abgerechnet werden, soweit",
+      "in den Abrechnungsbestimmungen ausdrücklich vereinbart"
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 39
+  },
+  {
+    "ziffer": "IP 2",
+    "body_lines": [
+      "Mundgesundheitsaufklärung bei Kindern und Jugendlichen",
+      "Aufklärung des Versicherten und ggf. dessen Erziehungsberechtigten",
+      "über Krankheitsursachen sowie deren Vermeidung, Motivation",
+      "motivation",
+      "Die Mundgesundheitsaufklärung umfasst folgende Leistungen:",
+      "- Aufklärung über Ursachen von Karies und Gingivitis sowie",
+      "Vermeidung",
+      "- ggf. Ernährungshinweise und Mundhygieneberatung, auch",
+      "rücksichtigung der Messwerte der gewählten Mundhygiene-Indizes",
+      "- Empfehlungen zur Anwendung geeigneter Fluoridierungsmittel",
+      "Schmelzhärtung (fluoridiertes Speisesalz, fluoridierte Zahnpasta,",
+      "fluoridierte Gelees und dergl.); ggf. Abgabe/Verordnung von",
+      "tabletten",
+      "- praktische Übung von Mundhygienetechniken, auch zur Reinigung",
+      "der Interdentalräume",
+      "Der Zahnarzt soll Inhalt und Umfang der notwendigen Prophylaxemaß-",
+      "nahmen nach den individuellen Gegebenheiten des Einzelfalles",
+      "gen. In einem Zeitraum von drei Jahren sind alle Leistungsbestandteile",
+      "mindestens einmal zu erbringen.",
+      "1. Eine Leistung nach Nr. IP 2 kann je Kalenderhalbjahr einmal",
+      "rechnet werden.",
+      "2. Die Abrechnung der Nr. IP 2 setzt die Einzelunterweisung voraus."
+    ],
+    "wert_kandidaten": [
+      "17"
+    ],
+    "seite": 39
+  },
+  {
+    "ziffer": "IP 4",
+    "body_lines": [
+      "Lokale Fluoridierung der Zähne",
+      "Die Nr. IP 4 umfasst folgende Leistungen:",
+      "Die lokale Fluoridierung zur Zahnschmelzhärtung mit Lack, Gel o.",
+      "schließlich der Beseitigung von weichen Zahnbelägen und der Trocken-",
+      "legung der Zähne.",
+      "1. Das Entfernen harter Zahnbeläge ist nach Nr. 107 abzurechnen.",
+      "2. Eine Leistung nach Nr. IP 4 kann je Kalenderhalbjahr einmal",
+      "rechnet werden.",
+      "3. Bei Versicherten mit hohem Kariesrisiko kann ab dem 6. Lebensjahr",
+      "bis zur Vollendung des 18. Lebensjahres die Nr. IP 4 je Kalender-",
+      "halbjahr zweimal abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "12"
+    ],
+    "seite": 40
+  },
+  {
+    "ziffer": "IP 5",
+    "body_lines": [
+      "Versiegelung von kariesfreien Fissuren und Grübchen der bleibenden",
+      "Molaren (Zähne 6 und 7) mit aushärtenden Kunststoffen, je Zahn",
+      "Eine Leistung nach Nr. IP 5 umfasst die Versiegelung der Fissuren",
+      "der Grübchen einschließlich der gründlichen Beseitigung der weichen",
+      "Zahnbeläge und der Trockenlegung der zu versiegelnden Zähne.",
+      "1. Das Entfernen harter Zahnbeläge ist nach Nr. 107 abrechnungsfä-",
+      "hig.",
+      "2. Eine Leistung nach Nr. IP 5 kann auch bei Durchbruch der 6-Jahres-",
+      "molaren bei Kindern bis zur Vollendung des 6. Lebensjahres",
+      "rechnet werden.",
+      "3. Das Versiegelungsmaterial ist mit der Bewertung abgegolten."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 40
+  },
+  {
+    "ziffer": "FU1",
+    "body_lines": [
+      "Zahnärztliche Früherkennungsuntersuchung eines Kindes vom",
+      "zum vollendeten 33. Lebensmonat, jeweils eine",
+      "FUZ1 Früherkennungsuntersuchung vom 6. bis zum vollendeten",
+      "9. Lebensmonat",
+      "FUZ2 Früherkennungsuntersuchung vom 10. bis zum vollendeten",
+      "20. Lebensmonat",
+      "FUZ3 Früherkennungsuntersuchung vom 21. bis zum vollendeten",
+      "33. Lebensmonat",
+      "1. Der Abstand zwischen zwei Früherkennungsuntersuchungen",
+      "trägt mindestens vier Monate.",
+      "2. Die Früherkennungsuntersuchungen umfassen folgende",
+      "gen:",
+      "- Eingehende Untersuchung zur Feststellung von Zahn-,",
+      "und Kieferkrankheiten einschließlich Beratung (Inspektion",
+      "Mundhöhle)",
+      "- Erhebung der Anamnese zum Ernährungsverhalten (insb.",
+      "Nuckelflaschengebrauch) sowie zum Zahnpflegeverhalten",
+      "die Betreuungspersonen, Ernährungs- und Mundhygienebera-",
+      "tung der Betreuungspersonen mit dem Ziel der Keimzahlsenkung",
+      "durch verringerten Konsum zuckerhaltiger Speisen und Getränke",
+      "auch mittels Nuckelflasche sowie durch verbesserte Mundhygi-",
+      "ene, Aufklärung der Betreuungspersonen über die Ätiologie",
+      "Erkrankungen",
+      "- Erhebung der Anamnese zu Fluoridierungsmaßnahmen",
+      "-empfehlungen sowie Empfehlung geeigneter Fluoridie-",
+      "rungsmittel (fluoridhaltige Zahnpaste, fluoridiertes",
+      "salz u. ä.)",
+      "- Dokumentation im Untersuchungsheft. Als Untersuchungsheft",
+      "in diesem Sinne gelten sowohl das Untersuchungsheft",
+      "der gemäß Anlage 1 der Kinder-Richtlinie des Gemeinsamen",
+      "Bundesausschusses als auch das elektronische Untersu-",
+      "chungsheft für Kinder gemäß den Festlegungen nach § 355",
+      "satz 1 SGB V. Die Dokumentation im Untersuchungsheft",
+      "als verpflichtender Leistungsbestandteil, soweit dem Zahnarzt",
+      "das Untersuchungsheft entweder in Papier- oder in elektroni-",
+      "scher Form zur Verfügung steht; die praxisinterne Dokumenta-",
+      "tion bleibt davon unberührt.",
+      "3. Neben einer Früherkennungsuntersuchung nach Nr. FU 1 kann",
+      "Leistung nach Nr. 01 in demselben Kalenderhalbjahr nicht",
+      "rechnet werden. Im folgenden Kalenderhalbjahr kann die Leistung",
+      "nach Nr. 01 frühestens vier Monate nach Erbringung der Früherken-",
+      "nungsuntersuchung abgerechnet werden.",
+      "4. Im Zusammenhang mit einer Früherkennungsuntersuchung",
+      "Nr. FU1 kann eine Leistung nach Nr. Ä 1 nicht abgerechnet werden.",
+      "5. Die Abrechnung von Früherkennungsuntersuchungen setzt",
+      "zeluntersuchung bzw. -unterweisung voraus.",
+      "Praktische Anleitung der Betreuungspersonen zur Mundhygiene",
+      "Kind",
+      "1. Eine Leistung nach Nr. FU Pr ist nur im Zusammenhang mit",
+      "Leistung nach Nr. FU 1 abrechenbar.",
+      "2. Die Abrechnung der Leistung nach Nr. FU Pr setzt die Einzelunter-",
+      "weisung voraus."
+    ],
+    "wert_kandidaten": [
+      "28",
+      "10"
+    ],
+    "seite": 41
+  },
+  {
+    "ziffer": "FU2",
+    "body_lines": [
+      "Zahnärztliche Früherkennungsuntersuchung eines Kindes vom",
+      "zum vollendeten 72. Lebensmonat, jeweils eine",
+      "FUZ4 Früherkennungsuntersuchung vom 34. bis zum vollendeten",
+      "48. Lebensmonat",
+      "FUZ5 Früherkennungsuntersuchung vom 49. bis zum vollendeten",
+      "60. Lebensmonat",
+      "FUZ6 Früherkennungsuntersuchung vom 61. bis zum vollendeten",
+      "72. Lebensmonat",
+      "1. Der Abstand zwischen den Früherkennungsuntersuchungen",
+      "mindestens zwölf Monate.",
+      "2. Die Früherkennungsuntersuchungen umfassen folgende Leistungen:",
+      "- Eingehende Untersuchung zur Feststellung von Zahn-, Mund-",
+      "Kieferkrankheiten einschließlich Beratung (Inspektion der",
+      "höhle)",
+      "- Einschätzung des Kariesrisikos anhand des dmft-Index",
+      "- Ernährungs- und Mundhygieneberatung der Betreuungspersonen",
+      "mit dem Ziel der Keimzahlsenkung durch verringerten Konsum",
+      "ckerhaltiger Speisen und Getränke und verbesserte Mundhygiene",
+      "- Empfehlung geeigneter Fluoridierungsmittel zur Schmelzhärtung",
+      "(fluoridiertes Speisesalz, fluoridierte Zahnpaste u. ä.) und",
+      "gabe oder Verordnung von Fluorid-Tabletten",
+      "- Dokumentation im Untersuchungsheft. Als Untersuchungsheft",
+      "diesem Sinne gelten sowohl das Untersuchungsheft für Kinder",
+      "mäß Anlage 1 der Kinder-Richtlinie des Gemeinsamen",
+      "ausschusses als auch das elektronische Untersuchungsheft",
+      "Kinder gemäß den Festlegungen nach § 355 Absatz 1 SGB",
+      "Dokumentation im Untersuchungsheft erfolgt als verpflichtender",
+      "Leistungsbestandteil, soweit dem Zahnarzt das Untersuchungsheft",
+      "entweder in Papier- oder in elektronischer Form zur Verfügung",
+      "steht; die praxisinterne Dokumentation bleibt davon unberührt.",
+      "3. Neben einer Früherkennungsuntersuchung nach Nr. FU2 kann",
+      "Leistung nach Nr. 01 in demselben Kalenderhalbjahr nicht abgerech-",
+      "net werden. Im folgenden Kalenderhalbjahr kann die Leistung",
+      "Nr. 01 frühestens vier Monate nach Erbringung der Früherkennungs-",
+      "untersuchung abgerechnet werden.",
+      "4. Im Zusammenhang mit einer Früherkennungsuntersuchung",
+      "Nr. FU2 kann eine Leistung nach Nr. Ä 1 nicht abgerechnet",
+      "5. Die Abrechnung von Früherkennungsuntersuchungen setzt",
+      "zeluntersuchung bzw. -unterweisung voraus.",
+      "6. Der Abstand zwischen einer Leistung nach Nr. FU1 und einer",
+      "tung nach Nr. FU2 beträgt mindestens vier Monate."
+    ],
+    "wert_kandidaten": [
+      "26"
+    ],
+    "seite": 42
+  },
+  {
+    "ziffer": "FLA",
+    "body_lines": [
+      "Fluoridlackanwendung zur Zahnschmelzhärtung",
+      "1. Die Leistung nach Nr. FLA kann bei Versicherten vom 6. bis",
+      "vollendeten 72. Lebensmonat abgerechnet werden. Sie umfasst",
+      "Anwendung von Fluoridlack zur Zahnschmelzhärtung einschließlich",
+      "der Beseitigung von sichtbaren weichen Zahnbelägen und der",
+      "tiven Trockenlegung der Zähne.",
+      "2. Die Leistung nach Nr. FLA kann zweimal je Kalenderhalbjahr",
+      "rechnet werden.",
+      "Behandlungen von Verletzungen des Gesichtsschädels",
+      "bruch), Kiefergelenkserkrankungen (Aufbissbehelfe)",
+      "struktiver Schlafapnoe (Unterkieferprotrusionsschiene)",
+      "Leistungen, die zur Behandlung von Verletzungen im Bereich",
+      "sind, werden nach den Abschnitten J und L des Gebührenverzeichnisses",
+      "für Ärzte vom 12.11.1982 in der jeweils gültigen Fassung",
+      "der Bewertungszahl ist für 9 GOÄ-Punkte 1 BEMA-Punkt anzusetzen.",
+      "1 des Bewertungsmaßstabes können abgerechnet werden, wenn sie",
+      "nach der GOÄ abrechnungsfähigen Leistung sind."
+    ],
+    "wert_kandidaten": [
+      "14"
+    ],
+    "seite": 44
+  },
+  {
+    "ziffer": "2",
+    "body_lines": [
+      "Schriftliche Niederlegung eines Heil- und Kostenplanes",
+      "Die Leistung nach Nr. 2 kann nicht für die Versorgung mit einer",
+      "ferprotrusionsschiene gemäß den BEMA-Nrn. UP1 bis UP6 abgerechnet",
+      "werden."
+    ],
+    "wert_kandidaten": [
+      "20"
+    ],
+    "seite": 45
+  },
+  {
+    "ziffer": "7",
+    "body_lines": [
+      "Vorbereitende Maßnahmen",
+      "a) Abformung, Bissnahme in habitueller Okklusion für das Erstellen",
+      "dreidimensional orientierten Modellen des Ober- und Unterkiefers",
+      "zur diagnostischen Auswertung und Planung sowie schriftliche",
+      "derlegung",
+      "b) Abformung, Bissnahme für das Erstellen von Modellen des",
+      "und Unterkiefers zur diagnostischen Auswertung und Planung",
+      "schriftliche Niederlegung",
+      "1. Eine Leistung nach den Nrn. 7 a oder b ist bei allen nach der",
+      "notwendig werdenden Abformungsmaßnahmen nur dann abrechen-",
+      "bar, wenn mit der Herstellung der Modelle eine diagnostische",
+      "wertung und Planung verbunden ist. Für die Erstellung von",
+      "modellen können nur Material- und Laborkosten abgerechnet",
+      "den.",
+      "2. Die vorbereitenden Maßnahmen nach Nr. 7 a sind nur im",
+      "einer kieferorthopädischen Behandlung abrechenbar. Sie sind",
+      "dreimal im Verlauf einer kieferorthopädischen Behandlung,",
+      "biniert kieferorthopädisch/kieferchirurgischer Behandlung",
+      "viermal abrechenbar. Dies gilt nicht bei der frühen Behandlung",
+      "Lippen-, Kiefer-, Gaumenspalte oder anderer kraniofacialer Anoma-",
+      "lien, eines skelettal-offenen Bisses, einer Progenie oder",
+      "zungsbedingter Kieferfehlstellungen.",
+      "3. Die vorbereitenden Maßnahmen nach Nr. 7 b sind nur im Rahmen",
+      "der Versorgung mit Zahnersatz und Zahnkronen, der Behandlung",
+      "von Verletzungen und Erkrankungen des Gesichtsschädels",
+      "Unterkieferprotrusionsschienen abrechenbar.",
+      "4. Im Rahmen der Versorgung mit Zahnersatz und Zahnkronen",
+      "Leistungen nach Nr. 7 b neben alleinigen Maßnahmen nach",
+      "und 100 in der Regel nicht abrechenbar.",
+      "5. Leistungen nach Nr. 7 a oder b sind nach dem für die Kieferorthopä-",
+      "die und zahnprothetische Behandlung geltenden Punktwert",
+      "rechnen, soweit sie im Zusammenhang mit diesen Leistungen",
+      "bracht werden."
+    ],
+    "wert_kandidaten": [
+      "19",
+      "19"
+    ],
+    "seite": 45
+  },
+  {
+    "ziffer": "K1",
+    "body_lines": [
+      "Eingliedern eines Aufbissbehelfs mit adjustierter Oberfläche",
+      "a) zur Unterbrechung der Okklusionskontakte",
+      "b) als Aufbissschiene bei der Parodontalbehandlung",
+      "c) als Bissführungsplatte bei der Versorgung mit Zahnersatz",
+      "1. Das Eingliedern eines Aufbissbehelfs mit adjustierter Oberfläche",
+      "Unterbrechung der Okklusionskontakte kann angezeigt sein",
+      "fergelenksstörungen, Myoarthropathien und zur Behebung von",
+      "gewohnheiten. Angezeigt sind nur",
+      "- individuell adjustierte Aufbissbehelfe,",
+      "- Miniplastschienen mit individuell geformtem Kunststoffrelief,",
+      "- Interzeptoren,",
+      "- Spezielle Aufbissschienen, die alle Okklusionsflächen bedecken",
+      "(z. B. Michigan-Schienen).",
+      "2. Eine Leistung nach der Nr. K1 ist auch für die Versorgung mit",
+      "ersatz und Zahnkronen abrechnungsfähig.",
+      "3. Das Eingliedern eines Daueraufbissbehelfs ist mit der Nr. K1",
+      "golten."
+    ],
+    "wert_kandidaten": [
+      "106"
+    ],
+    "seite": 46
+  },
+  {
+    "ziffer": "K2",
+    "body_lines": [
+      "Eingliedern eines Aufbissbehelfs zur Unterbrechung der Okklusionskon-",
+      "takte ohne adjustierte Oberfläche",
+      "Das Eingliedern eines Aufbissbehelfs ohne adjustierte Oberfläche",
+      "bei akuten Schmerzzuständen angezeigt sein."
+    ],
+    "wert_kandidaten": [
+      "45"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K3",
+    "body_lines": [
+      "Umarbeitung einer vorhandenen Prothese zum Aufbissbehelf zur",
+      "brechung der Okklusionskontakte mit adjustierter Oberfläche",
+      "Die Umarbeitung einer vorhandenen Prothese zum Aufbissbehelf",
+      "bei Kiefergelenksstörungen, Myoarthropathien und nach chirurgischen",
+      "Behandlungen angezeigt sein."
+    ],
+    "wert_kandidaten": [
+      "61"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K4",
+    "body_lines": [
+      "Semipermanente Schienung unter Anwendung der Ätztechnik,",
+      "dentalraum",
+      "Die semipermanente Schienung kann zur Stabilisierung gelockerter",
+      "Zähne und bei prä- bzw. postchirurgischen Fixationsmaßnahmen",
+      "zeigt sein."
+    ],
+    "wert_kandidaten": [
+      "11"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K6",
+    "body_lines": [
+      "Wiederherstellung und/oder Unterfütterung eines Aufbissbehelfs"
+    ],
+    "wert_kandidaten": [
+      "30"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K7",
+    "body_lines": [
+      "Kontrollbehandlung, ggf. mit einfachen Korrekturen des Aufbissbehelfs",
+      "oder der Fixierung"
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K8",
+    "body_lines": [
+      "Kontrollbehandlung mit Einschleifen des Aufbissbehelfs oder",
+      "Schienung (subtraktive Methode)"
+    ],
+    "wert_kandidaten": [
+      "12"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "K9",
+    "body_lines": [
+      "Kontrollbehandlung mit Aufbau einer neuen adjustierten Oberfläche",
+      "ditive Methode)",
+      "nach den Nrn. K1 bis K4 sind nur dann abrechnungsfähig, wenn",
+      "der Krankenkasse vorliegt. Die Gesamtvertrags-"
+    ],
+    "wert_kandidaten": [
+      "35"
+    ],
+    "seite": 47
+  },
+  {
+    "ziffer": "partner",
+    "body_lines": [
+      "auf Landesebene können Abweichendes vereinbaren.",
+      "nach den Nrn. K1 und K4 sind auch für die Parodontalbehandlung",
+      "zeitlichen Zusammenhang ist nur eine der Leistungen nach den Nrn."
+    ],
+    "wert_kandidaten": [],
+    "seite": 47
+  },
+  {
+    "ziffer": "K3",
+    "body_lines": [
+      "abrechnungsfähig.",
+      "Sitzung ist nur eine der Leistungen nach den Nrn. K6 bis K9 abrechnungsfä-"
+    ],
+    "wert_kandidaten": [],
+    "seite": 48
+  },
+  {
+    "ziffer": "UP1",
+    "body_lines": [
+      "Untersuchung zur Versorgung mit einer Unterkieferprotrusionsschiene",
+      "einschließlich Beratung",
+      "1. Die Leistung nach Nr. UP1 umfasst die Prüfung, ob die zahnmedizi-",
+      "nischen Voraussetzungen für die Versorgung mit einer Unterkiefer-",
+      "protrusionsschiene vorliegen, insbesondere eine ausreichende",
+      "higkeit zur Mundöffnung, eine ausreichende aktive Protrusionsbe-",
+      "wegungsmöglichkeit des Unterkiefers, eine ausreichende Veranke-",
+      "rungsmöglichkeit der Schiene sowie keine der Versorgung",
+      "genstehenden Kiefergelenksstörungen.",
+      "2. Neben einer Leistung nach Nr. UP1 kann für dieselbe Sitzung",
+      "Leistung nach Nr. Ä 1 nur abgerechnet werden, wenn sie anderen",
+      "Zwecken dient. Für eine der nachfolgenden Sitzungen kann",
+      "Leistung nach Nr. Ä 1 nur dann abgerechnet werden, wenn",
+      "alleinige Leistung erbracht wird.",
+      "3. Die Versorgung mit einer Unterkieferprotrusionsschiene kann",
+      "auf Veranlassung eines Vertragsarztes mit der Zusatzbezeichnung",
+      "„Schlafmedizin“ oder der Qualifikation nach § 6 Absatz 2 der",
+      "tätssicherungsvereinbarung zwischen der Kassenärztlichen",
+      "desvereinigung und dem GKV-Spitzenverband zur Diagnostik",
+      "Therapie schlafbezogener Atmungsstörungen gemäß § 135",
+      "SGB V abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "27"
+    ],
+    "seite": 48
+  },
+  {
+    "ziffer": "UP2",
+    "body_lines": [
+      "Abformung und dreidimensionale Registrierung der Startprotrusionsposi-",
+      "tion"
+    ],
+    "wert_kandidaten": [
+      "49"
+    ],
+    "seite": 48
+  },
+  {
+    "ziffer": "UP3",
+    "body_lines": [
+      "Eingliedern einer Unterkieferprotrusionsschiene",
+      "1. Die Leistung nach UP3 umfasst das Eingliedern einer zweiteiligen,",
+      "bimaxillär verankerten Unterkieferprotrusionsschiene mit individuell",
+      "reproduzierbarer Adjustierung sowie der Möglichkeit einer",
+      "ellen Nachjustierung mindestens in Millimeterschritten sowie",
+      "lung des Protrusionsgrads ausgehend von regelhaft mindestens",
+      "50 % der maximal möglichen aktiven Unterkieferprotrusion.",
+      "2. Die zusätzliche Abrechnung von zahnärztlichem Honorar",
+      "wendung besonderer Abdruckverfahren ist nicht zulässig."
+    ],
+    "wert_kandidaten": [
+      "223"
+    ],
+    "seite": 49
+  },
+  {
+    "ziffer": "UP4",
+    "body_lines": [
+      "Nachadaption des Protrusionsgrads",
+      "Die Leistung nach Nr. UP4 erfolgt in Abstimmung mit dem Vertragsarzt,",
+      "der die Versorgung des Versicherten mit der Unterkieferprotrusions-",
+      "schiene veranlasst hat."
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 49
+  },
+  {
+    "ziffer": "UP5",
+    "body_lines": [
+      "Kontrollbehandlung",
+      "a) ggf. mit einfachen Korrekturen der UP",
+      "b) mit Einschleifen der Stütz- und Gleitzonen einer UP (subtraktive",
+      "thode)",
+      "c) mit Aufbau der Stütz- und Gleitzone einer UP (additive Methode)",
+      "Je Sitzung ist nur eine der Leistungen nach den Nrn. UP 5 a bis",
+      "abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "8",
+      "12",
+      "35"
+    ],
+    "seite": 49
+  },
+  {
+    "ziffer": "UP6",
+    "body_lines": [
+      "Maßnahmen zum Wiederherstellen der Funktion oder zur Erweiterung",
+      "ner Unterkieferprotrusionsschiene",
+      "a) kleinen Umfanges (ohne Abformung)",
+      "b) größeren Umfanges (mit Abformung)",
+      "c) Teilunterfütterung einer Unterkieferprotrusionsschiene",
+      "d) Wiederherstellung eines einzelnen oder mehrerer Halte- oder",
+      "vorrichtungen",
+      "e) Wiederherstellung eines einzelnen oder mehrerer Protrusionsele-",
+      "mente",
+      "Für das Reinigen, Säubern und Polieren von Unterkieferprotrusionsschie-",
+      "nen einschließlich der Protrusionselemente können den Krankenkassen",
+      "keine Kosten berechnet werden.",
+      "des Bewertungsausschusses am 22.12.2004 gem. § 87 Abs. 3",
+      "beschließt mit Wirkung zum 01.01.2005 die Verschiebung",
+      "BEMA-Positionen von BEMA-Teil 5 in BEMA-Teil 2. Es gilt der Punktwert"
+    ],
+    "wert_kandidaten": [
+      "25",
+      "42",
+      "37",
+      "19",
+      "19"
+    ],
+    "seite": 49
+  },
+  {
+    "ziffer": "101",
+    "body_lines": [
+      "Maßnahmen zur Weichteilstützung zum Ausgleich oder zum Verschluss",
+      "von Defekten im Bereich des Kiefers",
+      "a) bei vorhandenem Restgebiss",
+      "b) bei zahnlosem Kiefer"
+    ],
+    "wert_kandidaten": [
+      "80",
+      "120"
+    ],
+    "seite": 50
+  },
+  {
+    "ziffer": "102",
+    "body_lines": [
+      "Eingliedern eines Obturators zum Verschluss von Defekten des weichen",
+      "Gaumens"
+    ],
+    "wert_kandidaten": [
+      "240"
+    ],
+    "seite": 50
+  },
+  {
+    "ziffer": "103",
+    "body_lines": [
+      "Resektionsprothesen:",
+      "a) Eingliedern einer temporären Verschlussprothese nach",
+      "tion oder bei großen Defekten des Oberkiefers",
+      "b) Ergänzungsmaßnahmen im Anschluss an Leistungen nach",
+      "stabe a)",
+      "c) Eingliedern einer Dauerprothese"
+    ],
+    "wert_kandidaten": [
+      "160",
+      "80",
+      "300"
+    ],
+    "seite": 50
+  },
+  {
+    "ziffer": "104",
+    "body_lines": [
+      "Eingliedern einer Prothese oder Epithese zum Verschluss extraoraler",
+      "Weichteildefekte oder zum Ersatz fehlender Gesichtsteile",
+      "a) kleineren Umfanges",
+      "b) größeren Umfanges",
+      "Stütz-, Halte- oder Hilfsvorrichtungen sind nach den Allgemeinen",
+      "mungen des BEMA abrechnungsfähig.",
+      "nach den Nrn. 101 bis 104 können nur im Zusammenhang mit"
+    ],
+    "wert_kandidaten": [
+      "300",
+      "500"
+    ],
+    "seite": 50
+  },
+  {
+    "ziffer": "funden",
+    "body_lines": [
+      "nach den Klassen Nr. 3 und 4 der Festzuschuss-Richtlinien abgerechnet",
+      "hiervon besteht zwischen den Spitzenverbänden der Krankenkassen",
+      "dass dies für eine Leistung der BEMA-Nr. 104 nicht gilt, da"
+    ],
+    "wert_kandidaten": [],
+    "seite": 50
+  },
+  {
+    "ziffer": "Epithese",
+    "body_lines": [
+      "der Ersatz von fehlenden Zähnen durch eine Prothese nicht immer erforderlich",
+      "Kieferorthopädische Behandlung",
+      "Teil nicht aufgeführte Leistungen können nach den Teilen 1 und/oder"
+    ],
+    "wert_kandidaten": [],
+    "seite": 50
+  },
+  {
+    "ziffer": "5",
+    "body_lines": [
+      "Kieferorthopädische Behandlungsplanung",
+      "Entwicklung eines befundorientierten Therapiekonzepts sowie",
+      "rung des Patienten und Dokumentation, einschließlich Erstellung",
+      "Behandlungsplanes. Die Dokumentation ist dem Patienten anzubieten",
+      "und auf Wunsch auszuhändigen.",
+      "Eine Leistung nach Nr. 5 ist nicht abrechnungsfähig",
+      "- bei Verlängerungsanträgen,",
+      "- bei Therapieänderungen und Ergänzungen zum Behandlungsplan",
+      "- oder zur Retentionsplanung."
+    ],
+    "wert_kandidaten": [
+      "95"
+    ],
+    "seite": 51
+  },
+  {
+    "ziffer": "116",
+    "body_lines": [
+      "Fotografie",
+      "Profil- oder en-face-Fotografie mit diagnostischer Auswertung,",
+      "nahme",
+      "Eine Leistung nach Nr. 116 ist im Verlauf einer kieferorthopädischen",
+      "handlung bis zu viermal abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "15"
+    ],
+    "seite": 51
+  },
+  {
+    "ziffer": "117",
+    "body_lines": [
+      "Modellanalyse",
+      "Analyse von Kiefermodellen (dreidimensionale Analyse, graphische",
+      "metrische Analyse, Diagramme), je Nr. 7 a",
+      "Eine Leistung nach Nr. 117 ist bis zu dreimal im Verlauf einer kieferortho-",
+      "pädischen Behandlung, bei einer kombiniert kieferorthopädisch/kieferchi-",
+      "rurgischen Behandlung bis zu viermal abrechenbar. Dies gilt nicht",
+      "frühen Behandlung einer Lippen-, Kiefer-, Gaumenspalte oder",
+      "kraniofacialer Anomalien, eines skelettal-offenen Bisses, einer",
+      "oder verletzungsbedingter Kieferfehlstellungen."
+    ],
+    "wert_kandidaten": [
+      "35"
+    ],
+    "seite": 51
+  },
+  {
+    "ziffer": "118",
+    "body_lines": [
+      "Kephalometrische Auswertung",
+      "Untersuchung des Gesichtsschädels, einmal je Fernröntgenseitenbild",
+      "einschließlich Dokumentation",
+      "1. Eine Leistung nach Nr. 118 kann im Verlauf einer kieferorthopädi-",
+      "schen Behandlung höchstens zweimal, in begründeten Ausnahme-",
+      "fällen dreimal abgerechnet werden.",
+      "2. Eine Leistung nach Nr. 118 ist bei Frühbehandlung mit verkürzter",
+      "Behandlungsdauer nur bei skelettalen Dysgnathien im Verlauf",
+      "kieferorthopädischen Behandlung einmal abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "29"
+    ],
+    "seite": 52
+  },
+  {
+    "ziffer": "119",
+    "body_lines": [
+      "Maßnahmen zur Umformung eines Kiefers einschließlich Retention",
+      "a) einfach durchführbarer Art",
+      "b) mittelschwer durchführbarer Art",
+      "c) schwierig durchführbarer Art",
+      "d) besonders schwierig durchführbarer Art",
+      "Die Zuordnung zu den Buchstaben a bis d erfolgt nach folgendem",
+      "wertungssystem:",
+      "Die Summe der einzelnen Punkte ergibt die Bewertung für Schwierigkeit",
+      "und Umfang der vorgesehenen Kieferumformung nach folgendem",
+      "Schema:",
+      "5 bis 7 Punkte = a) 11 bis 15 Punkte = c)",
+      "8 bis 10 Punkte = b) 16 und mehr Punkte = d)",
+      "*) Als günstige „kippende” Bewegung gelten:",
+      "Bukkalbewegung der Seitenzähne bei der Dehnung, Protrusionsbewe-",
+      "gung der Frontzähne und Retrusionsbewegung der Frontzähne,",
+      "bewegung der Seitenzähne;",
+      "als ungünstige „kippende” Bewegung gelten:",
+      "Palatinalbewegung und Distalbewegung der Seitenzähne, Lateralbewe-",
+      "gung von Frontzähnen, Drehung, Verlängerung und Verkürzung",
+      "nen (auf direktem Wege)."
+    ],
+    "wert_kandidaten": [
+      "132",
+      "204",
+      "276",
+      "336"
+    ],
+    "seite": 52
+  },
+  {
+    "ziffer": "120",
+    "body_lines": [
+      "Maßnahmen zur Einstellung des Unterkiefers in den Regelbiss in",
+      "ler oder lateraler Richtung einschließlich Retention",
+      "a) einfach durchführbarer Art",
+      "b) mittelschwer durchführbarer Art",
+      "c) schwierig durchführbarer Art",
+      "d) besonders schwierig durchführbarer Art",
+      "Die Zuordnung zu den Buchstaben a bis d erfolgt nach folgendem",
+      "tungssystem:",
+      "Die Summe der einzelnen Punkte ergibt die Bewertung für Schwierigkeit",
+      "und Umfang der vorgesehenen Bissverlagerung:",
+      "4 bis 8 Punkte = a) 11 bis 12 Punkte = c)",
+      "9 bis 10 Punkte = b) 13 und mehr Punkte = d)",
+      "1. Im Zusammenhang mit einer Leistung nach Nrn. 119/120",
+      "Leistung nach Nr. 01 nur abrechnungsfähig, wenn sie anderen",
+      "kieferorthopädischen Zwecken dient.",
+      "2. Im Verlauf einer kieferorthopädischen Behandlung ist die Abrech-",
+      "nung von Leistungen der Nrn. 121 bis 124 neben einer Leistung",
+      "Nrn. 119/120 nicht möglich.",
+      "3. Der Zahnarzt hat quartalsweise Abschlagszahlungen abzurechnen",
+      "bei Nr. 119 a) 11 Punkte bei Nr. 120 a) 17 Punkte",
+      "b) 17 Punkte b) 19 Punkte",
+      "c) 23 Punkte c) 23 Punkte",
+      "d) 28 Punkte d) 28 Punkte",
+      "Für Kalenderquartale, in denen keine kieferorthopädischen Leistun-",
+      "gen erbracht wurden, entfällt die Abrechnung der Abschlagszahlung.",
+      "In diesen Fällen verlängert sich die Behandlungszeit entsprechend.",
+      "Insgesamt können nicht mehr als 12 Abschlagszahlungen abgerech-",
+      "net werden.",
+      "4. Mit den Gebühren nach Nrn. 119/120 ist eine Behandlungszeit",
+      "zu 16 Behandlungsquartalen abgegolten. Bei vorzeitigem Behand-",
+      "lungsabschluss können in den Fällen nach den Nrn. 119 a",
+      "sowie 120 a und b die restlichen Abschlagszahlungen bei Ende",
+      "Behandlung abgerechnet werden. Soweit nach den Nrn. 119",
+      "d sowie 120 c und d eingestufte Behandlungen vor 10 Behandlungs-",
+      "quartalen beendet werden, erhält der Zahnarzt die bis zu",
+      "Zeitpunkt fällig gewordene Vergütung.",
+      "5. Bei der Frühbehandlung eines Distalbisses, eines lateralen",
+      "oder Zwangsbisses, sofern dieser durch präventive Maßnahmen",
+      "(Einschleifen) nicht zu korrigieren ist, einer Bukkalokklusion",
+      "okklusion) permanenter Zähne, eines progenen Zwangsbisses/fron-",
+      "talen Kreuzbisses oder der Behandlung zum Öffnen von",
+      "kann der Zahnarzt quartalsweise Abschlagszahlungen nach",
+      "Nrn. 119 und/oder 120, für längstens sechs Kalenderquartale",
+      "rechnen. Diese Abrechnung ist besonders zu kennzeichnen.",
+      "zeitigem Behandlungsabschluss können die restlichen Abschlags-",
+      "zahlungen nach Satz 1 bei Ende der Behandlung abgerechnet",
+      "den.",
+      "Die Frühbehandlung soll nicht vor dem 4. Lebensjahr begonnen",
+      "den.",
+      "6. Die frühe Behandlung einer Lippen-, Kiefer-, Gaumenspalte",
+      "derer kraniofacialer Anomalien, eines skelettal-offenen Bisses,",
+      "Progenie oder verletzungsbedingter Kieferfehlstellungen",
+      "den Nrn. 119 und/oder 120 abrechnungsfähig.",
+      "7. Über das 4. Behandlungsjahr hinausgehende noch erforderliche",
+      "Leistungen sind mit Begründung und Angabe der voraussichtlichen",
+      "weiteren Behandlungszeit und der Neuzuordnung aufgrund",
+      "fundes am Ende des 4. Behandlungsjahres zu den Buchstaben",
+      "d der Nrn. 119 und 120 schriftlich zu beantragen.",
+      "Für die nach Ablauf von 16 Behandlungsquartalen notwendigen",
+      "handlungsmaßnahmen (mit Ausnahme der Retentionsüberwa-",
+      "chung) werden bei Leistungen nach Nrn. 119 und 120",
+      "schlagszahlungen wie unter Nr. 3 quartalsweise fällig.",
+      "8. Wird die Behandlung abgebrochen, so erhält der Zahnarzt die",
+      "diesem Zeitpunkt fällig gewordene Vergütung.",
+      "9. Belehrende und ermahnende Informationen in einem Brief",
+      "Patienten oder deren Erziehungsberechtigte sind mit den Gebühren",
+      "nach den Nrn. 119 und/oder 120 abgegolten.",
+      "10. Maßnahmen zur Retention können bis zu zwei Jahren nach",
+      "Ende des Kalenderquartals, für das die letzte Abschlagszahlung",
+      "nach den Nrn. 119/120 geleistet worden ist, abgerechnet",
+      "längstens bis zum Abschluss der Behandlung. Der Zahnarzt",
+      "Abschluss der Behandlung einschließlich der Retention schriftlich",
+      "bestätigen.",
+      "11. Die Abrechnung von Leistungen nach den Nrn. 119/120 beginnt",
+      "der therapeutischen Phase. Das ist in der Regel die erste",
+      "nahme zur Herstellung eines Behandlungsgerätes oder das",
+      "hieren, Separieren und Einschleifen von Zähnen im engen zeitlichen",
+      "Zusammenhang mit der Eingliederung des Behandlungsgerätes.",
+      "12. Übernimmt ein Zweitbehandler die Fortführung der Behandlung",
+      "nach dem ursprünglichen Behandlungsplan, so kann der Zweitbe-",
+      "handler die restlichen Abschlagszahlungen abrechnen.",
+      "Hat der Erstbehandler 7 oder mehr Abschlagszahlungen abgerech-",
+      "net, ist der Zweitbehandler berechtigt, nach Ablauf von 12 Behand-",
+      "lungsquartalen sofort einen Verlängerungsantrag zu stellen.",
+      "13. Mit den Nrn. 119/120 ist die Ausstellung der Abschlussbescheini-",
+      "gung abgegolten.",
+      "(Siehe auch Beschluss Nr. 110 der Arbeitsgemeinschaft gem. § 22",
+      "vom 03.05.1989, gültig ab 01.05.1989 - gilt nur für Ersatzkassen)"
+    ],
+    "wert_kandidaten": [
+      "204",
+      "228",
+      "276",
+      "336"
+    ],
+    "seite": 53
+  },
+  {
+    "ziffer": "121",
+    "body_lines": [
+      "Beseitigung von Habits bei einem habituellen Distalbiss oder bei",
+      "habituell offenen Biss, je Sitzung",
+      "1. Eine Leistung nach Nr. 121 kann pro Patient bis zu sechsmal",
+      "rend eines Zeitraums von sechs Monaten abgerechnet werden.",
+      "Nach einem Zeitraum von sechs Monaten ist die Abrechnung",
+      "Leistung nach Nr. 121 ausgeschlossen. Neben Leistungen nach",
+      "Nrn. 119/120 ist eine Leistung nach der Nr. 121 nicht abrechnungs-",
+      "fähig.",
+      "2. Zur Befundung und/oder Behandlung nach Nr. 121 sind Röntgenauf-",
+      "nahmen nicht abrechnungsfähig.",
+      "3. Für eine Leistung nach Nr. 121 ist kein Behandlungsplan nach",
+      "abrechnungsfähig.",
+      "(Siehe auch Feststellung Nr. 92 der Arbeitsgemeinschaft gem. § 22",
+      "vom 31.07.1980 - gilt nur für Ersatzkassen)"
+    ],
+    "wert_kandidaten": [
+      "17"
+    ],
+    "seite": 56
+  },
+  {
+    "ziffer": "122",
+    "body_lines": [
+      "Kieferorthopädische Verrichtungen als alleinige Leistung",
+      "a) Kontrolle des Behandlungsverlaufs einschließlich kleiner Änderun-",
+      "gen für Behandlungsmittel, für jede Sitzung",
+      "b) Vorbereitende Maßnahmen zur Herstellung von kieferorthopädi-",
+      "schen Behandlungsmitteln, je Kiefer",
+      "c) Einfügen von kieferorthopädischen Behandlungsmitteln, je",
+      "1. Die Eingliederung einer Mundvorhofplatte kann nicht",
+      "Nrn. 119/120 abgerechnet werden. Nach den Nrn. 122 a bis",
+      "sie nur abgerechnet werden, wenn sie individuell gefertigt wurde.",
+      "2. Neben Leistungen nach den Nrn. 119/120 sind Leistungen nach",
+      "Nrn. 122 a bis c nicht abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "21",
+      "43"
+    ],
+    "seite": 56
+  },
+  {
+    "ziffer": "123a",
+    "body_lines": [
+      "Kieferorthopädische Maßnahmen mit herausnehmbaren Geräten",
+      "Offenhalten von Lücken infolge vorzeitigem Milchzahnverlustes,"
+    ],
+    "wert_kandidaten": [],
+    "seite": 57
+  },
+  {
+    "ziffer": "123b",
+    "body_lines": [
+      "Kontrolle eines Lückenhalters, je Behandlungsquartal",
+      "1. Neben Leistungen nach den Nrn. 119/120 sind Leistungen",
+      "Nrn. 123a oder 123b nicht abrechnungsfähig.",
+      "2. Neben einer Leistung nach Nr. 123a sind Material- und Laboratori-",
+      "umskosten abrechnungsfähig.",
+      "3. Für eine Leistung nach Nr. 123a ist kein Behandlungsplan nach",
+      "abrechnungsfähig.",
+      "4. Neben einer Leistung nach Nr. 123a kann ein Orthopantomogramm",
+      "abgerechnet werden, wenn es nicht bereits erbracht wurde.",
+      "Röntgenaufnahmen sind daneben nicht abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "14"
+    ],
+    "seite": 57
+  },
+  {
+    "ziffer": "124",
+    "body_lines": [
+      "Einschleifen von Milchzähnen bei Kreuz- oder Zwangsbiss, je Sitzung",
+      "1. Neben Leistungen nach den Nrn. 119/120 ist eine Leistung",
+      "Nr. 124 nicht abrechnungsfähig.",
+      "2. Eine Leistung nach Nr. 124 ist bis zu zweimal abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 57
+  },
+  {
+    "ziffer": "125",
+    "body_lines": [
+      "Maßnahmen zur Wiederherstellung von Behandlungsmitteln einschließ-",
+      "lich Wiedereinfügen, je Kiefer",
+      "1. Eine Leistung nach Nr. 125 kann neben Leistungen nach",
+      "Nrn. 119/120 abgerechnet werden, wenn ein Behandlungsmittel",
+      "wiederhergestellt wird.",
+      "2. Die Wiederherstellung nach Nr. 125 bezieht sich nur auf Draht-",
+      "Basisteile je Behandlungsgerät. Die Änderung von Behandlungsmit-",
+      "teln ist mit den Gebühren nach den Nrn. 119 und 120 abgegolten.",
+      "Die Aktivierung von Behandlungsmitteln, z. B. Nachstellen",
+      "Schrauben und Federelementen, kann nicht nach Nr. 125 abgerech-",
+      "net werden."
+    ],
+    "wert_kandidaten": [
+      "30"
+    ],
+    "seite": 57
+  },
+  {
+    "ziffer": "126a",
+    "body_lines": [
+      "Eingliedern eines Brackets oder eines Attachments aus Edelstahl",
+      "nickelfreiem Metall einschließlich Material- und Laborkosten",
+      "Die Leistung umfasst die Klebeflächenreinigung, das Konditionieren,",
+      "Trockenlegung, das Positionieren, das Kleben und die Überschussentfer-",
+      "nung.",
+      "Für das Eingliedern eines festsitzenden Unterkiefer-Frontzahnretainers",
+      "ist im Verlauf einer kieferorthopädischen Behandlung einmalig",
+      "sechsmal die Nr. 126a und einmal die Nr. 127a abrechenbar, wenn",
+      "Behandlungsbedarfsgrad E3 oder E4 in der Unterkieferfront festgestellt",
+      "wurde. Bei einem festsitzenden Unterkiefer-Frontzahnretainer sind",
+      "Wiedereingliedern und/oder der Ersatz sowie die Nr. 127b nicht",
+      "chenbar. Eine Leistung nach Nr. 126d ist bzgl. eines Retainers nur",
+      "chenbar, wenn sie innerhalb der vertraglich festgelegten Retentionszeit",
+      "anfällt."
+    ],
+    "wert_kandidaten": [
+      "18"
+    ],
+    "seite": 58
+  },
+  {
+    "ziffer": "126b",
+    "body_lines": [
+      "Eingliedern eines Bandes einschließlich Material- und Laborkosten",
+      "Die Leistung umfasst die Vorauswahl am Modell, die Klebeflächenreini-",
+      "gung, das Vorbeschleifen, die Einprobe, das Adaptieren, das Finishing,",
+      "das Konturieren, die Trockenlegung, das Zementieren und die",
+      "schussentfernung.",
+      "In der Regel soll an einem Zahn im Verlauf einer kieferorthopädischen",
+      "Behandlung nur einmal ein Band oder ein Bracket befestigt werden."
+    ],
+    "wert_kandidaten": [
+      "42"
+    ],
+    "seite": 58
+  },
+  {
+    "ziffer": "126c",
+    "body_lines": [
+      "Wiedereingliederung eines Bandes"
+    ],
+    "wert_kandidaten": [
+      "30"
+    ],
+    "seite": 58
+  },
+  {
+    "ziffer": "126d",
+    "body_lines": [
+      "Entfernung eines Bandes, eines Brackets oder eines Attachments",
+      "Die Leistung umfasst das Abnehmen, das Entfernen von Kleberesten",
+      "das Polieren.",
+      "Leistungen nach Nrn. 126 bis 131 können neben Leistungen",
+      "Nrn. 119 und/oder 120 abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 58
+  },
+  {
+    "ziffer": "127a",
+    "body_lines": [
+      "Eingliederung eines Teilbogens aus Edelstahl einschließlich",
+      "und Laborkosten",
+      "Die Leistung umfasst das Anpassen, die Einprobe, das Einsetzen",
+      "das Einligieren."
+    ],
+    "wert_kandidaten": [
+      "25"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "127b",
+    "body_lines": [
+      "Ausgliederung eines Teilbogens"
+    ],
+    "wert_kandidaten": [
+      "7"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "128a",
+    "body_lines": [
+      "Eingliederung eines konfektionierten Vollbogens aus Edelstahl",
+      "schließlich Material- und Laborkosten",
+      "Die Leistung umfasst das Anpassen, die Einprobe, das Einsetzen",
+      "das Einligieren."
+    ],
+    "wert_kandidaten": [
+      "32"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "128b",
+    "body_lines": [
+      "Eingliederung eines individualisierten Vollbogens aus Edelstahl",
+      "schließlich Material- und Laborkosten",
+      "Die Leistung umfasst das Anpassen, das Biegen, die Einprobe,",
+      "setzen und das Einligieren. Zum Leistungsinhalt eines individualisierten",
+      "Bogens gehören mindestens drei Biegungen 2. Ordnung oder",
+      "gung 3. Ordnung."
+    ],
+    "wert_kandidaten": [
+      "40"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "128c",
+    "body_lines": [
+      "Ausgliederung von Vollbögen, je Bogen",
+      "Nach Nr. 128c ist auch die Ausgliederung von Apparaturen nach",
+      "zweimal abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "9"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "129",
+    "body_lines": [
+      "Wiedereingliederung eines Voll- oder Teilbogens"
+    ],
+    "wert_kandidaten": [
+      "24"
+    ],
+    "seite": 59
+  },
+  {
+    "ziffer": "130",
+    "body_lines": [
+      "Eingliederung ergänzender festsitzender Apparaturen (Palatinal-",
+      "Transversalbogen, Quadhelix, Lingualbogen, Lipbumper, Headgear",
+      "je zwei Ankerbänder) einschließlich Material- und Laborkosten",
+      "Neben der Leistung nach Nr. 130 ist die Leistung nach Nr. 126b zweimal",
+      "abrechenbar.",
+      "Material- und Laborkosten zur extraoralen Fixierung und Aktivierung",
+      "nen gesondert abgerechnet werden.",
+      "Für die Ausgliederung einer ergänzenden festsitzenden Apparatur",
+      "Leistung nach Nr. 128c zweimal abrechenbar."
+    ],
+    "wert_kandidaten": [
+      "72"
+    ],
+    "seite": 60
+  },
+  {
+    "ziffer": "131a",
+    "body_lines": [
+      "Eingliederung und Ausgliederung einer Gaumennahterweiterungsappa-",
+      "ratur",
+      "Neben der Leistung nach Nr. 131a ist eine Leistung nach Nr. 126b",
+      "viermal abrechenbar. Material- und Laborkosten können gesondert",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "50"
+    ],
+    "seite": 60
+  },
+  {
+    "ziffer": "131b",
+    "body_lines": [
+      "Eingliederung und Ausgliederung einer festsitzenden Apparatur zur",
+      "lagekorrektur (Herbstscharnier) bei spätem Behandlungsbeginn,",
+      "der Wachstumshöhepunkt überschritten ist und die Bisslagekorrektur",
+      "konventionellen Maßnahmen nicht erreicht werden kann, je Seite",
+      "Neben der Leistung nach Nr. 131b ist eine Leistung nach Nr. 126b",
+      "viermal abrechenbar. Material- und Laborkosten können gesondert",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "50"
+    ],
+    "seite": 60
+  },
+  {
+    "ziffer": "131c",
+    "body_lines": [
+      "Eingliederung einer Gesichtsmaske",
+      "Neben der Leistung nach Nr. 131c können Material- und Laborkosten",
+      "gesondert abgerechnet werden.",
+      "Systematische Behandlung von Parodontitis und",
+      "dontalerkrankungen",
+      "Teil nicht aufgeführte Leistungen können nach den anderen Teilen"
+    ],
+    "wert_kandidaten": [
+      "50"
+    ],
+    "seite": 60
+  },
+  {
+    "ziffer": "4",
+    "body_lines": [
+      "Befunderhebung und Erstellen eines Parodontalstatus",
+      "Parodontologisches Aufklärungs- und Therapiegespräch",
+      "1. Das Parodontologische Aufklärungs- und Therapiegespräch",
+      "die Information des Versicherten über den Befund und die Diagnose,",
+      "die Erörterung von gegebenenfalls bestehenden Therapiealternativen",
+      "und deren Bedeutung zur Ermöglichung einer gemeinsamen",
+      "scheidungsfindung über die nachfolgende Therapie einschließlich",
+      "Unterstützenden Parodontitistherapie, die Information über",
+      "deutung von gesundheitsbewusstem Verhalten zur Reduktion",
+      "ner und endogener Risikofaktoren sowie die Information über",
+      "selwirkungen mit anderen Erkrankungen.",
+      "2. Neben der Leistung nach Nr. ATG kann eine Leistung nach",
+      "derselben Sitzung nicht abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "44",
+      "28"
+    ],
+    "seite": 61
+  },
+  {
+    "ziffer": "MHU",
+    "body_lines": [
+      "Patientenindividuelle Mundhygieneunterweisung",
+      "1. Die Patientenindividuelle Mundhygieneunterweisung erfolgt",
+      "chen Zusammenhang mit der Leistung nach Nr. AIT und umfasst",
+      "gende Leistungen:",
+      "−",
+      "Mundhygieneaufklärung; hierbei soll in Erfahrung",
+      "werden, über welches Wissen zu parodontalen Erkrankungen",
+      "der Versicherte verfügt, wie seine Zahnpflegegewohnheiten",
+      "aussehen und welche langfristigen Ziele bezogen auf",
+      "Mundgesundheit der Versicherte verfolgt",
+      "−",
+      "Bestimmung des Entzündungszustands der Gingiva",
+      "−",
+      "Anfärben von Plaque",
+      "−",
+      "Individuelle Mundhygieneinstruktion",
+      "−",
+      "Praktische Anleitung zur risikospezifischen Mundhygiene;",
+      "hierbei sollten die individuell geeigneten Mundhygienehilfsmit-",
+      "tel bestimmt und deren Anwendung praktisch geübt werden",
+      "2. Die Mundhygieneunterweisung soll in einer die jeweilige individuelle",
+      "Versichertensituation berücksichtigenden Weise erfolgen.",
+      "3. Neben der Leistung nach Nr. MHU kann eine Leistung nach Nr.",
+      "derselben Sitzung nicht abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "45"
+    ],
+    "seite": 61
+  },
+  {
+    "ziffer": "AIT",
+    "body_lines": [
+      "Antiinfektiöse Therapie",
+      "a) je behandeltem einwurzeligen Zahn",
+      "b) je behandeltem mehrwurzeligen Zahn",
+      "1. Gegenstand der antiinfektiösen Therapie ist die Entfernung aller",
+      "ragingivalen und klinisch erreichbaren subgingivalen weichen",
+      "harten Beläge (Biofilm und Konkremente) bei Zahnfleischtaschen",
+      "einer Sondierungstiefe von 4 mm oder mehr. Die Maßnahme",
+      "im Rahmen eines geschlossenen Vorgehens und sollte nach",
+      "lichkeit innerhalb von vier Wochen abgeschlossen werden.",
+      "2. Bei besonders schweren Formen der Parodontitis, die mit einem",
+      "schen Attachmentverlust einhergehen, kann im zeitlichen",
+      "menhang mit der Antiinfektiösen Therapie die Verordnung systemisch",
+      "wirkender Antibiotika angezeigt sein.",
+      "3. Mit der Leistung nach Nr. AIT sind während oder unmittelbar",
+      "erbrachte Leistungen nach den Nrn. 105, 107 und 107 a abgegolten.",
+      "4. Die Gingivektomie oder Gingivoplastik sind mit der Nr. AIT abgegol-",
+      "ten."
+    ],
+    "wert_kandidaten": [
+      "14",
+      "26"
+    ],
+    "seite": 62
+  },
+  {
+    "ziffer": "BEV",
+    "body_lines": [
+      "Befundevaluation",
+      "a) nach AIT",
+      "b) nach CPT",
+      "1. Die Evaluation der parodontalen Befunde im Rahmen der systemati-",
+      "schen Parodontitistherapie erfolgt grundsätzlich drei bis sechs",
+      "nate nach Beendigung der Antiinfektiösen Therapie gemäß",
+      "Im Falle eines gegebenenfalls erforderlichen offenen Vorgehens",
+      "folgt eine weitere Evaluation grundsätzlich drei bis sechs Monate",
+      "Beendigung der Chirurgischen Therapie gemäß Nr. CPT.",
+      "2. Die Dokumentation des klinischen Befunds umfasst die",
+      "rungstiefen und die Sondierungsblutung, die Zahnlockerung,",
+      "kationsbefall, den röntgenologischen Knochenabbau sowie",
+      "gabe des Knochenabbaus in Relation zum Patientenalter (%/Alter).",
+      "Die erhobenen Befunddaten werden mit den Befunddaten des",
+      "dontalstatus verglichen. Dem Versicherten wird der Nutzen",
+      "Maßnahmen erläutert und es wird mit ihm das weitere Vorgehen",
+      "sprochen.",
+      "3. Neben der Leistung nach Nr. BEV kann eine Leistung nach",
+      "derselben Sitzung nicht abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "32",
+      "32"
+    ],
+    "seite": 63
+  },
+  {
+    "ziffer": "CPT",
+    "body_lines": [
+      "Chirurgische Therapie",
+      "a) je behandeltem einwurzeligen Zahn",
+      "b) je behandeltem mehrwurzeligen Zahn",
+      "1. Die Chirurgische Therapie erfolgt im Rahmen eines offenen",
+      "hens und umfasst die Lappenoperation (einschließlich Naht",
+      "Schleimhautverbände) sowie das supra- und subgingivale",
+      "ment.",
+      "2. Der Chirurgischen Therapie hat ein geschlossenes Vorgehen",
+      "men der Antiinfektiösen Therapie vorauszugehen. Die zahnmedizini-",
+      "sche Notwendigkeit für ein offenes Vorgehen kann für Parodontien",
+      "angezeigt sein, bei denen im Rahmen der Befundevaluation eine",
+      "dierungstiefe von 6 mm oder mehr gemessen wird.",
+      "3. Mit der Leistung nach Nr. CPT sind während oder unmittelbar",
+      "erbrachte Leistungen nach den Nrn. 105, 107 und 107a abgegolten."
+    ],
+    "wert_kandidaten": [
+      "22",
+      "34"
+    ],
+    "seite": 63
+  },
+  {
+    "ziffer": "UPT",
+    "body_lines": [
+      "Unterstützende Parodontitistherapie",
+      "a) Mundhygienekontrolle",
+      "b) Mundhygieneunterweisung (soweit erforderlich)",
+      "c) Supragingivale und gingivale Reinigung aller Zähne von anhaftenden",
+      "Biofilmen und Belägen, je Zahn",
+      "d) Messung von Sondierungstiefen und Sondierungsbluten",
+      "e) Subgingivale Instrumentierung bei Sondierungstiefen von 4 mm",
+      "mehr und Sondierungsbluten sowie an allen Stellen mit einer Sondie-",
+      "rungstiefe von 5 mm oder mehr, je einwurzeligem Zahn",
+      "f) Subgingivale Instrumentierung bei Sondierungstiefen von 4 mm",
+      "mehr und Sondierungsbluten sowie an allen Stellen mit einer Sondie-",
+      "rungstiefe von 5 mm oder mehr, je mehrwurzeligem Zahn",
+      "g) Untersuchung des Parodontalzustands, die hierzu notwendige",
+      "mentation des klinischen Befunds umfasst die Sondierungstiefen",
+      "die Sondierungsblutung, die Zahnlockerung, den Furkationsbefall,",
+      "den röntgenologischen Knochenabbau sowie die Angabe des",
+      "chenabbaus in Relation zum Patientenalter (%/Alter). Die erhobenen",
+      "Befunddaten werden mit den Befunddaten der Untersuchung",
+      "Nr. BEV oder nach Nr. UPT d verglichen. Dem Versicherten",
+      "die Ergebnisse erläutert und es wird mit ihm das weitere Vorgehen",
+      "besprochen.",
+      "1. Der UPT-Zeitraum beträgt zwei Jahre; in diesem Zeitraum sollen",
+      "Leistungen nach Nrn. UPT a, b, c, e und f regelmäßig erbracht",
+      "den. Der UPT-Zeitraum beginnt am Tag der Erbringung der",
+      "UPT-Leistung. Im UPT-Zeitraum richtet sich die Frequenz der",
+      "gung der in Satz 1 genannten UPT-Leistungen nach dem festgestell-",
+      "ten Grad der Parodontalerkrankung:",
+      "−",
+      "Grad A: bis zu zweimal mit einem Mindestabstand von",
+      "Monaten zur zuletzt erbrachten identischen UPT-Leistung,",
+      "−",
+      "Grad B: bis zu viermal mit einem Mindestabstand von",
+      "Monaten zur zuletzt erbrachten identischen UPT-Leistung,",
+      "−",
+      "Grad C: bis zu sechsmal mit einem Mindestabstand",
+      "drei Monaten zur zuletzt erbrachten identischen UPT-Leis-",
+      "tung.",
+      "2. Die Leistung nach Nr. UPT d kann bei festgestelltem Grad B",
+      "rodontalerkrankung zweimal erbracht werden, erstmals mit",
+      "Mindestabstand von fünf Monaten zur Erbringung der ersten",
+      "Leistung, danach mit einem Mindestabstand von fünf Monaten",
+      "weder zur zuletzt erbrachten Leistung nach Nr. UPT d oder",
+      "tung nach Nr. UPT g. Die UPT-Leistung nach Nr. UPT d",
+      "festgestelltem Grad C der Parodontalerkrankung viermal",
+      "werden, erstmals mit einem Mindestabstand von drei Monaten",
+      "Erbringung der ersten UPT-Leistung, danach mit einem Mindestab-",
+      "stand von drei Monaten entweder zur zuletzt erbrachten",
+      "nach Nr. UPT d oder zur Leistung nach Nr. UPT g. Die Leistung",
+      "Nr. UPT g kann mit einem Mindestabstand von zehn Monaten",
+      "Erbringung der ersten UPT-Leistung einmal erbracht werden;",
+      "Grad B mit einem Mindestabstand von fünf Monaten, bei Grad",
+      "einem Mindestabstand von drei Monaten zur zuletzt erbrachten",
+      "tung nach Nr. UPT d.",
+      "3. Die Leistungen nach Nrn. UPT a bis g können über den UPT-Zeit-",
+      "raum von zwei Jahren hinaus verlängert werden, soweit dies",
+      "medizinisch indiziert ist. Die Verlängerung darf in der Regel",
+      "Zeitraum von sechs Monaten nicht überschreiten. Im Verlänge-",
+      "rungszeitraum können die UPT-Leistungen unter Beachtung",
+      "Mindestabstände nach Ziffern 1 und 2 erbracht werden; die",
+      "abstände für die jeweils ersten im Verlängerungszeitraum",
+      "ten Leistungen beziehen sich dabei auf die innerhalb des UPT-Zeit-",
+      "raums zuletzt erbrachten identischen Leistungen.",
+      "4. Neben der Leistung nach Nr. UPT b kann eine Leistung nach",
+      "in derselben Sitzung nicht abgerechnet werden.",
+      "5. Mit der Leistung nach Nr. UPT c sind während oder unmittelbar",
+      "nach erbrachte Leistungen nach den Nrn. 105, 107 und 107",
+      "golten."
+    ],
+    "wert_kandidaten": [
+      "18",
+      "24",
+      "3",
+      "15",
+      "5",
+      "12",
+      "32"
+    ],
+    "seite": 64
+  },
+  {
+    "ziffer": "108",
+    "body_lines": [
+      "Einschleifen des natürlichen Gebisses zum Kauebenenausgleich",
+      "Entlastung, je Sitzung",
+      "Eine Leistung nach Nr. 108 kann nicht im Zusammenhang mit konservie-",
+      "renden, prothetischen und chirurgischen Leistungen abgerechnet",
+      "den."
+    ],
+    "wert_kandidaten": [
+      "6"
+    ],
+    "seite": 66
+  },
+  {
+    "ziffer": "111",
+    "body_lines": [
+      "Nachbehandlung im Rahmen der systematischen Behandlung von",
+      "dontopathien, je Sitzung",
+      "Leistungen nach Nrn. 38 und 105 können nicht neben Leistungen",
+      "Nr. 111 abgerechnet werden, soweit Maßnahmen in derselben",
+      "an derselben Stelle erfolgen.",
+      "Versorgung mit Zahnersatz und Zahnkronen",
+      "Teil nicht aufgeführte Leistungen können nach den anderen Teilen"
+    ],
+    "wert_kandidaten": [
+      "10"
+    ],
+    "seite": 66
+  },
+  {
+    "ziffer": "18",
+    "body_lines": [
+      "Vorbereiten eines endodontisch behandelten Zahnes zur Aufnahme",
+      "Krone, mit Verankerung im Wurzelkanal,",
+      "a) durch einen konfektionierten Stift- oder Schraubenaufbau,",
+      "b) durch einen gegossenen Stiftaufbau, zweizeitig",
+      "1. Eine Leistung nach Nr. 18 kann nur einmal je Zahn abgerechnet",
+      "den.",
+      "2. Neben einer Leistung nach Nr. 18 a kann eine Leistung nach",
+      "13 a oder b für das Vorbereiten eines zerstörten Zahnes",
+      "nahme einer Krone abgerechnet werden.",
+      "3. Eine Leistung nach Nr. 18 kann nur in Verbindung mit Leistungen",
+      "nach den Nrn. 20 und 91 abgerechnet werden. Ausnahmen",
+      "begründen.",
+      "4. Eine Leistung nach Nr. 18 kann, wenn die Voraussetzungen",
+      "sind, abgerechnet werden, auch wenn sie im Heil- und Kostenplan",
+      "in der Gebührenvorausberechnung nicht angegeben war."
+    ],
+    "wert_kandidaten": [
+      "80"
+    ],
+    "seite": 67
+  },
+  {
+    "ziffer": "19",
+    "body_lines": [
+      "Schutz eines beschliffenen Zahnes und Sicherung der Kaufunktion",
+      "eine provisorische Krone oder provisorischer Ersatz eines fehlenden",
+      "nes durch ein Brückenglied",
+      "1. Leistungen nach den Nrn. 19 und 21 können höchstens zweimal",
+      "Zahn abgerechnet werden. Im Heil- und Kostenplan können",
+      "der Gebührenvorausberechnung je Zahn nur einmal angesetzt",
+      "den.",
+      "2. Neben Leistungen nach den Nrn. 19 und 21 ist eine Leistung",
+      "Nr. 23 für das Entfernen des provisorischen Schutzes nicht",
+      "nungsfähig. Dies gilt nicht für das Entfernen eines provisorischen",
+      "Schutzes, der wie bei einer definitiven Versorgung fest einzementiert",
+      "werden musste.",
+      "3. Für die provisorische Versorgung nach den Nrn. 19 und 21 ist",
+      "sätzlich ein im direkten Verfahren hergestelltes Provisorium",
+      "chend.",
+      "4. Provisorische Versorgungen in den vom Gemeinsamen Bundesaus-",
+      "schuss festgelegten Ausnahmefällen sind nach der Nr. 19",
+      "nungsfähig und bei der Abrechnung als Nr. 19i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "19"
+    ],
+    "seite": 67
+  },
+  {
+    "ziffer": "20",
+    "body_lines": [
+      "Versorgung eines Einzelzahnes durch",
+      "a) eine metallische Vollkrone",
+      "b) eine vestibulär verblendete Verblendkrone",
+      "c) eine metallische Teilkrone",
+      "Mit einer Leistung nach Nr. 20 sind folgende Leistungen abgegolten:",
+      "paration, ggf. Farbbestimmung, Bissnahme, Abformung, Einprobe,",
+      "zementieren, Kontrolle und Adjustierung der statischen und dynamischen",
+      "Okklusion",
+      "1. Einzelkronen als Schutz- und Stützkronen sind nach Nr. 20",
+      "rechnen.",
+      "2. Einzelkronen auf Implantaten sind in den vom Gemeinsamen",
+      "desausschuss festgelegten Ausnahmefällen nach den Nrn.",
+      "b abrechnungsfähig und bei der Abrechnung mit i zu kennzeichnen.",
+      "3. Die Präparation einer Teilkrone erfordert die Überkupplung aller",
+      "cker eines Zahnes. Die Präparation einer Teilkrone ist überwiegend",
+      "supragingival und bedeckt die gesamte Kaufläche und somit",
+      "che Höcker."
+    ],
+    "wert_kandidaten": [
+      "148",
+      "158",
+      "187"
+    ],
+    "seite": 68
+  },
+  {
+    "ziffer": "21",
+    "body_lines": [
+      "Schutz eines beschliffenen Zahnes und Sicherung der Kaufunktion",
+      "eine provisorische Krone mit Stiftverankerung",
+      "1. Leistungen nach den Nrn. 19 und 21 können höchstens zweimal",
+      "Zahn abgerechnet werden. Im Heil- und Kostenplan können",
+      "der Gebührenvorausberechnung je Zahn nur einmal angesetzt",
+      "den.",
+      "2. Neben Leistungen nach den Nrn. 19 und 21 ist eine Leistung",
+      "Nr. 23 für das Entfernen des provisorischen Schutzes nicht",
+      "nungsfähig. Dies gilt nicht für das Entfernen eines provisorischen",
+      "Schutzes, der wie bei einer definitiven Versorgung fest einzementiert",
+      "werden musste.",
+      "3. Für die provisorische Versorgung nach den Nrn. 19 und 21 ist",
+      "sätzlich ein im direkten Verfahren hergestelltes Provisorium",
+      "chend."
+    ],
+    "wert_kandidaten": [
+      "28"
+    ],
+    "seite": 69
+  },
+  {
+    "ziffer": "22",
+    "body_lines": [
+      "Teilleistungen bei nicht vollendeten Leistungen nach den Nrn. 18",
+      "Präparation eines Zahnes: Halbe Bew.-Zahl",
+      "Nr. 20 oder",
+      "weitere Maßnahmen: Dreiviertel der Bew.-Zahl",
+      "nach",
+      "gegebenenfalls: Bew.-Zahl nach",
+      "Soweit der Zahnarzt erklären kann, warum es nicht zur Vollendung",
+      "vorgesehenen Leistungen gekommen ist, vermerkt er dies im",
+      "der Abrechnung."
+    ],
+    "wert_kandidaten": [],
+    "seite": 69
+  },
+  {
+    "ziffer": "24",
+    "body_lines": [
+      "Maßnahmen zur Wiederherstellung der Funktion von Kronen",
+      "a) Wiedereinsetzen einer Krone oder dergleichen",
+      "b) Erneuerung oder Wiedereinsetzen einer Facette, einer Verblend-",
+      "schale oder dergleichen",
+      "c) Abnahme und Wiederbefestigung einer provisorischen Krone",
+      "der Nr. 19 oder 21",
+      "1. Eine Leistung nach Nr. 24 c kann höchstens dreimal je Krone",
+      "rechnet werden. Im Heil- und Kostenplan kann sie in der Gebühren-",
+      "vorausberechnung nicht angesetzt werden.",
+      "2. Maßnahmen zur Wiederherstellung der Funktion von Einzelkronen",
+      "auf Implantaten sind in den vom Gemeinsamen Bundesausschuss",
+      "festgelegten Ausnahmefällen nach Nrn. 24 a, 24 b und 24 c",
+      "nungsfähig und bei der Abrechnung als Nr. 24 a i, 24 b i und",
+      "c i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "25",
+      "43",
+      "7"
+    ],
+    "seite": 69
+  },
+  {
+    "ziffer": "89",
+    "body_lines": [
+      "Beseitigung grober Artikulations- und Okklusionsstörungen vor Eingliede-",
+      "rung von Prothesen und Brücken",
+      "Eine Leistung nach Nr. 89 kann nur einmal je Heil- und Kostenplan",
+      "rechnet werden. Sie kann nicht für das Einschleifen zur Aufnahme",
+      "Halte- und Stützvorrichtungen abgerechnet werden. Sie kann auch",
+      "Leistungen nach den Nrn. 91 und 92 abgerechnet werden."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 70
+  },
+  {
+    "ziffer": "90",
+    "body_lines": [
+      "Versorgung eines Zahnes durch eine Wurzelstiftkappe mit Verankerung",
+      "im Wurzelkanal mit Kugelknopfanker",
+      "Mit einer Leistung nach der Nr. 90 sind folgende Leistungen abgegolten:",
+      "Präparation der Kavität, Abformung, Einprobe, Einzementieren.",
+      "Eine Leistung nach der Nr. 90 ist nur im Zusammenhang mit der",
+      "derung einer Cover-Denture-Prothese bei einem Restzahnbestand",
+      "bis zu drei Zähnen je Kiefer abrechnungsfähig."
+    ],
+    "wert_kandidaten": [
+      "154"
+    ],
+    "seite": 70
+  },
+  {
+    "ziffer": "91",
+    "body_lines": [
+      "Versorgung eines Lückengebisses durch eine Brücke, bei Verwendung",
+      "von Teleskopkronen im Zusammenhang mit einer herausnehmbaren",
+      "these, – je Pfeilerzahn –",
+      "a) Metallische Vollkrone",
+      "b) Vestibulär verblendete Verblendkrone",
+      "c) Metallische Teilkrone",
+      "d) Teleskop-/Konuskrone",
+      "e) Verwendung eines Geschiebes bei geteilten Brücken mit disparalle-",
+      "len Pfeilern zusätzlich zu den Nrn. 91 a bis c",
+      "1. Mit den Leistungen nach den Nrn. 91 und 92 sind folgende Leistun-",
+      "gen abgegolten: Präparation, ggf. Farbbestimmung, Bissnahme,",
+      "formung, Einprobe, Einzementieren, Kontrolle und Adjustierung",
+      "statischen und dynamischen Okklusion.",
+      "2. Gegossene Einlagefüllungen als Brückenanker sind nicht",
+      "nungsfähig.",
+      "3. Für die Erneuerung des Primär- oder Sekundärteils einer Teleskop-",
+      "oder Konuskrone ist bei Neuanfertigung oder Wiederherstellung",
+      "ner Prothese oder abnehmbaren Brücke die halbe Gebühr",
+      "Nr. 91 d abzurechnen."
+    ],
+    "wert_kandidaten": [
+      "118",
+      "128",
+      "136",
+      "190",
+      "43"
+    ],
+    "seite": 70
+  },
+  {
+    "ziffer": "92",
+    "body_lines": [
+      "Versorgung eines Lückengebisses durch eine Brücke je Spanne",
+      "Mit den Leistungen nach den Nrn. 91 und 92 sind folgende Leistungen",
+      "abgegolten: Präparation, ggf. Farbbestimmung, Bissnahme, Abformung,",
+      "Einprobe, Einzementieren, Kontrolle und Adjustierung der statischen",
+      "dynamischen Okklusion"
+    ],
+    "wert_kandidaten": [
+      "62"
+    ],
+    "seite": 71
+  },
+  {
+    "ziffer": "93a",
+    "body_lines": [
+      "Adhäsivbrücke mit Metallgerüst im Frontzahnbereich mit einem",
+      "einschließlich der Präparation von Retentionen an dem Pfeilerzahn,",
+      "formung, Farbbestimmung, Bissnahme, Einprobe und adhäsive",
+      "gung, Kontrolle und ggf. Korrekturen der Okklusion und Artikulation",
+      "Zwei Adhäsivbrücken mit Metallgerüst mit jeweils einem Flügel",
+      "satz von zwei nebeneinander fehlenden Schneidezähnen können",
+      "Versicherten abgerechnet werden, die das 14., aber noch nicht",
+      "21. Lebensjahr vollendet haben."
+    ],
+    "wert_kandidaten": [
+      "240"
+    ],
+    "seite": 71
+  },
+  {
+    "ziffer": "93b",
+    "body_lines": [
+      "Adhäsivbrücke mit Metallgerüst im Frontzahnbereich mit zwei",
+      "einschließlich der Präparation von Retentionen an den Pfeilerzähnen,",
+      "formung, Farbbestimmung, Bissnahme, Einprobe und adhäsive",
+      "gung, Kontrolle und ggf. Korrekturen der Okklusion und Artikulation",
+      "Eine Adhäsivbrücke mit Metallgerüst mit zwei Flügeln zum Ersatz",
+      "zwei nebeneinander fehlenden Schneidezähnen kann nur bei Versicher-",
+      "ten abgerechnet werden, die das 14., aber noch nicht das 21. Lebensjahr",
+      "vollendet haben."
+    ],
+    "wert_kandidaten": [
+      "335"
+    ],
+    "seite": 71
+  },
+  {
+    "ziffer": "94a",
+    "body_lines": [
+      "Teilleistungen nach den Nrn. 90 bis 92 bei nicht vollendeten Leistungen",
+      "Präparation eines Ankerzahnes (Brückenpfeilers): Halbe Bew.-Zahl",
+      "den Nrn. 90",
+      "Präparation eines Ankerzahnes (Brücken-",
+      "pfeilers) mit darüber hinausgehenden",
+      "Maßnahmen: Dreiviertel der Bew.-Zahl",
+      "nach den Nrn. 90",
+      "Sind nach der Funktionsprüfung der Brücken-",
+      "anker weitere Maßnahmen erfolgt: Dreiviertel der Bew.-Zahl",
+      "nach",
+      "Soweit der Zahnarzt erklären kann, warum es nicht zur Vollendung",
+      "vorgesehenen Leistungen gekommen ist, vermerkt er dies im Rahmen",
+      "der Abrechnung."
+    ],
+    "wert_kandidaten": [],
+    "seite": 72
+  },
+  {
+    "ziffer": "94b",
+    "body_lines": [
+      "Teilleistungen bei nicht vollendeten Leistungen nach den Nrn. 93a",
+      "93b",
+      "Präparation des Brückenpfeilers",
+      "nach Nr. 93a: Halbe Bew.-Zahl",
+      "nach der",
+      "Präparation des Brückenpfeilers",
+      "nach der Nr. 93a mit darüber",
+      "hinausgehenden Maßnahmen: Dreiviertel der Bew.-Zahl",
+      "nach der",
+      "Präparation der Brückenpfeiler",
+      "nach der Nr. 93b: Halbe Bew.-Zahl",
+      "nach der",
+      "Präparation der Brückenpfeiler",
+      "nach der Nr. 93b mit darüber",
+      "hinausgehenden Maßnahmen: Dreiviertel der Bew.-Zahl",
+      "nach der",
+      "Soweit der Zahnarzt erklären kann, warum es nicht zur Vollendung",
+      "vorgesehenen Leistungen gekommen ist, vermerkt er dies im Rahmen",
+      "der Abrechnung."
+    ],
+    "wert_kandidaten": [],
+    "seite": 72
+  },
+  {
+    "ziffer": "95",
+    "body_lines": [
+      "Maßnahmen zum Wiederherstellen der Funktion von Brücken und",
+      "sorischen Brücken",
+      "a) Wiedereinsetzen einer Brücke mit 2 Ankern",
+      "b) Wiedereinsetzen einer Brücke mit mehr als 2 Ankern",
+      "c) Erneuerung oder Wiedereinsetzen einer Facette, einer Verblend-",
+      "schale oder dergleichen",
+      "d) Abnahme und Wiedereinsetzen einer provisorischen Brücke",
+      "e) Wiedereingliederung einer einflügeligen Adhäsivbrücke",
+      "f) Wiedereingliederung einer zweiflügeligen Adhäsivbrücke",
+      "Eine Leistung nach der Nr. 95 d kann höchstens dreimal je Brücke",
+      "rechnet werden."
+    ],
+    "wert_kandidaten": [
+      "34",
+      "50",
+      "36",
+      "18",
+      "61",
+      "85"
+    ],
+    "seite": 73
+  },
+  {
+    "ziffer": "96",
+    "body_lines": [
+      "Versorgung eines Lückengebisses durch eine partielle Prothese",
+      "schließlich einfacher Haltevorrichtungen",
+      "a) zum Ersatz von 1 bis 4 fehlenden Zähnen",
+      "b) zum Ersatz von 5 bis 8 fehlenden Zähnen",
+      "c) zum Ersatz von mehr als 8 fehlenden Zähnen",
+      "Mit einer Leistung nach Nr. 96 sind folgende Leistungen abgegolten:",
+      "tomische Abformung (auch des Gegenkiefers), Bissnahme, Farbbestim-",
+      "mung, Einprobe, Eingliedern, Nachbehandlung.",
+      "1. Ein fehlender Weisheitszahn ist als zu ersetzender, fehlender",
+      "nur dann mitzuzählen, wenn sein Gebiet in die prothetische",
+      "gung einbezogen wird. Ist der Zahn 7 vorhanden, dann ist der",
+      "heitszahn nicht mitzuzählen.",
+      "2. Die definitive Versorgung mit einer rein schleimhautgetragenen",
+      "these bedarf einer besonderen Begründung.",
+      "96 - 100:",
+      "Abrechnung von zahnärztlichem Honorar bei Anwendung besonde-",
+      "ist nicht zulässig."
+    ],
+    "wert_kandidaten": [
+      "57",
+      "83",
+      "115"
+    ],
+    "seite": 73
+  },
+  {
+    "ziffer": "97a",
+    "body_lines": [
+      "Totale Prothese/Cover-Denture-Prothese im Oberkiefer",
+      "Mit einer Leistung nach der Nr. 97a sind folgende Leistungen abgegolten:",
+      "anatomische Abformung (auch des Gegenkiefers), Bissnahme,",
+      "stimmung, Einprobe, Eingliedern, Nachbehandlung.",
+      "Bei der Versorgung eines zahnlosen Kiefers durch eine implantatgetra-",
+      "gene Prothese in den vom Gemeinsamen Bundesausschuss festgeleg-",
+      "ten Ausnahmefällen sind die Nrn. 97a und 97b abrechnungsfähig",
+      "der Abrechnung als Nr. 97a i und 97b i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "250"
+    ],
+    "seite": 73
+  },
+  {
+    "ziffer": "97b",
+    "body_lines": [
+      "Totale Prothese/Cover-Denture-Prothese im Unterkiefer",
+      "Mit einer Leistung nach der Nr. 97b sind folgende Leistungen abgegolten:",
+      "anatomische Abformung (auch des Gegenkiefers), Bissnahme, Farbbe-",
+      "stimmung, Einprobe, Eingliedern, Nachbehandlung.",
+      "Bei der Versorgung eines zahnlosen Kiefers durch eine implantatgetra-",
+      "gene Prothese in den vom Gemeinsamen Bundesausschuss festgeleg-",
+      "ten Ausnahmefällen sind die Nrn. 97a und 97b abrechnungsfähig",
+      "der Abrechnung als Nr. 97a i und 97b i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "290"
+    ],
+    "seite": 74
+  },
+  {
+    "ziffer": "98a",
+    "body_lines": [
+      "Abformung mit individuellem oder individualisiertem Löffel, je Kiefer",
+      "1. Eine Leistung nach Nr. 98a kann abgerechnet werden, wenn",
+      "liche Löffel nicht ausreicht.",
+      "2. Eine Leistung nach Nr. 98a kann auch neben Kronen und Brücken,",
+      "nicht jedoch neben einer Einzelkrone (Nr. 20), gerechnet je",
+      "abgerechnet werden.",
+      "3. Eine Leistung nach Nr. 98a kann neben den Nrn. 98b oder",
+      "denselben Kiefer nur in den Fällen abgerechnet werden, in",
+      "für die prothetische Versorgung eines zahnarmen Kiefers",
+      "dem Funktionsabdruck für die Versorgung der noch stehenden",
+      "Zähne durch Kronen eine Abformung mit individuellem Löffel",
+      "nommen werden muss.",
+      "4. Wird ein individueller Löffel allein wegen der Verwendung bestimm-",
+      "ter Abformmaterialien angefertigt, ohne dass die Voraussetzungen",
+      "nach Nr. 1 der Abrechnungsbestimmungen zu Nr. 98a vorliegen,",
+      "können nur die Material- und Laboratoriumskosten abgerechnet",
+      "werden. In diesen Fällen ist auf der Material- und Laborkostenrech-",
+      "nung zu vermerken: ohne Nr. 98a."
+    ],
+    "wert_kandidaten": [
+      "29"
+    ],
+    "seite": 74
+  },
+  {
+    "ziffer": "98b",
+    "body_lines": [
+      "Funktionsabformung mit individuellem Löffel, Oberkiefer",
+      "1. Leistungen nach Nr. 98b sind bei zahnlosem Kiefer und",
+      "reduziertem Restgebiss – in der Regel bis zu drei Zähnen –",
+      "nungsfähig.",
+      "2. Bei der Versorgung eines zahnlosen Kiefers durch eine implantatge-",
+      "tragene totale Prothese in den vom Gemeinsamen Bundesaus-",
+      "schuss festgelegten Ausnahmefällen sind die Nrn. 98b und",
+      "rechnungsfähig und bei der Abrechnung als 98b i und 98c i",
+      "zeichnen."
+    ],
+    "wert_kandidaten": [
+      "57"
+    ],
+    "seite": 75
+  },
+  {
+    "ziffer": "98c",
+    "body_lines": [
+      "Funktionsabformung mit individuellem Löffel, Unterkiefer",
+      "1. Leistungen nach Nr. 98c sind bei zahnlosem Kiefer und",
+      "reduziertem Restgebiss – in der Regel bis zu drei Zähnen –",
+      "nungsfähig.",
+      "2. Bei der Versorgung eines zahnlosen Kiefers durch eine implantatge-",
+      "tragene totale Prothese in den vom Gemeinsamen Bundesaus-",
+      "schuss festgelegten Ausnahmefällen sind die Nrn. 98b und",
+      "rechnungsfähig und bei der Abrechnung als 98b i und 98c i",
+      "zeichnen."
+    ],
+    "wert_kandidaten": [
+      "76"
+    ],
+    "seite": 75
+  },
+  {
+    "ziffer": "98d",
+    "body_lines": [
+      "Intraorale Stützstiftregistrierung zur Feststellung der Zentrallage",
+      "1. Eine Leistung nach der Nr. 98d ist nur neben der Leistung",
+      "Nr. 97 (Totalprothese, Cover-Denture-Prothese) abrechnungsfähig,",
+      "auch auf implantatgestützten Totalprothesen im Ober- und",
+      "fer, wenn die Lagebeziehung von Unterkiefer zu Oberkiefer",
+      "facheren Methoden nicht reproduzierbar ermittelt werden kann.",
+      "2. Material- und Laboratoriumskosten sind gesondert abrechnungsfä-",
+      "hig.",
+      "3. Bei der Versorgung eines zahnlosen Kiefers durch eine implantatge-",
+      "tragene totale Prothese in den vom Gemeinsamen Bundesaus-",
+      "schuss festgelegten Ausnahmefällen ist die Nr. 98d abrechenbar",
+      "und bei der Abrechnung als Nr. 98d i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "23"
+    ],
+    "seite": 75
+  },
+  {
+    "ziffer": "98e",
+    "body_lines": [
+      "Verwendung einer Metallbasis in besonderen Ausnahmefällen,",
+      "Bewertungszahlen nach den Nrn. 97a oder b zusätzlich",
+      "1. Eine Leistung nach der Nr. 98e ist nur in begründeten Ausnahmefäl-",
+      "len (z. B. Torus palatinus und Exostosen) abrechnungsfähig.",
+      "nicht abrechnungsfähig für Verstärkungs- und Beschwerungseinla-",
+      "gen (z. B. aus Silber-Zinn).",
+      "2. Bei der Versorgung eines zahnlosen Kiefers durch eine implantatge-",
+      "tragene totale Prothese in den vom Gemeinsamen Bundesaus-",
+      "schuss festgelegten Ausnahmefällen gemäß § 56 Abs. 2 SGB",
+      "Verbindung mit der Zahnersatz-Richtlinie Nr. 36 ist die Nr. 98e",
+      "unter Nr. 1 genannten Fällen abrechenbar und bei der Abrechnung",
+      "als Nr. 98e i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "16"
+    ],
+    "seite": 76
+  },
+  {
+    "ziffer": "98f",
+    "body_lines": [
+      "Verwendung doppelarmiger Halte- oder einfacher Stützvorrichtungen",
+      "oder mehrarmiger gebogener Halte- und Stützvorrichtungen zu den",
+      "wertungszahlen nach Nr. 96",
+      "zusätzlich je Prothese, nur abrechnungsfähig bei Interimsversorgung",
+      "Die Verwendung von einarmigen Klammern ist in der Regel nicht indiziert.",
+      "Die Verwendung von Halte- und Stützvorrichtungen nach Nr. 98f",
+      "der Gebühr nach Nr. 98g abgegolten."
+    ],
+    "wert_kandidaten": [
+      "22"
+    ],
+    "seite": 76
+  },
+  {
+    "ziffer": "98g",
+    "body_lines": [
+      "Verwendung einer Metallbasis in Verbindung mit Halte- und Stützvorrich-",
+      "tungen – nicht bei Interimsprothesen –",
+      "Die Verwendung von einarmigen Klammern ist in der Regel nicht indiziert.",
+      "Die Verwendung von Halte- und Stützvorrichtungen nach Nr. 98f",
+      "der Gebühr nach Nr. 98g abgegolten."
+    ],
+    "wert_kandidaten": [
+      "44"
+    ],
+    "seite": 76
+  },
+  {
+    "ziffer": "98h",
+    "body_lines": [
+      "Verwendung von gegossenen Halte- und Stützvorrichtungen, zu den",
+      "wertungszahlen nach Nr. 96 oder Nr. 98g zusätzlich – nicht bei Interims-",
+      "prothesen –",
+      "h/1 bei Verwendung von einer Halte- und Stützvorrichtung",
+      "h/2 bei Verwendung von mindestens 2 Halte- und Stützvorrichtungen",
+      "1. Eine Leistung nach der Nr. 98h ist eine ergänzende Position",
+      "Leistung nach Nr. 96 und ist deshalb nur im Zusammenhang",
+      "ser Nummer abrechnungsfähig.",
+      "2. Eine Leistung nach der Nr. 98h kann je Kiefer nur einmal abgerech-",
+      "net werden."
+    ],
+    "wert_kandidaten": [
+      "29",
+      "50"
+    ],
+    "seite": 76
+  },
+  {
+    "ziffer": "99",
+    "body_lines": [
+      "Teilleistungen nach den Nrn. 96, 97 und 98 bei nicht vollendeten",
+      "gen:",
+      "a) Anatomischer Abdruck zur prothetischen Versorgung eines",
+      "b) Maßnahmen einschließlich der Ermittlung der Bissverhältnisse",
+      "Halbe Bew.-Zahl nach Nr. 96",
+      "c) Weitergehende Maßnahmen",
+      "Dreiviertel der Bew.-Zahl für die ges. Behandlung",
+      "1. Leistungen nach den Nrn. 98a, b und c sind voll abrechnungsfähig,",
+      "wenn die Abformung in ein Modell übertragen worden ist.",
+      "2. In den Fällen der Nr. 99 c sind die Leistungen nach den Nrn.",
+      "g und h vor der funktionsgerechten Eingliederung des Zahnersatzes",
+      "zu Dreiviertel ihrer Bewertungszahl abrechnungsfähig.",
+      "3. Ist bei Leistungen nach den Nrn. 98e, g und h noch keine",
+      "der Metallbasis erfolgt, ist die halbe Bewertungszahl dieser",
+      "mern berechenbar. Nach Einprobe der Metallbasis sind auch",
+      "ner eventuellen Bissnahme Dreiviertel der Bewertungszahl",
+      "nungsfähig.",
+      "4. Soweit der Zahnarzt erklären kann, warum es nicht zur Vollendung",
+      "der vorgesehenen Leistungen gekommen ist, vermerkt er",
+      "Rahmen der Abrechnung."
+    ],
+    "wert_kandidaten": [],
+    "seite": 77
+  },
+  {
+    "ziffer": "100",
+    "body_lines": [
+      "Maßnahmen zum Wiederherstellen der Funktion oder zur Erweiterung",
+      "ner abnehmbaren Prothese",
+      "a) kleinen Umfanges (ohne Abformung)",
+      "b) größeren Umfanges (mit Abformung)",
+      "c) Teilunterfütterung einer Prothese",
+      "d) Vollständige Unterfütterung einer Prothese im indirekten Verfahren",
+      "e) Vollständige Unterfütterung einer Prothese im indirekten Verfahren",
+      "einschließlich funktioneller Randgestaltung im Oberkiefer",
+      "f) Vollständige Unterfütterung einer Prothese im indirekten Verfahren",
+      "einschließlich funktioneller Randgestaltung im Unterkiefer",
+      "Neben Leistungen nach Nr. 100 sind Leistungen nach Nr. 98a, b",
+      "nicht abrechnungsfähig.",
+      "Leistungen nach Nr. 98f oder h sind neben Leistungen nach der",
+      "abrechnungsfähig, wenn eine Prothese um eine entsprechende",
+      "oder Stützvorrichtung erweitert wird oder beim Ersatz einer Halte-",
+      "Stützvorrichtung eine Neuplanung erforderlich ist.",
+      "Das Wiederbefestigen einer Halte- oder Stützvorrichtung kann nicht",
+      "Nr. 98f oder h abgerechnet werden.",
+      "Durch Leistungen nach der Nr. 100 sind Nachbehandlungen abgegolten.",
+      "Maßnahmen zur Wiederherstellung von Wurzelstiftkappen sind",
+      "Nr. 100 b abrechnungsfähig.",
+      "Leistungen nach Nrn. 100 a und b können mehrfach oder nebeneinander",
+      "nur abgerechnet werden, wenn die Wiederherstellung der Funktion",
+      "die Erweiterung von abnehmbaren Prothesen nicht in einer",
+      "durchführbar ist. Das Gleiche gilt, wenn Leistungen nach Nr. 100",
+      "b neben Leistungen nach Nrn. 100 c bis f erbracht werden.",
+      "1. Für das Reinigen, Säubern und Polieren von Prothesen können",
+      "Krankenkassen keine Kosten berechnet werden.",
+      "2. Leistungen nach Nrn. 100 e und f sind bei zahnlosem Kiefer",
+      "stark reduziertem Restgebiss – in der Regel bis zu drei Zähnen",
+      "abrechnungsfähig.",
+      "3. Das Auffüllen eines Sekundärteleskops mit Kunststoffmassen",
+      "ner Prothesenerweiterung ohne weitergehende Maßnahme ist",
+      "Nr. 100 a abrechnungsfähig.",
+      "4. Maßnahmen zur Wiederherstellung der Funktion oder zur Erweite-",
+      "rung einer implantatgetragenen totalen Prothese sind in den",
+      "Gemeinsamen Bundesausschuss festgelegten Ausnahmefällen",
+      "nach den Nrn. 100 a bis f abrechnungsfähig und bei der Abrechnung",
+      "als Nrn. 100 a i bis 100 f i zu kennzeichnen."
+    ],
+    "wert_kandidaten": [
+      "30",
+      "50",
+      "44",
+      "55",
+      "81",
+      "81"
+    ],
+    "seite": 77
+  }
+]
