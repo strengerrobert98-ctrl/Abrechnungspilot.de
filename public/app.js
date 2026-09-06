@@ -793,7 +793,7 @@ const FACHGEBIET_KATEGORIEN = [
   {
     aliasWoerter: ['paro', 'parodontologie', 'parodontose', 'parodontitis', 'parodontopathien'],
     gozAbschnitt: 'E',
-    bema: ['04', '4', 'mhu', 'aita', 'aitb', 'beva', 'bevb', 'cpta', 'cptb', 'upta', 'uptb', 'uptc', 'uptd', 'upte', 'uptf', 'uptg', '111']
+    bema: ['04', '4', 'atg', 'mhu', 'aita', 'aitb', 'beva', 'bevb', 'cpta', 'cptb', 'upta', 'uptb', 'uptc', 'uptd', 'upte', 'uptf', 'uptg', '111']
   },
   {
     aliasWoerter: ['chirurgie', 'chirurgisch'],

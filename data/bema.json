@@ -2417,7 +2417,14 @@
     },
     {
       "ziffer": "4",
-      "leistungstext": "Befunderhebung und Erstellen eines Parodontalstatus Parodontologisches Aufklärungs- und Therapiegespräch",
+      "leistungstext": "Befunderhebung und Erstellen eines Parodontalstatus",
+      "anmerkungen": [],
+      "bewertungszahl": 44,
+      "seite": 61
+    },
+    {
+      "ziffer": "ATG",
+      "leistungstext": "Parodontologisches Aufklärungs- und Therapiegespräch",
       "anmerkungen": [
         "1. Das Parodontologische Aufklärungs- und Therapiegespräch umfasst",
         "die Information des Versicherten über den Befund und die Diagnose,",
@@ -2427,7 +2434,7 @@
         "2. Neben der Leistung nach Nr. ATG kann eine Leistung nach Nr. Ä1 in",
         "derselben Sitzung nicht abgerechnet werden."
       ],
-      "bewertungszahl": 44,
+      "bewertungszahl": 28,
       "seite": 61
     },
     {
