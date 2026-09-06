@@ -588,6 +588,15 @@ button#submit-btn:disabled {
   color: var(--primary);
 }
 
+.rechtstext ul {
+  margin: 0 0 0.8rem;
+  padding-left: 1.3rem;
+}
+
+.rechtstext li {
+  margin-bottom: 0.3rem;
+}
+
 .eingabe-tabs {
   display: flex;
   gap: 0.4rem;
