@@ -514,6 +514,7 @@ async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege
     return ersteVorschlaege;
   }
 
+  console.time('[timing] Pass 2 (Regelprüfung)');
   const message = await anthropic.messages.create({
     model: MODEL,
     max_tokens: 3000,
@@ -528,6 +529,7 @@ async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege
     ],
     messages: [{ role: 'user', content: buildPruefPrompt(beschreibung, ersteVorschlaege) }]
   });
+  console.timeEnd('[timing] Pass 2 (Regelprüfung)');
 
   const textBlock = message.content.find((block) => block.type === 'text');
   return extractJson(textBlock?.text || '');
@@ -755,6 +757,7 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
       return res.status(400).json({ error: 'Ungültiger Modus.' });
     }
 
+    console.time('[timing] Pass 1 (Vorschläge)');
     const message = await anthropic.messages.create({
       model: MODEL,
       max_tokens: 4096,
@@ -769,6 +772,7 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
       ],
       messages: [{ role: 'user', content: buildUserPrompt(beschreibung.trim(), modus) }]
     });
+    console.timeEnd('[timing] Pass 1 (Vorschläge)');
 
     const textBlock = message.content.find((block) => block.type === 'text');
     const ersteVorschlaege = extractJson(textBlock?.text || '');

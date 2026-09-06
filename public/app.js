@@ -25,9 +25,17 @@ form.addEventListener('submit', async (event) => {
   submitBtn.disabled = false;
 });
 
+const LADE_STATUS_SCHRITTE = [
+  { verzoegerung: 0, text: 'Passende Ziffern werden ermittelt …' },
+  { verzoegerung: 14000, text: 'Vorschläge werden gegen offizielle Abrechnungsregeln geprüft …' },
+  { verzoegerung: 30000, text: 'Fast fertig, letzte Prüfung läuft …' }
+];
+
 async function holeVorschlaege(beschreibung, modus) {
-  setStatus('Claude denkt nach …', false);
   ergebnisSection.hidden = true;
+  const ladeTimeouts = LADE_STATUS_SCHRITTE.map((schritt) =>
+    setTimeout(() => setStatus(schritt.text, false), schritt.verzoegerung)
+  );
 
   try {
     const response = await fetch('/api/vorschlaege', {
@@ -46,6 +54,8 @@ async function holeVorschlaege(beschreibung, modus) {
     statusBox.hidden = true;
   } catch (err) {
     setStatus(`Fehler: ${err.message}`, true);
+  } finally {
+    ladeTimeouts.forEach(clearTimeout);
   }
 }
 
