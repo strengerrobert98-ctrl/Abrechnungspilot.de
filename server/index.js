@@ -161,8 +161,19 @@ const BEL2_NACH_NR = new Map(bel2Daten.leistungen.map((l) => [l.nr, l]));
 // Gemeinsamer Referenzblock für GOZ/BEMA/GOÄ, byte-identisch in allen drei KI-Aufrufen
 // (Vorschläge, Regelprüfung, Chat) verwendet, damit sie sich einen einzigen Prompt-Cache-Eintrag
 // teilen können, statt ihn jeweils separat (und damit mehrfach kostenpflichtig) neu zu schreiben.
+// Voller Kern-Referenzblock (für Chat, das keinen Abrechnungsmodus kennt, und als "beide"-Variante).
 const KERN_REFERENZ = `${GOZ_REFERENZ}\n\n${BEMA_REFERENZ}\n\n${GOAE_REFERENZ}`;
 const ERWEITERTE_REFERENZ = `${FESTZUSCHUSS_REFERENZ}\n\n${BEL2_REFERENZ}\n\n${WEGEGELD_REFERENZ}`;
+
+// Bei "nur goz"/"nur bema" wird die jeweils irrelevante Ziffern-Liste weggelassen (GOZ/BEMA sind
+// getrennte Abrechnungssysteme, die App gibt bei diesen Modi ohnehin ausschließlich Ziffern des
+// gewählten Systems aus) – spart Cache-Schreib-/Lesekosten, ohne dass der KI Informationen fehlen,
+// die sie laut Anweisung ("Nutze dafür ausschließlich die Referenzliste") überhaupt nutzen soll.
+function baueKernReferenzFuerModus(modus) {
+  if (modus === 'goz') return `${GOZ_REFERENZ}\n\n${GOAE_REFERENZ}`;
+  if (modus === 'bema') return BEMA_REFERENZ;
+  return KERN_REFERENZ;
+}
 
 function korrigiereHinweise(hinweise) {
   if (!Array.isArray(hinweise)) return [];
@@ -515,7 +526,7 @@ ${anmerkungenBloecke}
 Prüfe die Vorschläge gegen diese Bestimmungen und gib das ggf. angepasste JSON zurück.`;
 }
 
-async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege) {
+async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege, modus) {
   if (!ersteVorschlaege.vorschlaege || ersteVorschlaege.vorschlaege.length === 0) {
     return ersteVorschlaege;
   }
@@ -526,7 +537,7 @@ async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege
     max_tokens: 3000,
     output_config: { effort: 'low' },
     system: [
-      { type: 'text', text: KERN_REFERENZ, cache_control: { type: 'ephemeral' } },
+      { type: 'text', text: baueKernReferenzFuerModus(modus), cache_control: { type: 'ephemeral' } },
       { type: 'text', text: PRUEF_SYSTEM_ANWEISUNG, cache_control: { type: 'ephemeral' } }
     ],
     messages: [{ role: 'user', content: buildPruefPrompt(beschreibung, ersteVorschlaege) }]
@@ -779,7 +790,7 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
       max_tokens: 4096,
       output_config: { effort: 'low' },
       system: [
-        { type: 'text', text: KERN_REFERENZ, cache_control: { type: 'ephemeral' } },
+        { type: 'text', text: baueKernReferenzFuerModus(modus), cache_control: { type: 'ephemeral' } },
         { type: 'text', text: ERWEITERTE_REFERENZ, cache_control: { type: 'ephemeral' } },
         { type: 'text', text: SYSTEM_ANWEISUNG, cache_control: { type: 'ephemeral' } }
       ],
@@ -798,7 +809,7 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
     let result = ersteVorschlaege;
     let regelnGeprueft = false;
     try {
-      result = await pruefeGegenAbrechnungsbestimmungen(beschreibung.trim(), ersteVorschlaege);
+      result = await pruefeGegenAbrechnungsbestimmungen(beschreibung.trim(), ersteVorschlaege, modus);
       regelnGeprueft = true;
     } catch (pruefFehler) {
       console.error('Regelprüfung fehlgeschlagen, gebe ungeprüfte Vorschläge zurück:', pruefFehler);
