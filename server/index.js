@@ -158,6 +158,12 @@ Reiseentschädigung ab mehr als 25 km statt Wegegeld: ${formatEuroDE(re.km_pausc
 const WEGEGELD_REFERENZ = baueWegegeldReferenz(wegegeldDaten);
 const BEL2_NACH_NR = new Map(bel2Daten.leistungen.map((l) => [l.nr, l]));
 
+// Gemeinsamer Referenzblock für GOZ/BEMA/GOÄ, byte-identisch in allen drei KI-Aufrufen
+// (Vorschläge, Regelprüfung, Chat) verwendet, damit sie sich einen einzigen Prompt-Cache-Eintrag
+// teilen können, statt ihn jeweils separat (und damit mehrfach kostenpflichtig) neu zu schreiben.
+const KERN_REFERENZ = `${GOZ_REFERENZ}\n\n${BEMA_REFERENZ}\n\n${GOAE_REFERENZ}`;
+const ERWEITERTE_REFERENZ = `${FESTZUSCHUSS_REFERENZ}\n\n${BEL2_REFERENZ}\n\n${WEGEGELD_REFERENZ}`;
+
 function korrigiereHinweise(hinweise) {
   if (!Array.isArray(hinweise)) return [];
   return hinweise
@@ -520,12 +526,8 @@ async function pruefeGegenAbrechnungsbestimmungen(beschreibung, ersteVorschlaege
     max_tokens: 3000,
     output_config: { effort: 'low' },
     system: [
-      { type: 'text', text: PRUEF_SYSTEM_ANWEISUNG },
-      {
-        type: 'text',
-        text: `${GOZ_REFERENZ}\n\n${BEMA_REFERENZ}\n\n${GOAE_REFERENZ}`,
-        cache_control: { type: 'ephemeral' }
-      }
+      { type: 'text', text: KERN_REFERENZ, cache_control: { type: 'ephemeral' } },
+      { type: 'text', text: PRUEF_SYSTEM_ANWEISUNG, cache_control: { type: 'ephemeral' } }
     ],
     messages: [{ role: 'user', content: buildPruefPrompt(beschreibung, ersteVorschlaege) }]
   });
@@ -705,12 +707,9 @@ app.post('/api/chat', kiRateLimiter, async (req, res) => {
 
     const erwaehnteZiffernBlock = buildErwaehnteZiffernBlock(bereinigt);
     const systemBloecke = [
-      { type: 'text', text: FRAGE_SYSTEM_ANWEISUNG },
-      {
-        type: 'text',
-        text: `${GOZ_REFERENZ}\n\n${BEMA_REFERENZ}\n\n${GOAE_REFERENZ}\n\n${FESTZUSCHUSS_REFERENZ}\n\n${BEL2_REFERENZ}\n\n${WEGEGELD_REFERENZ}`,
-        cache_control: { type: 'ephemeral' }
-      },
+      { type: 'text', text: KERN_REFERENZ, cache_control: { type: 'ephemeral' } },
+      { type: 'text', text: ERWEITERTE_REFERENZ, cache_control: { type: 'ephemeral' } },
+      { type: 'text', text: FRAGE_SYSTEM_ANWEISUNG, cache_control: { type: 'ephemeral' } },
       { type: 'text', text: erwaehnteZiffernBlock }
     ];
     if (kontext && kontext.trim()) {
@@ -780,12 +779,9 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
       max_tokens: 4096,
       output_config: { effort: 'low' },
       system: [
-        { type: 'text', text: SYSTEM_ANWEISUNG },
-        {
-          type: 'text',
-          text: `${GOZ_REFERENZ}\n\n${BEMA_REFERENZ}\n\n${GOAE_REFERENZ}\n\n${FESTZUSCHUSS_REFERENZ}\n\n${BEL2_REFERENZ}\n\n${WEGEGELD_REFERENZ}`,
-          cache_control: { type: 'ephemeral' }
-        }
+        { type: 'text', text: KERN_REFERENZ, cache_control: { type: 'ephemeral' } },
+        { type: 'text', text: ERWEITERTE_REFERENZ, cache_control: { type: 'ephemeral' } },
+        { type: 'text', text: SYSTEM_ANWEISUNG, cache_control: { type: 'ephemeral' } }
       ],
       messages: [{ role: 'user', content: buildUserPrompt(beschreibung.trim(), modus) }]
     });
