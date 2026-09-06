@@ -684,7 +684,8 @@ async function ladeDatenbank() {
       typ: 'GOZ',
       text: z.leistungstext,
       punkte: z.punktzahl,
-      anmerkungen: z.anmerkungen || []
+      anmerkungen: z.anmerkungen || [],
+      abschnitt: z.abschnitt
     })),
     ...data.bema.map((z) => ({
       ziffer: z.ziffer,
@@ -777,6 +778,90 @@ function findeAliasGruppe(begriff) {
   return SUCH_ALIASE.find((gruppe) => gruppe.some((wort) => wort.startsWith(begriff) || begriff.startsWith(wort)));
 }
 
+// Fachgebiets-Kategorien: Suche nach einem Oberbegriff (z. B. "Endo", "Paro", "Chirurgie")
+// zeigt ALLE zugehörigen Ziffern an, auch wenn der Suchbegriff selbst gar nicht im
+// Leistungstext vorkommt (z. B. "Trepanation eines Zahnes" enthält nirgends das Wort "Endo").
+// "gozAbschnitt" nutzt die offizielle GOZ-Gliederung (A-K) aus den Ziffern-Stammdaten, dort wo
+// ein ganzer Abschnitt einem Fachgebiet entspricht. Bei "goz"/"bema"/"goae" werden einzelne
+// Ziffern händisch gelistet (z. B. weil ein GOZ-Abschnitt mehrere Fachgebiete mischt).
+const FACHGEBIET_KATEGORIEN = [
+  {
+    aliasWoerter: ['endo', 'endodontie', 'wurzelkanalbehandlung', 'wurzelkanalfüllung', 'wurzelbehandlung', 'wkb'],
+    goz: ['2330', '2340', '2350', '2360', '2380', '2390', '2400', '2410', '2420', '2430', '2440'],
+    bema: ['25', '26', '27', '28', '29', '31', '32', '34', '35']
+  },
+  {
+    aliasWoerter: ['paro', 'parodontologie', 'parodontose', 'parodontitis', 'parodontopathien'],
+    gozAbschnitt: 'E',
+    bema: ['04', '4', 'mhu', 'aita', 'aitb', 'beva', 'bevb', 'cpta', 'cptb', 'upta', 'uptb', 'uptc', 'uptd', 'upte', 'uptf', 'uptg', '111']
+  },
+  {
+    aliasWoerter: ['chirurgie', 'chirurgisch'],
+    gozAbschnitt: 'D',
+    bema: [
+      '36', '37', '38', '40', '41a', '41b', '43', '44', '45', '46', '47a', '47b', '48', '49', '50',
+      '51a', '51b', '52', '53', '54a', '54b', '54c', '55', '56a', '56b', '56c', '56d', '57', '58', '59', '60', '61', '62', '63'
+    ]
+  },
+  {
+    aliasWoerter: ['prothetik', 'zahnersatz'],
+    gozAbschnitt: 'F',
+    bema: [
+      '2', '7a', '7b', '14', '16', '18a', '18b', '19', '20a', '20b', '20c', '21', '22', '23', '24a', '24b', '24c',
+      '89', '90', '91a', '91b', '91c', '91d', '91e', '92', '93a', '93b', '94a', '95a', '95b', '95c', '95d', '95e', '95f',
+      '96a', '96b', '96c', '97a', '97b', '98a', '98b', '98c', '98d', '98e', '98f', '98g', '98h', '99a', '99b',
+      '100a', '100b', '100c', '100d', '100e', '100f', '101a', '101b', '102', '103a', '103b', '103c', '104a', '104b'
+    ]
+  },
+  {
+    aliasWoerter: ['kfo', 'kieferorthopädie', 'zahnspange'],
+    gozAbschnitt: 'G',
+    bema: [
+      '01k', '5', '116', '117', '118', '119a', '119b', '119c', '119d', '120a', '120b', '120c', '120d', '121',
+      '122a', '122b', '122c', '123a', '123b', '124', '125', '126a', '126b', '126c', '126d', '127a', '127b',
+      '128a', '128b', '128c', '129', '130', '131a', '131b', '131c'
+    ]
+  },
+  {
+    aliasWoerter: ['schiene', 'aufbissschiene', 'knirscherschiene', 'aufbissbehelf'],
+    gozAbschnitt: 'H',
+    bema: ['k1', 'k2', 'k3', 'k4', 'k6', 'k7', 'k8', 'k9', 'up1', 'up2', 'up3', 'up4', 'up5a', 'up5b', 'up5c', 'up6a', 'up6b', 'up6c', 'up6d', 'up6e']
+  },
+  {
+    aliasWoerter: ['prophylaxe', 'pzr', 'individualprophylaxe', 'vorsorge'],
+    gozAbschnitt: 'B',
+    bema: ['04', '05', '10', 'ip1', 'ip2', 'ip4', 'ip5', 'fu1', 'fu2', 'fla', 'pba', 'pbb', '174', '105', '106', '107', '107a', '108']
+  },
+  {
+    aliasWoerter: ['röntgen', 'röntgenaufnahme', 'röntgenbild'],
+    goae: ['5000', '5002', '5004'],
+    bema: ['ä925a', 'ä925b', 'ä925c', 'ä928', 'ä934a', 'ä934b', 'ä934c', 'ä935a', 'ä935b', 'ä935c', 'ä935d']
+  },
+  {
+    aliasWoerter: ['implantologie', 'implantat', 'implantate'],
+    gozAbschnitt: 'K'
+  },
+  {
+    aliasWoerter: ['funktionsanalyse', 'funktionstherapie'],
+    gozAbschnitt: 'J'
+  }
+];
+
+function findeKategorie(begriff) {
+  if (!begriff) return null;
+  return FACHGEBIET_KATEGORIEN.find((kat) => kat.aliasWoerter.some((wort) => wort.startsWith(begriff) || begriff.startsWith(wort)));
+}
+
+function eintragGehoertZuKategorie(eintrag, kategorie) {
+  if (!kategorie) return false;
+  const ziffer = eintrag.ziffer.toLowerCase();
+  if (kategorie.gozAbschnitt && eintrag.typ === 'GOZ' && eintrag.abschnitt === kategorie.gozAbschnitt) return true;
+  if (kategorie.goz && eintrag.typ === 'GOZ' && kategorie.goz.includes(ziffer)) return true;
+  if (kategorie.bema && eintrag.typ === 'BEMA' && kategorie.bema.includes(ziffer)) return true;
+  if (kategorie.goae && eintrag.typ === 'GOÄ' && kategorie.goae.includes(ziffer)) return true;
+  return false;
+}
+
 function textPasstUngefaehr(begriff, text) {
   if (text.includes(begriff)) return true;
   if (begriff.length < 5) return false;
@@ -798,11 +883,13 @@ function fuehreSucheAus() {
   const modus = getModus();
   const sucheStatus = document.getElementById('suche-status');
   const aliasGruppe = findeAliasGruppe(begriff);
+  const kategorie = findeKategorie(begriff);
 
   let treffer = datenbank.filter((e) => {
     if (modus === 'goz' && e.typ === 'BEMA') return false;
     if (modus === 'bema' && (e.typ === 'GOZ' || e.typ === 'GOÄ')) return false;
     if (!begriff) return true;
+    if (eintragGehoertZuKategorie(e, kategorie)) return true;
     const text = e.text.toLowerCase();
     if (e.ziffer.toLowerCase().includes(begriff) || textPasstUngefaehr(begriff, text)) return true;
     return aliasGruppe ? aliasGruppe.some((wort) => textPasstUngefaehr(wort, text)) : false;
