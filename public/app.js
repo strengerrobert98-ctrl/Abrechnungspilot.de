@@ -752,6 +752,31 @@ function levenshteinDistanz(a, b) {
   return dp[a.length][b.length];
 }
 
+// Gruppen von Begriffen, die dasselbe meinen, aber im offiziellen Leistungstext oft anders
+// formuliert sind (z. B. "Zahnstein" vs. "harte Zahnbeläge"). Sucht der Nutzer nach einem Wort
+// aus einer Gruppe, wird die Trefferliste zusätzlich nach allen anderen Wörtern der Gruppe
+// durchsucht. Neue Fälle können hier einfach als weitere Zeile ergänzt werden.
+const SUCH_ALIASE = [
+  ['zahnstein', 'zahnbelag', 'zahnbeläge', 'beläge'],
+  ['plombe', 'füllung'],
+  ['zahnfleischentzündung', 'gingivitis'],
+  ['parodontose', 'parodontitis', 'parodontopathien'],
+  ['wurzelbehandlung', 'wurzelkanalbehandlung', 'endodontie', 'wkb'],
+  ['zahnreinigung', 'pzr', 'zahnsteinentfernung'],
+  ['röntgenbild', 'röntgenaufnahme', 'röntgen'],
+  ['betäubung', 'anästhesie', 'narkose'],
+  ['weisheitszahn', 'weisheitszähne', 'achter'],
+  ['knirscherschiene', 'aufbissschiene', 'aufbissbehelf', 'schiene'],
+  ['zahnfleischbluten', 'zahnfleischentzündung', 'gingivitis'],
+  ['zahnersatz', 'prothetik'],
+  ['spange', 'zahnspange', 'kieferorthopädie', 'kfo']
+];
+
+function findeAliasGruppe(begriff) {
+  if (!begriff) return null;
+  return SUCH_ALIASE.find((gruppe) => gruppe.some((wort) => wort.startsWith(begriff) || begriff.startsWith(wort)));
+}
+
 function textPasstUngefaehr(begriff, text) {
   if (text.includes(begriff)) return true;
   if (begriff.length < 5) return false;
@@ -772,12 +797,15 @@ function fuehreSucheAus() {
   const begriff = sucheEingabe.value.trim().toLowerCase();
   const modus = getModus();
   const sucheStatus = document.getElementById('suche-status');
+  const aliasGruppe = findeAliasGruppe(begriff);
 
   let treffer = datenbank.filter((e) => {
     if (modus === 'goz' && e.typ === 'BEMA') return false;
     if (modus === 'bema' && (e.typ === 'GOZ' || e.typ === 'GOÄ')) return false;
     if (!begriff) return true;
-    return e.ziffer.toLowerCase().includes(begriff) || textPasstUngefaehr(begriff, e.text.toLowerCase());
+    const text = e.text.toLowerCase();
+    if (e.ziffer.toLowerCase().includes(begriff) || textPasstUngefaehr(begriff, text)) return true;
+    return aliasGruppe ? aliasGruppe.some((wort) => textPasstUngefaehr(wort, text)) : false;
   });
 
   const gesamtTreffer = treffer.length;
