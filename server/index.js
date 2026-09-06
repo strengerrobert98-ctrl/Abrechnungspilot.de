@@ -743,6 +743,17 @@ app.get('/api/datenbank', (req, res) => {
   });
 });
 
+// Merkt sich fertige, bereits KI-geprüfte Ergebnisse für exakt wiederkehrende Behandlungsbeschreibungen
+// (z. B. "Kontrolluntersuchung" oder häufige Kombinationen aus dem geführten Wizard). Bei einem Treffer
+// entfällt der komplette (teure) KI-Aufruf. Lebt nur, solange dieser Server-Prozess läuft (kein
+// persistenter Speicher auf Render Free) – reduziert aber Kosten/Latenz für den laufenden Betrieb spürbar.
+const vorschlaegeCache = new Map();
+const MAX_CACHE_EINTRAEGE = 500;
+
+function baueCacheSchluessel(beschreibung, modus) {
+  return `${modus}::${beschreibung.trim().toLowerCase()}`;
+}
+
 app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
   try {
     const { beschreibung, modus } = req.body;
@@ -755,6 +766,12 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
     }
     if (!['goz', 'bema', 'beide'].includes(modus)) {
       return res.status(400).json({ error: 'Ungültiger Modus.' });
+    }
+
+    const cacheSchluessel = baueCacheSchluessel(beschreibung, modus);
+    const gecacht = vorschlaegeCache.get(cacheSchluessel);
+    if (gecacht) {
+      return res.json({ ...gecacht, _ausCache: true });
     }
 
     console.time('[timing] Pass 1 (Vorschläge)');
@@ -798,7 +815,16 @@ app.post('/api/vorschlaege', kiRateLimiter, async (req, res) => {
     result.hinweise = korrigiereHinweise(result.hinweise);
     result = berechneGesamtpunktzahl(result);
 
-    res.json({ ...result, _regelnGeprueft: regelnGeprueft });
+    const antwort = { ...result, _regelnGeprueft: regelnGeprueft };
+
+    if (regelnGeprueft) {
+      if (vorschlaegeCache.size >= MAX_CACHE_EINTRAEGE) {
+        vorschlaegeCache.delete(vorschlaegeCache.keys().next().value);
+      }
+      vorschlaegeCache.set(cacheSchluessel, antwort);
+    }
+
+    res.json(antwort);
   } catch (err) {
     sendeApiFehler(res, err, '/api/vorschlaege');
   }
